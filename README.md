@@ -98,6 +98,10 @@ Unfortunately, modern/official science absolutely fails to understand this.
 
 As a consequence of the misunderstanding, for now, all scientists (all existing science textbooks) have the absolutely wrong concept of Work and hence have the absolutely wrong concept of Energy. As a result, all the existing formulas for calculating Work (W) and Energy (E), including these basic formulas,
 
+<p align="center">
+  <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/3.png"/>
+</p>
+
 are absolutely wrong.
 
 The Joule, in its turn, is the absolutely wrong unit of measure for Work and Energy.
