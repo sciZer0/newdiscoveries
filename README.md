@@ -33,7 +33,7 @@ Thanks to these discoveries, at best<br>
 
 ## THIS IS EASY TO UNDERSTAND
 
-This article explaining the discoveries was written in such a way as to be understandable to everyone. So you are fully able to easily understand everything, EVEN IF you have no scientific background.
+This article explaining the discoveries was written in such a way as to be understandable to everyone. So you are fully able to easily understand everything, even if you have no scientific background.
 
 In particular, if you know the multiplication table and can understand these simple mathematical examples:
 
