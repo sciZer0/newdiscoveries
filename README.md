@@ -50,18 +50,6 @@ English is my second language, and I started learning it when I was 39, and made
 
 ## ABOUT THE DISCOVERIES IN BRIEF
 
-![image info](./table.png)
-
-| Syntax      | Description | Syntax      | Description | Syntax      | Description | Syntax      | Description | 
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Header      | Title       | Header      | Title       | Header      | Title       | Header      | Title       |
-
-
-
-
-
-
-
 Some time ago, I made scientific discoveries about Force, Work and Energy that cardinally change/improve our understanding the Universe.
 
 Since Energy, as THE source for every event in the Universe, is the main concept in the chief sciences, these discoveries, as said above, directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
@@ -70,19 +58,21 @@ Importantly, at the start of the process, I also discovered the existence of the
 
 Remarkably, the discoveries are fully based on well-known experiments and well-known Newton’s discoveries (1st, 2nd and 3rd Newton’s Laws) which, ATTENTION, were and still are not fully understood by people.
 
-BRIEF INTRODUCTION
+## BRIEF INTRODUCTION
 
-This Brief Introduction is mostly for experts, so if you are a normal person you might just skip this part
+<i>This Brief Introduction is mostly for experts, so if you are a normal person you might just skip this part</i>
 
-In order for you to get an idea of how big the whole wrongness of modern/official  science is, here is a description of just some of the fundamental mistakes that I discovered.
+In order for you to get an idea of how big the whole wrongness of modern/official science is, here is a description of just 2 of the fundamental mistakes that I discovered.
 
-SUFFICIENT FUNDAMENTAL MISTAKE IN SCIENCE
+#### SUFFICIENT FUNDAMENTAL MISTAKE IN SCIENCE
 
 Even this single mistake destroys the entire concept of modern/official science of understanding the Universe.
 
 This mistake is sufficient.
 
 The mistake is based on the fact that modern/official science fails to even understand what is THE REAL REASON that a free-falling object during every second is moving the distance different in size.
+
+![We (people) know all these exact numbers about “free-falling“ by well-known experiments.](./1.png)
 
 We (people) know all these exact numbers about “free-falling“ by well-known experiments.
 
@@ -108,11 +98,9 @@ The Joule, in its turn, is the absolutely wrong unit of measure for Work and Ene
 
 As said above, even this single mistake is SUFFICIENT, it destroys the entire concept of modern/official science of understanding the Universe.
 
-The mistake is explained in detail below in this article.
+<i>The mistake is explained in detail below in this article.</i>
 
-As said above, this fundamental mistake is not only, is not single.
-
-ANOTHER FUNDAMENTAL MISTAKE IN SCIENCE
+####  ANOTHER FUNDAMENTAL MISTAKE IN SCIENCE
 
 Another Fundamental Mistake is that in modern/official science, the Concept of Static Mechanical Work is wrongly missing.
 
@@ -699,6 +687,12 @@ LINK: scientistzer0.substack.com/p/new-discoveries-changing-all-science
 Help civilization.
 
 The continuation of the article is here:
+
+![image info](./table.png)
+
+| Syntax      | Description | Syntax      | Description | Syntax      | Description | Syntax      | Description | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Header      | Title       | Header      | Title       | Header      | Title       | Header      | Title       |
 
 
 | Paragraph   | Text        | Paragraph   | Text        | Paragraph   | Text        | Paragraph   | Text        |
