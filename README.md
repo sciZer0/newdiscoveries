@@ -154,7 +154,7 @@ In my Open Letter to Elon Musk, I explain why exactly all “official” physics
 
 Open Letter to Elon Musk
 
-scientistzer0.substack.com/p/open-letter-to-elon-musk
+https://github.com/sciZer0/new_discoveries/tree/main/assets/t/t1
 
 ## START
 
