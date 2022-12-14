@@ -15,7 +15,7 @@
 # CONTEXT IN BRIEF
 # START
 
-#### FIRST OF ALL
+## FIRST OF ALL
 
 I am addressing you, the person reading this text. 
 
