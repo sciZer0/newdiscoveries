@@ -6,7 +6,7 @@ My support to all of your efforts.
 
 Elon I ask you to help civilization, please do this once again.
 
-The point in short
+## The point in short
 
 All I have is logic.
 
@@ -18,7 +18,7 @@ Importantly, at the start of the process, I also discovered the existence of the
 
 Remarkably, the discoveries are fully based on well-known experiments and well-known Newton’s discoveries (1st, 2nd and 3rd Newton’s Laws) which, ATTENTION, were and still are not fully understood by people.
 
-BRIEF INTRO
+## Brief Intro
 
 Here is the main article,New Discoveries Changing All Science
 
@@ -28,7 +28,7 @@ The discoveries directly affect philosophy, physics, chemistry, biology, and eve
 
 Although there are 2 problems, social and engineering.
 
-The Social Problem
+## The Social Problem
 
 In this Open Letter, I explain why exactly all “official” physics scientists around the world (including even those who privately agreed with these discoveries) publicly are and will likely always be against an announcement of these discoveries (Spoiler: only because they have personal reasons for this).
 
@@ -56,7 +56,7 @@ So now there is this large social problem about the announcement of these discov
 
 Elon I believe you are different and have the courage to publicly admit the existence of the biggest, LITERALLY-CRYING, logical mistakes in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
 
-The Engineering Problem
+## The Engineering Problem
 
 One of these discoveries is that I have discovered the ability of Magnets (Electromagnets and Permanent Magnets) to take in Energy from the environment — from the surrounding space.
 
@@ -86,7 +86,7 @@ Importantly, I don’t want to patent EEMG. I just want my discoveries to get th
 
 ______
 
-So now I send the information about the discoveries, in addition to physics scientists, to scientists from other fields and plus to this, opinion leaders (including writers, publicists, journalists, bloggers).
+Now I send the information about the discoveries, in addition to physics scientists, to scientists from other fields and plus to this, opinion leaders (including writers, publicists, journalists, bloggers).
 
 These discoveries highly need to be commonly known.
 
