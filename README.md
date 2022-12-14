@@ -51,3 +51,8 @@ English is my second language, and I started learning it when I was 39, and made
 ## ABOUT THE DISCOVERIES IN BRIEF
 
 ![image info](./table.png)
+
+| Syntax      | Description | Syntax      | Description | Syntax      | Description | Syntax      | Description | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Header      | Title       | Header      | Title       | Header      | Title       | Header      | Title       |
+| Paragraph   | Text        | Paragraph   | Text        | Paragraph   | Text        | Paragraph   | Text        |
