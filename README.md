@@ -695,7 +695,7 @@ Help civilization.
 The continuation of the article is here:
 
 <p align="center">
-  <img src="https://github.com/sciZer0/new_discoveries/main/assets/images/table.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/table.png"/>
 </p>
 
 
