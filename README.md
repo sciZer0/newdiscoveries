@@ -73,10 +73,9 @@ This mistake is sufficient.
 The mistake is based on the fact that modern/official science fails to even understand what is THE REAL REASON that a free-falling object during every second is moving the distance different in size.
 
 <p align="center">
-  <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/1.png"/>
+  <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/1.png"/><br>
+  <i>We (people) know all the exact numbers<br> about “free-falling“ through <br>well-known experiments.</i>
 </p>
-
-<i>We (people) know all the exact numbers about “free-falling“ through well-known experiments.</i>
 
 For example, modern/official science fails to even understand what is the real reason that a free-falling apple during every second is moving the distance different in size:
 
@@ -116,25 +115,30 @@ Another Fundamental Mistake is that in modern/official science, the Concept of S
 
 So, for example, all scientists (all existing science textbooks), for now, CORRECTLY consider that the person on the left (lifting the 2 kg object upwards) is doing Mechanical Work and is spending their Energy (Resource) on this Work;
 
+<p align="center">
+  <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/4.png"/>
+</p>
+
 BUT all scientists (all the existing science textbooks), for now, INCORRECTLY consider that the person on the right (holding the 20 kg object motionless in the air) is NOT DOING Mechanical Work and is NOT SENDING their Energy (Resource) on this Work!
 
 But in my opinion, the person on the right (holding the 20 kg object motionless in the air) is also doing Mechanical Work (Static Mechanical Work) and is spending their Energy (Resource) on this Work. And even moreover, the person on the right is doing a bigger amount of Mechanical Work than the person on the left is doing. Plus, the person on the right is spending a bigger amount of their Energy (Resource) on Mechanical Work than the person on the left is doing.
 
 Due to the this mistake — due to the Absence of the Concept of Static Mechanical Work in science — the vast majority of processes in the Universe right now are being fallen out of our sight, and hence understanding. For this reason, humanity has the absolutely wrong picture of the physical world and is losing gigantic opportunities.
 
-This mistake is also just one of the biggest, LITERALLY-CRYING, logical mistakes in the very fundamentals of science.
+<i>The Concept of Static Mechanical Work is explained in detail below in this article.</i>
 
-The Concept of Static Mechanical Work is explained in detail below in this article.
-
-CONTEXT IN BRIEF
+## CONTEXT IN BRIEF
 
 As said above, there are the biggest, LITERALLY-CRYING, logical mistakes in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
 
-How is this all possible?
+How did we get there?
 
 In my opinion, all the biggest fundamental mistakes in science occurred because people, as said above, didn’t and still don’t fully understand Newton’s discoveries. Even though this might seem impossible, the fact of this misunderstanding is true.
 
-Isaac Newton: A Not-Fully-Understood Scientific Genius
+<p align="center">
+  <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/5.png"/><br>
+  <i>Isaac Newton: A Not-Fully-Understood Scientific Genius</i>
+</p>
 
 What about “official” science?
 
@@ -152,37 +156,67 @@ Open Letter to Elon Musk
 
 scientistzer0.substack.com/p/open-letter-to-elon-musk
 
-START
+## START
 
 ATTENTION: This whole work is strictly based on well-known experiments and consistent logical conclusions. Because of that it is very important to read this document from the very beginning, consistently and carefully (step by step, line by line) without any skip.
 
 ____
 
-COMPULSORY PART
+### Compulsory Part
+<i>“OFFICIAL” CONCEPTS & FORMULAS</i>
 
-“OFFICIAL” CONCEPTS & FORMULASA. “Official” Concept of Force (“Official” Newton’s Formula for Force);B. “Official” Concept of Work and “Official” Concept of Energy.
+A. “Official” Concept of Force (“Official” Newton’s Formula for Force);<br>
+B. “Official” Concept of Work and “Official” Concept of Energy.
 
-NEW DISCOVERIES CHANGING ALL SCIENCE
+### NEW DISCOVERIES CHANGING ALL SCIENCE
 
-Discovery #1
+### Discovery #1
+<i>FUNDAMENTAL MISTAKES IN “OFFICIAL” SCIENCE</i>
 
-FUNDAMENTAL MISTAKES IN “OFFICIAL” SCIENCE1.1. Sufficient Fundamental Mistake in “Official” Science;1.2. Endless Series of Fundamental Mistakes in “Official” Science.
+1.1. Sufficient Fundamental Mistake in “Official” Science;<br>
+1.2. Endless Series of Fundamental Mistakes in “Official” Science.
 
-Discovery #2
+### Discovery #2
+<i>NEW FORMULAS OF FORCE, WORK, ENERGY, POWER</i>
 
-NEW FORMULAS OF FORCE, WORK, ENERGY, POWER2.1. Target Acceleration for each Force;2.2. New Concept of Force;2.3. New Formula for Force or True Newton’s Formula for Force;2.4. Work and Energy in the Most General Sense;2.5. New Concept of Work and New Concept of Energy;2.6. New Universal Formula for Work and Energy;2.7. New Unit of Measure for Work and Energy;2.8. Static Mechanical Work;2.9. New Formula for Kinetic Energy;2.10. New Formula for Potential Energy;2.11. New Formula for Power.
+2.1. Target Acceleration for each Force;<br>
+2.2. New Concept of Force;<br>
+2.3. New Formula for Force or True Newton’s Formula for Force;<br>
+2.4. Work and Energy in the Most General Sense;<br>
+2.5. New Concept of Work and New Concept of Energy;<br>
+2.6. New Universal Formula for Work and Energy;<br>
+2.7. New Unit of Measure for Work and Energy;<br>
+2.8. Static Mechanical Work;<br>
+2.9. New Formula for Kinetic Energy;<br>
+2.10. New Formula for Potential Energy;<br>
+2.11. New Formula for Power.<br>
 
-Discovery #3
+### Discovery #3
+<i>NEW LAW OF CONSEVATION OF ENERGY & FREE CLEAN ENERGY</i>
 
-NEW LAW OF CONSEVATION OF ENERGY & FREE CLEAN ENERGY3.1. Precedents of Conservation of Energy;3.2. Energy-Isolated & Energy-Non-Isolated Systems;3.3. Free Clean Energy;3.4. New Law of Conservation of Energy;3.5. Various Ways of Multiplication of Force, Work, Energy ;3.6. New Energy & New Ability of Magnets;3.7. New-Generation Generator of Electrical Energy.
+3.1. Precedents of Conservation of Energy;<br>
+3.2. Energy-Isolated & Energy-Non-Isolated Systems;<br>
+3.3. Free Clean Energy;3.4. New Law of Conservation of Energy;<br>
+3.5. Various Ways of Multiplication of Force, Work, Energy ;<br>
+3.6. New Energy & New Ability of Magnets;<br>
+3.7. New-Generation Generator of Electrical Energy.<br>
 
-Discovery #4 ( hidden)
+### Discovery #4 ( hidden)
 
-4.1. First Correct Explanation of Bernoulli’s Equation;4.2. New Concept of Charge;4.3. New Concept of Mass;4.4. New Concept of Electric Current.
+4.1. First Correct Explanation of Bernoulli’s Equation;
+4.2. New Concept of Charge;4.3. New Concept of Mass;
+4.4. New Concept of Electric Current.
 
-First, the world needs to understand Discoveries #1, 2, 3, then Discovery #4 will be unveiled. Step by step.
 
-Truth can be more surprising than Fiction
+<p align="center">
+  <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/6.png"/><br>
+</p>
+
+<p align="center">
+  <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/7.png"/><br>
+</p>
+
+Really, Truth can be more surprising than Fiction
 
 COMPULSORY PART
 
