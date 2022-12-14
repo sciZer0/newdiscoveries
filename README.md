@@ -73,7 +73,7 @@ This mistake is sufficient.
 The mistake is based on the fact that modern/official science fails to even understand what is THE REAL REASON that a free-falling object during every second is moving the distance different in size.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sciZer0/new_discoveries/main/assets/images/1.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://githubusercontent.com/sciZer0/new_discoveries/main/assets/images/1.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 
@@ -693,7 +693,7 @@ Help civilization.
 The continuation of the article is here:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sciZer0/new_discoveries/main/assets/images/table.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://githubusercontent.com/sciZer0/new_discoveries/main/assets/images/table.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 
