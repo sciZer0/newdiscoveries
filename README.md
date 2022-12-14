@@ -73,7 +73,7 @@ This mistake is sufficient.
 The mistake is based on the fact that modern/official science fails to even understand what is THE REAL REASON that a free-falling object during every second is moving the distance different in size.
 
 
-![We (people) know all these exact numbers about “free-falling“ by well-known experiments.](./1.png)
+![](./assets/images/1.png)
 
 
 We (people) know all these exact numbers about “free-falling“ by well-known experiments.
@@ -690,7 +690,8 @@ Help civilization.
 
 The continuation of the article is here:
 
-![image info](./table.png)
+![](./assets/images/table.png)
+
 
 | Syntax      | Description | Syntax      | Description | Syntax      | Description | Syntax      | Description | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
