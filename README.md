@@ -76,7 +76,6 @@ The mistake is based on the fact that modern/official science fails to even unde
   <img src="https://raw.githubusercontent.com/sciZer0/new_discoveries/main/assets/images/1.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
-![](./assets/images/1.png)
 
 
 We (people) know all these exact numbers about “free-falling“ by well-known experiments.
@@ -693,7 +692,9 @@ Help civilization.
 
 The continuation of the article is here:
 
-![](./assets/images/table.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sciZer0/new_discoveries/main/assets/images/table.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 
 | Syntax      | Description | Syntax      | Description | Syntax      | Description | Syntax      | Description | 
