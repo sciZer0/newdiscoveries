@@ -4,37 +4,47 @@ Hello Elon!
 
 My support to all of your efforts.
 
-Elon I ask you to help civilization, please do this once again.
+Elon, I ask you to help civilization, please do this once again.
 
 ## The point in short
 
 All I have is logic.
 
-In my opinion, “official” science is a religion, and truth is being forbidden on the  Earth.
+Some time ago, just through thinking logically about well-known facts, I made new scientific discoveries about Force, Work and Energy that cardinally change/improve our understanding the Universe.
 
-Some time ago,  just through thinking logically, I made scientific discoveries about Force, Work, Energy. These new discoveries cardinally improve our understanding of the universe and allow us to outstandingly accelerate global progress, giving us access to new clean inexhaustible Energy.
+Among other things as a result I got the following:
+
+* New Formula for Force
+* New Formula for Work
+* New Formula for Energy
+* New Formula for Power
+
+Since Energy, as THE source for every event in the Universe, is the main concept in the chief sciences, these discoveries directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
 
 Importantly, at the start of the process, I also discovered the existence of the biggest, LITERALLY-CRYING, logical mistakes in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
 
 Remarkably, the discoveries are fully based on well-known experiments and well-known Newton’s discoveries (1st, 2nd and 3rd Newton’s Laws) which, ATTENTION, were and still are not fully understood by people.
 
-## Brief Intro
+Here is the main article,<br>
 
-Here is the main article,New Discoveries Changing All Science
-
-scientistzer0.substack.com/p/new-discoveries-changing-all-science
-
-The discoveries directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
+<b>New Discoveries Changing All Science</b><br>
+https://github.com/sciZer0/new_discoveries/blob/main/README.md
 
 Although there are 2 problems, social and engineering.
 
 ## The Social Problem
 
-In this Open Letter, I explain why exactly all “official” physics scientists around the world (including even those who privately agreed with these discoveries) publicly are and will likely always be against an announcement of these discoveries (Spoiler: only because they have personal reasons for this).
+<i>Here I explain why exactly all “official” physics scientists around the world (including even those who privately agreed with these discoveries) publicly are and will likely always be against an announcement of these discoveries (Spoiler: only because they have <b>personal reasons</b> for this).</i>
 
-The social problem is that everything looks like every “official” physicist around the world, including every Nobel laureate, is not interested in an announcement of these discoveries. This is so because the first thing that these “official” scientists have to do is to admit their own complete incompetence, since these new fundamental discoveries are extremely simple and obvious but it turns out that for all that time the “scientists” have been unable to see those obvious biggest basic mistakes that exist in modern physics. It is an impossibly shameful situation for every physics scientist. So for this personal reason, every “official” physicist around the world is not interested in an announcement of these discoveries.
+The social problem is that every “official” physicist around the world, including every Nobel laureate, is not interested in an announcement of these discoveries.
 
-Additionally, many “official” physics scientists are afraid because of understanding of how many things, thanks to these discoveries, will unavoidably have to be changed in physics and the scientific organizational system itself. And for this reason, they are worrying about losing their current power and monopoly (at least, about losing their current status quo). This is another personal reason on why the “official” physics scientists are not interested in an announcement of these discoveries.
+This is so because the first thing that the “official” scientists have to do is to admit their own complete incompetence, since the new fundamental discoveries are extremely simple and obvious but it turns out that for all that time the “scientists” have been unable to see those obvious biggest basic mistakes that exist in modern physics. It is an impossibly shameful situation for them in general and for every physics scientist in particular. 
+
+So for this <b>personal reason</b>, every “official” physicist around the world is not interested in an announcement of the discoveries.
+
+Additionally, many “official” physics scientists are afraid because of understanding of how many things, thanks to the discoveries, will unavoidably have to be changed in physics and the scientific organizational system itself. And for this reason, they are worrying about losing their current power and monopoly (at least, about losing their current status quo). 
+
+This is another personal reason on why the “official” physics scientists around the world are not interested in an announcement of the discoveries.
 
 In my opinion, “official” science is a religion being accepted by faith. Actually, the situation is even much worse than that, the system itself is a religious sect.
 
@@ -70,7 +80,7 @@ EEMG is the Next-Generation Generator of Electrical Energy.
   <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/G.png"/>
 </p>
 
-In my opinion, today all existing Electric Generators and Electric Motors (which have Electromagnets and work on the principle of Electromagnetic Induction) have one common construction mistake that does not allow them to work with an efficiency of more than 100%.
+<i>In my opinion, today all existing Electric Generators and Electric Motors (which have Electromagnets and work on the principle of Electromagnetic Induction) have one common construction mistake that does not allow them to work with an efficiency of more than 100%.</i>
 
 EEMG is the Next Generation Electric Generator that works with an efficiency of much more than 100%.
 
