@@ -1,13 +1,5 @@
 # New Discoveries Changing All Science
 
-Hello the world.
-
-All I have is logic.
-
-In my opinion, modern/official science is a religion being accepted by faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect.
-
-More on it below.
-
 FIRST OF ALL<br>
 THIS IS EASY TO UNDERSTAND<br>
 ABOUT THE DISCOVERIES IN BRIEF<br>
@@ -16,6 +8,10 @@ CONTEXT IN BRIEF<br>
 START<br>
 
 ## FIRST OF ALL
+
+All I have is logic.
+
+In my opinion, modern/official science is a religion being accepted by faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect. <i>More on it a bit below.</i>
 
 Some time ago, just through thinking logically about well-known facts, I made the biggest ever scientific discoveries.
 
@@ -46,13 +42,13 @@ Throughout the entire article, I practice “redundancy of understandability”,
 
 Always feel free to ask me any questions about the discoveries: theOlegGor@gmail.com
 
-English is my second language, and I started learning it when I was 39, and made the discoveries when I was 45.
+English is my second language, and I started learning it when I was 39 and made the discoveries when I was 45.
 
 ## ABOUT THE DISCOVERIES IN BRIEF
 
 Some time ago, I made scientific discoveries about Force, Work and Energy that cardinally change/improve our understanding the Universe.
 
-Since Energy, as THE source for every event in the Universe, is the main concept in the chief sciences, these discoveries, as said above, directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
+>Since Energy, as THE resource for every event in the Universe, is the main concept in the chief sciences, these discoveries, as said above, directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
 
 Importantly, at the start of the process, I also discovered the existence of the biggest, LITERALLY-CRYING, logical mistakes in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
 
@@ -64,17 +60,17 @@ Remarkably, the discoveries are fully based on well-known experiments and well-k
 
 In order for you to get an idea of how big the whole wrongness of modern/official science is, here is a description of just 2 of the fundamental mistakes that I discovered.
 
-#### SUFFICIENT FUNDAMENTAL MISTAKE IN SCIENCE
+#### THE 1st SUFFICIENT FUNDAMENTAL MISTAKE IN SCIENCE
 
-Even this single mistake destroys the entire concept of modern/official science of understanding the Universe.
-
-This mistake is sufficient.
+This mistake is called "sufficient" because even this one alone destroys the entire concept of modern/official science of understanding the Universe.
 
 The mistake is based on the fact that modern/official science fails to even understand what is THE REAL REASON that a free-falling object during every second is moving the distance different in size.
 
 <p align="center">
   <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/1.png"/><br>
-  <i>We (people) know all the exact numbers<br> about “free-falling“ through <br>well-known experiments.</i>
+  <i>We (people) know all the exact numbers<br> 
+   about “free-falling“ through<br>
+   well-known experiments.</i>
 </p>
 
 So, for example, modern/official science fails to even understand what is the real reason that a free-falling apple during every second is moving the distance different in size:
@@ -93,7 +89,7 @@ But the real reason IS NOT Gravitational Force.
 
 The real reason is Inertia. 
 
-Unfortunately, modern/official science absolutely fails to understand this.
+But modern/official science absolutely fails to understand this.
 
 As a consequence of the misunderstanding, for now, all scientists (all existing science textbooks) have the absolutely wrong concept of Work and hence have the absolutely wrong concept of Energy. As a result, all the existing formulas for calculating Work (W) and Energy (E), including these basic formulas,
 
@@ -105,15 +101,19 @@ are absolutely wrong.
 
 The Joule, in its turn, is the absolutely wrong unit of measure for Work and Energy.
 
-As said above, even this single mistake is SUFFICIENT, it destroys the entire concept of modern/official science of understanding the Universe.
+As said above, even this mistake alone destroys the entire concept of modern/official science of understanding the Universe.
 
 <i>The mistake is explained in detail below in this article.</i>
 
-####  ANOTHER FUNDAMENTAL MISTAKE IN SCIENCE
+####  THE 2nd SUFFICIENT FUNDAMENTAL MISTAKE IN SCIENCE
 
-Another Fundamental Mistake is that in modern/official science, the Concept of Static Mechanical Work is wrongly missing.
+This mistake is the same way called "sufficient" because it works the same way: even it alone destroys the entire concept of modern/official science of understanding the Universe.
 
-So, for example, all scientists (all existing science textbooks), for now, CORRECTLY consider that the person on the left (lifting the 2 kg object upwards) is doing Mechanical Work and is spending their Energy (Resource) on this Work;
+The mistake is that in modern/official science, there the Concept of Static Mechanical Work is wrongly missing.
+
+So, for example, the mistake results that 
+
+all scientists (all existing science textbooks), for now, CORRECTLY consider that the person on the left (lifting the 2 kg object upwards) is doing Mechanical Work and is spending their Energy (Resource) on this Work;
 
 <p align="center">
   <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/4.png"/>
@@ -125,6 +125,8 @@ But in my opinion, the person on the right (holding the 20 kg object motionless 
 
 Due to the this mistake — due to the Absence of the Concept of Static Mechanical Work in science — the vast majority of processes in the Universe right now are being fallen out of our sight, and hence understanding. For this reason, humanity has the absolutely wrong picture of the physical world and is losing gigantic opportunities.
 
+As said above, even this mistake alone destroys the entire concept of modern/official science of understanding the Universe.
+
 <i>The Concept of Static Mechanical Work is explained in detail below in this article.</i>
 
 ## CONTEXT IN BRIEF
@@ -133,7 +135,7 @@ As said above, there are the biggest, LITERALLY-CRYING, logical mistakes in the 
 
 How did we get there?
 
-In my opinion, all the biggest fundamental mistakes in science occurred because people, as said above, didn’t and still don’t fully understand Newton’s discoveries. Even though this might seem impossible, the fact of this misunderstanding is true.
+In my opinion, all the biggest fundamental mistakes in science occurred because people, as said above, didn’t and still don’t fully understand well-knwon Newton’s discoveries. Even though this might seem impossible, the fact of this misunderstanding is true.
 
 <p align="center">
   <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/5.png"/><br>
@@ -150,10 +152,9 @@ Moreover, the religious sect’s members always desperately cast stones at every
 
 The today’s situation is that if any clever person wants to enter “official” science, first they must humiliate their own intellect, essentially they must DEGRADE their own intellect because the fundamental mistakes existing in “official” science are too big and obvious, it is impossible not to see them.
 
-In my Open Letter to Elon Musk, I explain why exactly all “official” physics scientists around the world (including even those who privately agreed with these discoveries) publicly are, and will likely always be against an announcement of these discoveries (Spoiler: only because they have personal reasons for this).
+In my Open Letter to Elon Musk, I explain why exactly all “official” physics scientists around the world (including even those who privately agreed with these discoveries) publicly are, and will likely always be against an announcement of these discoveries (Spoiler: only because they have <b>personal reasons</b> for this).
 
-Open Letter to Elon Musk
-
+<b>Open Letter to Elon Musk</b><br>
 https://github.com/sciZer0/new_discoveries/tree/main/assets/t/t1
 
 ## START
@@ -173,7 +174,7 @@ B. “Official” Concept of Work and “Official” Concept of Energy.
 ### Discovery #1
 <i>FUNDAMENTAL MISTAKES IN “OFFICIAL” SCIENCE</i>
 
-1.1. Sufficient Fundamental Mistake in “Official” Science;<br>
+1.1. THE 1st Sufficient Fundamental Mistake in “Official” Science;<br>
 1.2. Endless Series of Fundamental Mistakes in “Official” Science.
 
 ### Discovery #2
@@ -201,7 +202,7 @@ B. “Official” Concept of Work and “Official” Concept of Energy.
 3.6. New Energy & New Ability of Magnets;<br>
 3.7. New-Generation Generator of Electrical Energy.<br>
 
-### Discovery #4 ( hidden)
+### Discovery #4
 
 4.1. First Correct Explanation of Bernoulli’s Equation;
 4.2. New Concept of Charge;4.3. New Concept of Mass;
