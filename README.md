@@ -62,7 +62,7 @@ In order for you to get an idea of how big the whole wrongness of modern/officia
 
 #### THE 1st SUFFICIENT FUNDAMENTAL MISTAKE IN SCIENCE
 
-This mistake is called "sufficient" because even this one alone destroys the entire concept of modern/official science of understanding the Universe.
+This mistake is called "sufficient" because even this mistake alone destroys the entire concept of modern/official science of understanding the Universe.
 
 The mistake is based on the fact that modern/official science fails to even understand what is THE REAL REASON that a free-falling object during every second is moving the distance different in size.
 
@@ -107,7 +107,7 @@ As said above, even this mistake alone destroys the entire concept of modern/off
 
 ####  THE 2nd SUFFICIENT FUNDAMENTAL MISTAKE IN SCIENCE
 
-This mistake is the same way called "sufficient" because it works the same way: even it alone destroys the entire concept of modern/official science of understanding the Universe.
+This mistake is the same way called "sufficient" because it works the same way: even this mistake alone destroys the entire concept of modern/official science of understanding the Universe.
 
 The mistake is that in modern/official science, there the Concept of Static Mechanical Work is wrongly missing.
 
@@ -133,7 +133,7 @@ As said above, even this mistake alone destroys the entire concept of modern/off
 
 As said above, there are the biggest, LITERALLY-CRYING, logical mistakes in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
 
-How did we get there?
+But how did we get there?
 
 In my opinion, all the biggest fundamental mistakes in science occurred because people, as said above, didn’t and still don’t fully understand well-knwon Newton’s discoveries. Even though this might seem impossible, the fact of this misunderstanding is true.
 
