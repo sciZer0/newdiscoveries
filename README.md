@@ -67,7 +67,8 @@ The mistake is based on the fact that modern/official science fails to even unde
 
 <p align="center">
   <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/1.png"/><br>
-  <i>We (people) know all the exact numbers<br> 
+  <i>We (people) know all<br> 
+   the exact numbers<br>
    about “free-falling“ through<br>
    well-known experiments.</i>
 </p>
