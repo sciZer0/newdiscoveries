@@ -234,7 +234,7 @@ B. “Official” Concept of Work and “Official” Concept of Energy.
 
 ### A. “Official” Concept of Force (“Official” Newton’s Formula for Force)
 
->Foremost, before we start, it is important to understand that modern/official science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
+Foremost, before we start, it is important to understand that modern/official science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
 Importantly, I absolutely agree with this.
 
