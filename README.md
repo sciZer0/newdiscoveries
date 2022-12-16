@@ -205,8 +205,9 @@ B. “Official” Concept of Work and “Official” Concept of Energy.
 
 ### Discovery #4
 
-4.1. First Correct Explanation of Bernoulli’s Equation;
-4.2. New Concept of Charge;4.3. New Concept of Mass;
+4.1. First Correct Explanation of Bernoulli’s Equation;<br>
+4.2. New Concept of Charge;<br>
+4.3. New Concept of Mass;<br>
 4.4. New Concept of Electric Current.
 
 
