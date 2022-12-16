@@ -116,7 +116,7 @@ So, for example, the mistake results that
 all scientists (all existing science textbooks), for now, CORRECTLY consider that the person on the left (lifting the 2 kg object upwards) is doing Mechanical Work and is spending their Energy (Resource) on this Work;
 
 <p align="center">
-  <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/4.png"/>
+  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/4.png"/>
 </p>
 
 BUT all scientists (all the existing science textbooks), for now, INCORRECTLY consider that the person on the right (holding the 20 kg object motionless in the air) is NOT DOING Mechanical Work and is NOT SENDING their Energy (Resource) on this Work!
@@ -138,7 +138,7 @@ But how did we get there?
 In my opinion, all the biggest fundamental mistakes in science occurred because people, as said above, didn’t and still don’t fully understand well-knwon Newton’s discoveries. Even though this might seem impossible, the fact of this misunderstanding is true.
 
 <p align="center">
-  <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/5.png"/><br>
+  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/5.png"/><br>
   <i>Isaac Newton: A Not-Fully-Understood Scientific Genius</i>
 </p>
 
@@ -155,7 +155,7 @@ The today’s situation is that if any clever person wants to enter “official�
 In my Open Letter to Elon Musk, I explain why exactly all “official” physics scientists around the world (including even those who privately agreed with these discoveries) publicly are, and will likely always be against an announcement of these discoveries (Spoiler: only because they have <b>personal reasons</b> for this).
 
 <b>Open Letter to Elon Musk</b><br>
-https://github.com/sciZer0/new_discoveries/tree/main/assets/t/t1
+https://github.com/sciZer0/newdiscoveries/tree/main/assets/t/t1
 
 ## START
 
@@ -210,11 +210,11 @@ B. “Official” Concept of Work and “Official” Concept of Energy.
 
 
 <p align="center">
-  <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/6.png"/><br>
+  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/6.png"/><br>
 </p>
 
 <p align="center">
-  <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/7.png"/><br>
+  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/7.png"/><br>
 </p>
 
 Really, Truth can be more surprising than Fiction
