@@ -18,7 +18,7 @@ The discoveries are so big that they directly affect philosophy, physics, chemis
 
 Simultaneously, the discoveries are very simple and obvious.
 
-Note: Thanks to these discoveries, at best<br>,
+Note: Thanks to these discoveries, at best,<br>
 
 * the world will have the ability to REALLY prosper;<br>
 
