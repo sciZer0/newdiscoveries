@@ -1,11 +1,11 @@
 # New Discoveries Changing All Science
 
-FIRST OF ALL<br>
-THIS IS EASY TO UNDERSTAND<br>
-ABOUT THE DISCOVERIES IN BRIEF<br>
-BRIEF INTRODUCTION<br>
-CONTEXT IN BRIEF<br>
-START<br>
+* FIRST OF ALL<br>
+* THIS IS EASY TO UNDERSTAND<br>
+* ABOUT THE DISCOVERIES IN BRIEF<br>
+* BRIEF INTRODUCTION<br>
+* CONTEXT IN BRIEF<br>
+* START<br>
 
 ## FIRST OF ALL
 In my opinion, modern/official science is a religion being taken on faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect. <i>More on it a bit below.</i>
