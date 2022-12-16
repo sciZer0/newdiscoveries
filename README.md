@@ -1,5 +1,12 @@
 # New Discoveries Changing All Science
 
+<p align="center">
+  <a href="https://github.com/sciZer0/newdiscoveries/tree/main/assets/t/t1">Open Letter to Elon Musk</a>
+  
+  
+  
+</p>
+
 FIRST OF ALL<br>
 THIS IS EASY TO UNDERSTAND<br>
 ABOUT THE DISCOVERIES IN BRIEF<br>
