@@ -41,7 +41,7 @@ Throughout the entire article, I practice “redundancy of understandability”,
 
 Always feel free to ask me any questions about the discoveries: theOlegGor@gmail.com
 
-English is my second language, and I started learning it when I was 39 and made the discoveries when I was 45.
+English is my second language, I started learning it when I was 39 and made the discoveries when I was 45.
 
 ## ABOUT DISCOVERIES IN BRIEF
 
