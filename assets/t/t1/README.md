@@ -48,9 +48,9 @@ Additionally, many “official” physics scientists are afraid because of under
 
 This is another personal reason on why the “official” physics scientists around the world are not interested in an announcement of the discoveries.
 
-In my opinion, “official” science is a religion being accepted by faith. Actually, the situation is even much worse than that, the system itself is a religious sect.
+In my opinion, “official” science is a religion being accepted by faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect.
 
-In reality, all entrances in this system for everyone else are closed. The entrance for any new person is ONLY possible on recommendations of members of this religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somehow called “textbooks”).
+In reality, the scientific system being a religious sect is a fully closed one. The entrance for any new person is ONLY possible on recommendations of members of the religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somehow called “textbooks”).
 
 Moreover, the religious sect’s members always desperately cast stones at everyone who dares to say things that are logical but (yes, again) different from those that have been written in their religious books, and this is always so without allowing any open public discussion.
 
