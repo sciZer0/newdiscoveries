@@ -302,9 +302,9 @@ Importantly, the apple starts its motion downwards ONLY BECAUSE during every mom
 
 >In other words, during every moment, “something” is pushing the apple downwards and we (people) call this “something” Gravitational Force.
 
-As we already know, modern/official science considers that the Universe/Nature in the whole is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
+As we already know, modern/official science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
-For the sake of simplicity, Gravitational Force (F) might be imagined by us as the pushing done by a invisible hand  — by Invisible Hand of Big Organism (the green arrow shows the direction of the pushing).
+So, for the sake of simplicity, Gravitational Force (F) might be imagined by us as the pushing done by a invisible hand  — by Invisible Hand of Big Organism (the green arrow shows the direction of the pushing).
 
 Metaphorically saying, Big Organism (the Universe) has its Invisible Hand and this Invisible Hand during every moment is pushing the apple downwards.
 
