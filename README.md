@@ -147,7 +147,7 @@ What about “official” science?
 
 As said above, in my opinion, “official” science is a religion being taken on faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect.
 
-In reality, the scientific system being a religious sect is a fully closed one. The entrance for any new person is ONLY possible on recommendations of members of the religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
+In reality, the scientific system being a religious sect is a fully closed one. For any new person, the entrance in the system is ONLY possible on recommendations of members of the religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
 
 Moreover, the religious sect’s members always desperately cast stones at everyone who dares to say things that are logical but (yes, again) different from those that have been written in their religious books, and this is always so without allowing any open public discussion.
 
