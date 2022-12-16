@@ -255,8 +255,8 @@ In other words:
 
 <p align="center">
   <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/9.png"/><br>
-  The green arrow shows the<br>
-  direction of the pushing
+  <i>The green arrow shows the<br>
+  direction of the pushing</i>
 </p>
 
 The green arrow shows the direction of the pushing.
@@ -265,7 +265,7 @@ For example, when your organism (specifically, your hand) is pushing some strong
 
 <p align="center">
   <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/10.png"/><br>
-  Your hand creates Force
+  <i>Your hand creates Force</i>
 </p>
 
 your hand creates a push (process of pushing), and it means your hand creates Force.
@@ -278,7 +278,7 @@ In the given case, your hand is pushing the wall.
 
 <p align="center">
   <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/10.png"/><br>
-  Your hand is pushing the wall
+  <i>Your hand is pushing the wall</i>
 </p>
 
 It means your hand creates Force and, simply saying, your hand here is Force.
@@ -293,14 +293,13 @@ For example, when you let an apple out of your hand,
 
 <p align="center">
   <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/11.png"/><br>
-  Your hand is pushing the wall
 </p>
 
-this apple starts moving downwards (closer to the ground).
+the apple starts moving downwards (closer to the ground).
 
-Importantly, this apple starts its motion downwards ONLY BECAUSE during every moment “something” is pushing (or , of course, if wanted, we might say “pulling” or “attracting”) this apple downwards (closer to the ground). So that when you let an apple out of your hand, this apple starts moving downwards.
+Importantly, the apple starts its motion downwards ONLY BECAUSE during every moment “something” is pushing (or , of course, if wanted, we might say “pulling” or “attracting”) this apple downwards (closer to the ground). So that when you let an apple out of your hand, this apple starts moving downwards.
 
-In other words, during every moment, “something” is pushing this apple downwards and we (people) call this “something” Gravitational Force.
+>In other words, during every moment, “something” is pushing the apple downwards and we (people) call this “something” Gravitational Force.
 
 As we already know, modern/official science considers that the Universe/Nature in the whole is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
