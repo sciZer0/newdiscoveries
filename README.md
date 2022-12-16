@@ -1,12 +1,5 @@
 # New Discoveries Changing All Science
 
-<p align="center">
-  <a href="https://github.com/sciZer0/newdiscoveries/tree/main/assets/t/t1">Open Letter to Elon Musk</a>
-  
-  
-  
-</p>
-
 FIRST OF ALL<br>
 THIS IS EASY TO UNDERSTAND<br>
 ABOUT THE DISCOVERIES IN BRIEF<br>
@@ -54,7 +47,7 @@ English is my second language, and I started learning it when I was 39 and made 
 
 Some time ago, I made scientific discoveries about Force, Work and Energy that cardinally change/improve our understanding the Universe.
 
->Since Energy, as THE resource for every event in the Universe, is the main concept in the chief sciences, these discoveries, as said above, directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
+>Since Energy, as THE main resource for every event in the Universe, is the main concept in the chief sciences, these discoveries, as said above, directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
 
 Importantly, at the start of the process, I also discovered the existence of the biggest, LITERALLY-CRYING, logical mistakes in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
 
@@ -125,7 +118,7 @@ all scientists (all existing science textbooks), for now, CORRECTLY consider tha
   <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/4.png"/>
 </p>
 
-BUT all scientists (all the existing science textbooks), for now, INCORRECTLY consider that the person on the right (holding the 20 kg object motionless in the air) is NOT DOING Mechanical Work and is NOT SENDING their Energy (Resource) on this Work!
+BUT all scientists (all the existing science textbooks), for now, INCORRECTLY consider that the person on the right (holding the 20 kg object motionless in the air) is NOT DOING Mechanical Work and is NOT SPENDING their Energy (Resource) on this Work!
 
 But in my opinion, the person on the right (holding the 20 kg object motionless in the air) is also doing Mechanical Work (Static Mechanical Work) and is spending their Energy (Resource) on this Work. And even moreover, the person on the right is doing a bigger amount of Mechanical Work than the person on the left is doing. Plus, the person on the right is spending a bigger amount of their Energy (Resource) on Mechanical Work than the person on the left is doing.
 
@@ -134,6 +127,8 @@ Due to the this mistake — due to the Absence of the Concept of Static Mech
 As said above, even this mistake alone destroys the entire concept of modern/official science of understanding the Universe.
 
 <i>The Concept of Static Mechanical Work is explained in detail below in this article.</i>
+
+Also, in modern/official science, there is a lot of other obvious fundamental mistakes. <i>More on it below.</i>
 
 ## CONTEXT IN BRIEF
 
@@ -150,9 +145,9 @@ In my opinion, all the biggest fundamental mistakes in science occurred because 
 
 What about “official” science?
 
-As said above, in my opinion, “official” science is a religion being accepted by faith. Actually, the situation is even much worse than that, the system itself is a religious sect.
+As said above, in my opinion, “official” science is a religion being accepted by faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect.
 
-In reality, all entrances in this system for everyone else are closed. The entrance for any new person is ONLY possible on recommendations of members of this religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somehow called “textbooks”).
+In reality, all entrances in the scientific system for everyone else are closed. The entrance for any new person is ONLY possible on recommendations of members of this religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somehow called “textbooks”).
 
 Moreover, the religious sect’s members always desperately cast stones at everyone who dares to say things that are logical but (yes, again) different from those that have been written in their religious books, and this is always so without allowing any open public discussion.
 
