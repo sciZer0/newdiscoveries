@@ -244,7 +244,7 @@ Now, let’s start from the very beginning — from the “official” concept o
 
 Here is the most simple and simultaneously exact definition of Force:
 
->Force is a push.
+<b>Force is a push.</b>
 
 <p align="center">
   <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/8.png"/><br>
@@ -252,7 +252,7 @@ Here is the most simple and simultaneously exact definition of Force:
 
 In other words:
 
->Force is the process of pushing an object in a certain direction.
+<b>Force is the process of pushing an object in a certain direction.</b>
 
 <p align="center">
   <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/9.png"/><br>
@@ -273,7 +273,7 @@ your hand creates a push (process of pushing), and it means your hand creates Fo
 
 In other words:
 
->Force is when something is pushing an object.
+<b>Force is when something is pushing an object.</b>
 
 In the given case, your hand is pushing the wall.
 
