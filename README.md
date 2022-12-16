@@ -8,10 +8,9 @@ CONTEXT IN BRIEF<br>
 START<br>
 
 ## FIRST OF ALL
+In my opinion, modern/official science is a religion being accepted by faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect. <i>More on it a bit below.</i>
 
 All I have is logic.
-
-In my opinion, modern/official science is a religion being accepted by faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect. <i>More on it a bit below.</i>
 
 Some time ago, just through thinking logically about well-known facts, I made the biggest ever scientific discoveries.
 
