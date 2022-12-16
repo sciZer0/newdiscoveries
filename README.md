@@ -147,7 +147,7 @@ What about “official” science?
 
 As said above, in my opinion, “official” science is a religion being taken on faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect.
 
-In reality, the scientific system being a religious sect is a fully closed one. For any new person, the entrance in the system is ONLY possible on recommendations of members of the religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
+In reality, the scientific system being a religious sect is a fully-closed one. For any new person, the entrance in the system is ONLY possible on recommendations of members of the religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
 
 Moreover, the religious sect’s members always desperately cast stones at everyone who dares to say things that are logical but (yes, again) different from those that have been written in their religious books, and this is always so without allowing any open public discussion.
 
@@ -220,19 +220,22 @@ B. “Official” Concept of Work and “Official” Concept of Energy.
 
 Really, Truth can be more surprising than Fiction
 
-COMPULSORY PART
+___
+
+## COMPULSORY PART
 
 “OFFICIAL” CONCEPTS & FORMULAS
 
-A. “Official” Concept of Force (“Official” Newton’s Formula for Force);B. “Official” Concept of Work and “Official” Concept of Energy.
+A. “Official” Concept of Force (“Official” Newton’s Formula for Force);<br>
+B. “Official” Concept of Work and “Official” Concept of Energy.
 
-__________
 
-A. “Official” Concept of Force (“Official” Newton’s Formula for Force)
 
-Foremost, before we start, it is important to understand that modern/official science considers that the Universe/Nature in the whole is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
+### A. “Official” Concept of Force (“Official” Newton’s Formula for Force)
 
-I absolutely agree with this.
+>Foremost, before we start, it is important to understand that modern/official science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
+
+Importantly, I absolutely agree with this.
 
 More detail on this we will be getting throughout the way.
 
@@ -240,37 +243,58 @@ Now, let’s start from the very beginning — from the “official” concept o
 
 Here is the most simple and simultaneously exact definition of Force:
 
-Force is a push.
+>Force is a push.
+
+<p align="center">
+  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/8.png"/><br>
+</p>
 
 In other words:
 
-Force is the process of pushing an object in a certain direction.
+>Force is the process of pushing an object in a certain direction.
+
+<p align="center">
+  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/9.png"/><br>
+  The green arrow shows the<br>
+  direction of the pushing
+</p>
 
 The green arrow shows the direction of the pushing.
 
 For example, when your organism (specifically, your hand) is pushing some strong wall with some great effort,
 
-Your hand creates Force
+<p align="center">
+  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/10.png"/><br>
+  Your hand creates Force
+</p>
 
 your hand creates a push (process of pushing), and it means your hand creates Force.
 
 In other words:
 
-Force is when something is pushing an object.
+>Force is when something is pushing an object.
 
 In the given case, your hand is pushing the wall.
 
-Your hand is pushing the wall
+<p align="center">
+  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/10.png"/><br>
+  Your hand is pushing the wall
+</p>
 
-It means your hand creates Force. Simply saying, your hand here is Force.
+It means your hand creates Force and, simply saying, your hand here is Force.
 
 Now, let’s take, for example, Gravitational Force which is familiar to everyone.
 
 But what is Gravitational Force?
 
-Remarkably, official/modern science doesn’t even attempt to answer: what is Gravitational Force? Everything modern science knows is that during every moment “something” is pushing every object closer to the ground, and we (people) call this “something” Gravitational Force.
+>Remarkably, official/modern science doesn’t even attempt to answer: what is Gravitational Force? Everything modern science knows is that during every moment “something” is pushing every object closer to the ground, and we (people) call this “something” Gravitational Force.
 
 For example, when you let an apple out of your hand,
+
+<p align="center">
+  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/11.png"/><br>
+  Your hand is pushing the wall
+</p>
 
 this apple starts moving downwards (closer to the ground).
 
