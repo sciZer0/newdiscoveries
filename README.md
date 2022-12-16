@@ -67,7 +67,7 @@ This mistake is called "sufficient" because even this mistake alone destroys the
 The mistake is based on the fact that modern/official science fails to even understand what is THE REAL REASON that a free-falling object during every second is moving the distance different in size.
 
 <p align="center">
-  <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/1.png"/><br>
+  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/1.png"/><br>
   <i>We (people) know all the exact numbers<br> 
    about “free-falling“ through<br>
    well-known experiments.</i>
@@ -76,7 +76,7 @@ The mistake is based on the fact that modern/official science fails to even unde
 So, for example, modern/official science fails to even understand what is the real reason that a free-falling apple during every second is moving the distance different in size:
 
 <p align="center">
-  <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/2.png"/>
+  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/2.png"/>
 </p>
 
 in particular, the apple is moving the shorter distance of 4.9 meters during the 1st second and the longer distance of 14.7 meters during the 2nd second.
@@ -94,7 +94,7 @@ But modern/official science absolutely fails to understand this.
 As a consequence of the misunderstanding, for now, all scientists (all existing science textbooks) have the absolutely wrong concept of Work and hence have the absolutely wrong concept of Energy. As a result, all the existing formulas for calculating Work (W) and Energy (E), including these basic formulas,
 
 <p align="center">
-  <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/3.png"/>
+  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/3.png"/>
 </p>
 
 are absolutely wrong.
