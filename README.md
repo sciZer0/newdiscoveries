@@ -69,7 +69,7 @@ The mistake is based on the fact that modern/official science fails to even unde
   <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/1.png"/><br>
   <i>We (people) know all the exact<br> 
    numbers about “free-falling“ through<br>
-   well-known experiments.</i>
+   well-known experiments</i>
 </p>
 
 So, for example, modern/official science fails to even understand what is the real reason that a free-falling apple during every second is moving the distance different in size:
