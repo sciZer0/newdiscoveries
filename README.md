@@ -8,7 +8,7 @@ CONTEXT IN BRIEF<br>
 START<br>
 
 ## FIRST OF ALL
-In my opinion, modern/official science is a religion being accepted by faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect. <i>More on it a bit below.</i>
+In my opinion, modern/official science is a religion being taken on faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect. <i>More on it a bit below.</i>
 
 All I have is logic.
 
@@ -145,9 +145,9 @@ In my opinion, all the biggest fundamental mistakes in science occurred because 
 
 What about “official” science?
 
-As said above, in my opinion, “official” science is a religion being accepted by faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect.
+As said above, in my opinion, “official” science is a religion being taken on faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect.
 
-In reality, all entrances in the scientific system for everyone else are closed. The entrance for any new person is ONLY possible on recommendations of members of this religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somehow called “textbooks”).
+In reality, the scientific system being a religious sect is a fully closed one. The entrance for any new person is ONLY possible on recommendations of members of the religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somehow called “textbooks”).
 
 Moreover, the religious sect’s members always desperately cast stones at everyone who dares to say things that are logical but (yes, again) different from those that have been written in their religious books, and this is always so without allowing any open public discussion.
 
