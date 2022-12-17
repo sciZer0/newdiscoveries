@@ -300,27 +300,41 @@ Importantly, the apple starts its motion downwards ONLY BECAUSE during every mom
 
 In other words, during every moment, “something” is pushing the apple downwards and we (people) call this “something” Gravitational Force.
 
-As we already know, modern/official science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
+>Importantly, modern/official science does not know what is Gravitational Force.
+
+And, as we already know, modern/official science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
 So, for the sake of simplicity, Gravitational Force (F) might be imagined by us as the pushing done by a invisible hand  — by Invisible Hand of Big Organism.
 
 <p align="center">
   <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/12.png"/><br>
-  <i>The green arrow shows the direction<br>
-     of the pushing</i>
+  <i>The apple being pushed by<br>
+     Invisible Hand --<br>
+     Gravitational Force</i>
 </p>
 
 Metaphorically saying, Big Organism (the Universe) has its Invisible Hand and this Invisible Hand during every moment is pushing the apple downwards.
 
-So for the sake of simplicity, we might say that Gravitational Force (F) is Invisible Hand — Invisible Hand of Big Organism.
+So, again for the sake of simplicity, we might always say that Gravitational Force (F) is Invisible Hand — Invisible Hand of Big Organism.
 
 And now, we might already say that during every moment, Gravitational Force (Invisible Hand) is pushing this apple downwards.
 
-Let’s repeat it again, when you let an apple out of your hand, this apple starts moving downwards ONLY BECAUSE during every moment Gravitational Force (Invisible Hand) is pushing this apple downwards.
+<p align="center">
+  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/13.png"/><br>
+  <i>The apple being pushed by<br>
+     Invisible Hand --<br>
+     Gravitational Force</i>
+</p>
 
-For example, in cosmos far away from all planets, there is no Gravitational Force (no Invisible Hand) which could push every object downwards. So if you let an apple out of your hand, the apple won’t start moving downwards (won’t start moving anywhere).
+Let’s repeat it once again, when you let an apple out of your hand, the apple starts moving downwards ONLY BECAUSE during every moment Gravitational Force (Invisible Hand) is pushing the apple downwards.
 
-On the other hand,  on the Earth, as we already know, there is Gravitational Force (Invisible Hand) which push every object downwards. So if you let an apple out of your hand, the apple starts its motion downwards only thanks to the pushing done during every moment by Gravitational Force (Invisible Hand).
+But, for example, in cosmos far away from all planets, there is no Gravitational Force (no Invisible Hand) which could push every object downwards. So if you let an apple out of your hand, the apple won’t start moving downwards (won’t start moving anywhere).
+
+<p align="center">
+  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/14.png"/><br>
+</p>
+
+On the other hand, on the Earth, as we already know, there is Gravitational Force (Invisible Hand) which push every object downwards. So if you let an apple out of your hand, the apple starts its motion downwards only thanks to the pushing done during every moment by Gravitational Force (Invisible Hand).
 
 Summarizing, all that Gravitational Force (Invisible Hand) can EVER be doing during ANY moment of time is to be pushing every object downwards.
 
