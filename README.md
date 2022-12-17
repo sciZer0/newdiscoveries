@@ -260,9 +260,7 @@ In other words:
   direction of the pushing</i>
 </p>
 
-The green arrow shows the direction of the pushing.
-
-For example, when your organism (specifically, your hand) is pushing some strong wall with some great effort,
+For example, when your organism (specifically, your hand) is pushing a strong wall with some great effort,
 
 <p align="center">
   <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/10.png"/><br>
@@ -288,7 +286,7 @@ Now, let’s take, for example, Gravitational Force which is familiar to everyon
 
 But what is Gravitational Force?
 
->Remarkably, official/modern science doesn’t even attempt to answer: what is Gravitational Force? Everything modern science knows is that during every moment “something” is pushing every object closer to the ground, and we (people) call this “something” Gravitational Force.
+>Remarkably, "official" science doesn’t even attempt to answer: what is Gravitational Force? Everything modern science knows is that during every moment “something” is pushing every object closer to the ground, and we (people) call this “something” Gravitational Force.
 
 For example, when you let an apple out of your hand,
 
@@ -298,13 +296,19 @@ For example, when you let an apple out of your hand,
 
 the apple starts moving downwards (closer to the ground).
 
-Importantly, the apple starts its motion downwards ONLY BECAUSE during every moment “something” is pushing (or , of course, if wanted, we might say “pulling” or “attracting”) this apple downwards (closer to the ground). So that when you let an apple out of your hand, this apple starts moving downwards.
+Importantly, the apple starts its motion downwards ONLY BECAUSE during every moment “something” is pushing (or , of course, if wanted, we might say “pulling” or “attracting”) this apple downwards (closer to the ground). So when you let an apple out of your hand, this apple starts moving downwards.
 
->In other words, during every moment, “something” is pushing the apple downwards and we (people) call this “something” Gravitational Force.
+In other words, during every moment, “something” is pushing the apple downwards and we (people) call this “something” Gravitational Force.
 
 As we already know, modern/official science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
-So, for the sake of simplicity, Gravitational Force (F) might be imagined by us as the pushing done by a invisible hand  — by Invisible Hand of Big Organism (the green arrow shows the direction of the pushing).
+So, for the sake of simplicity, Gravitational Force (F) might be imagined by us as the pushing done by a invisible hand  — by Invisible Hand of Big Organism.
+
+<p align="center">
+  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/12.png"/><br>
+  <i>The green arrow shows the direction<br>
+     of the pushing</i>
+</p>
 
 Metaphorically saying, Big Organism (the Universe) has its Invisible Hand and this Invisible Hand during every moment is pushing the apple downwards.
 
