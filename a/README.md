@@ -110,7 +110,7 @@ This mistake is the same way called "sufficient" because it works the same way: 
 
 The mistake is that in science, there the Concept of Static Mechanical Work is wrongly missing.
 
-So, for example, the mistake results that 
+So, for example, the mistake results in the fact that
 
 all scientists (all existing science textbooks), for now, CORRECTLY consider that the person on the left (lifting the 2 kg object upwards) is doing Mechanical Work and is spending their Energy (Resource) on this Work;
 
@@ -147,7 +147,7 @@ What about “official” science?
 
 As said above, in my opinion, “official” science is a religion being taken on faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect.
 
-More specifically, the scientific system being a religious sect is a fully-closed one. The system's entrance for any new personm is ONLY possible on recommendations of members of the religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
+Really, the scientific system precisely because of being a religious sect is a fully-closed one. The system's entrance for any new personm is ONLY possible on recommendations of members of the religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
 
 Moreover, the religious sect’s members always desperately cast stones at everyone who dares to say things that are logical but (yes, again) different from those that have been written in their religious books, and this is always so without allowing any open public discussion.
 
@@ -160,7 +160,8 @@ https://github.com/sciZer0/newdiscoveries/tree/main/assets/t/t1
 
 ## START
 
-ATTENTION: This whole work is strictly based on well-known experiments and consistent logical conclusions. Because of that it is very important to read this document from the very beginning, consistently and carefully (step by step, line by line) without any skip.
+<b>ATTENTION:</b></br>
+This whole work is strictly based on well-known experiments and consistent logical conclusions. Because of that it is very important to read this document from the very beginning, consistently and carefully (step by step, line by line) without any skip.
 
 ____
 
