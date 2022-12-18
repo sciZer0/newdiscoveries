@@ -10,7 +10,7 @@
 ## FIRST OF ALL
 Science now is an illogical thing being taken on faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect.
 
-All I have is logic.
+Importantly, all I have is logic.
 
 Some time ago, just through thinking logically about well-known facts, I made the biggest ever scientific discoveries.
 
@@ -145,9 +145,9 @@ In my opinion, all the biggest fundamental mistakes in science occurred because 
 
 What about "official" science?
 
-In my opinion, science is a fundamentally illogical thing being taken on faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect.
+In my opinion, science (inc. "official" science) is a fundamentally illogical thing being taken on faith. And actually, as said above, the situation is even much worse than that, the scientific system itself is a religious sect.
 
-Really, the scientific system precisely because of being a religious sect is a fully-closed one. The system's entrance for any new personm is ONLY possible on recommendations of members of the religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
+More specifically, the scientific system, precisely because of being a religious sect, is a fully-closed thing. The system's entrance for any new person is ONLY possible on recommendations of members of the religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
 
 Moreover, the religious sect’s members always desperately cast stones at everyone who dares to say things that are logical but (yes, again) different from those that have been written in their religious books, and this is always so without allowing any open public discussion.
 
@@ -363,13 +363,13 @@ So, let’s consider an example where a 20 kg object is free-falling during 30 s
   <img src="/assets/images/16.png"/><br>
 </p>
 
-In this case, throughout every moment, Gravitational Force (Invisible hand) is pushing the 20 kg object downwards.
+In this case, during every moment, Gravitational Force (Invisible hand) is pushing the 20 kg object downwards.
 
 We want to calculate Force (Gravitational Force) pushing the 20 kg object.
 
 ATTENTION: The "official" Newton’s formula for calculating Force works absolutely correctly in CASE #1.
 
-Let’s take a close look at what is happening there — at what is going on.
+Let’s take a close look at what is happening there, at what is going on.
 
 So.
 
