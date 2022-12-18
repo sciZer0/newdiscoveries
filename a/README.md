@@ -57,13 +57,13 @@ Remarkably, the discoveries are fully based on well-known experiments and well-k
 
 <i>This Brief Introduction is mostly for experts, so if you are a normal person you might just skip this part</i>
 
-In order for you to get an idea of how big the whole wrongness of modern/official science is, here is a description of just 2 of the fundamental mistakes that I discovered.
+In order for you to get an idea of how big the whole wrongness of science is, here is a description of just 2 of the fundamental mistakes that I discovered.
 
 #### THE 1st SUFFICIENT FUNDAMENTAL MISTAKE IN SCIENCE
 
-This mistake is called "sufficient" because even this mistake alone destroys the entire concept of modern/official science of understanding the Universe.
+This mistake is called "sufficient" because even this mistake alone destroys the entire concept of science of understanding the Universe.
 
-The mistake is based on the fact that modern/official science fails to even understand what is THE REAL REASON that a free-falling object during every second is moving the distance different in size.
+The mistake is based on the fact that science fails to even understand what is THE REAL REASON that a free-falling object during every second is moving the distance different in size.
 
 <p align="center">
   <img src="/assets/images/1.png"/><br>
@@ -72,7 +72,7 @@ The mistake is based on the fact that modern/official science fails to even unde
    well-known experiments</i>
 </p>
 
-So, for example, modern/official science fails to even understand what is the real reason that a free-falling apple during every second is moving the distance different in size:
+So, for example, science fails to even understand what is the real reason that a free-falling apple during every second is moving the distance different in size:
 
 <p align="center">
   <img src="/assets/images/2.png"/>
@@ -82,13 +82,13 @@ in particular, the apple is moving the shorter distance of 4.9 meters during the
 
 The difference in the distances is 9.8 meters.
 
-Unfortunately, modern/official science mistakenly believes that the real reason for the difference in the distances is Gravitational Force.
+Unfortunately, science mistakenly believes that the real reason for the difference in the distances is Gravitational Force.
 
 But the real reason IS NOT Gravitational Force.
 
 The real reason is Inertia. 
 
-But modern/official science absolutely fails to understand this.
+But science absolutely fails to understand this.
 
 As a consequence of the misunderstanding, for now, all scientists (all existing science textbooks) have the absolutely wrong concept of Work and hence have the absolutely wrong concept of Energy. As a result, all the existing formulas for calculating Work (W) and Energy (E), including these basic formulas,
 
@@ -100,15 +100,15 @@ are absolutely wrong.
 
 The Joule, in its turn, is the absolutely wrong unit of measure for Work and Energy.
 
-As said above, even this mistake alone destroys the entire concept of modern/official science of understanding the Universe.
+As said above, even this mistake alone destroys the entire concept of science of understanding the Universe.
 
 <i>The mistake is explained in detail below in this article.</i>
 
 ####  THE 2nd SUFFICIENT FUNDAMENTAL MISTAKE IN SCIENCE
 
-This mistake is the same way called "sufficient" because it works the same way: even this mistake alone destroys the entire concept of modern/official science of understanding the Universe.
+This mistake is the same way called "sufficient" because it works the same way: even this mistake alone destroys the entire concept of science of understanding the Universe.
 
-The mistake is that in modern/official science, there the Concept of Static Mechanical Work is wrongly missing.
+The mistake is that in science, there the Concept of Static Mechanical Work is wrongly missing.
 
 So, for example, the mistake results that 
 
@@ -124,11 +124,11 @@ But in my opinion, the person on the right (holding the 20 kg object motionless 
 
 Due to this mistake — due to the Absence of the Concept of Static Mechanical Work in science — the vast majority of processes in the Universe right now are being fallen out of our sight, and hence understanding. For this reason, humanity has the absolutely wrong picture of the physical world and is losing gigantic opportunities.
 
-As said above, even this mistake alone destroys the entire concept of modern/official science of understanding the Universe.
+As said above, even this mistake alone destroys the entire concept of science of understanding the Universe.
 
 <i>The Concept of Static Mechanical Work is explained in detail below in this article.</i>
 
-Also, in modern/official science, there is a lot of other obvious fundamental mistakes. <i>More on it below.</i>
+Also, in science, there is a lot of other obvious fundamental mistakes. <i>More on it below.</i>
 
 ## CONTEXT IN BRIEF
 
@@ -156,7 +156,7 @@ The today’s situation is that if any clever person wants to enter “official�
 In my Open Letter to Elon Musk, I explain why exactly all “official” physics scientists around the world (including even those who privately agreed with these discoveries) publicly are, and will likely always be against an announcement of these discoveries (Spoiler: only because they have <b>personal reasons</b> for this).
 
 <b>Open Letter to Elon Musk</b><br>
-https://github.com/sciZer0/newdiscoveries/tree/main/l
+https://github.com/sciZer0/newdiscoveries/tree/main/assets/t/t1
 
 ## START
 
@@ -234,7 +234,7 @@ B. “Official” Concept of Work and “Official” Concept of Energy.
 
 ### A. “Official” Concept of Force (“Official” Newton’s Formula for Force)
 
-Foremost, before we start, it is important to understand that modern/official science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
+Foremost, before we start, it is important to understand that science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
 Importantly, I absolutely agree with this.
 
@@ -300,9 +300,9 @@ Importantly, the apple starts its motion downwards ONLY BECAUSE during every mom
 
 In other words, during every moment, “something” is pushing the apple downwards and we (people) call this “something” Gravitational Force.
 
->Importantly, modern/official science does not know what is Gravitational Force.
+>Importantly, science does not know what is Gravitational Force.
 
-And, as we already know, modern/official science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
+And, as we already know, science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
 So, for the sake of simplicity, Gravitational Force (F) might be imagined by us as the pushing done by a invisible hand  — by Invisible Hand of Big Organism.
 
@@ -440,7 +440,7 @@ Now, we might say that while free-falling during every moment:
 
 B. “Official” Concept of Work and “Official” Concept of Energy
 
-From the text above we already know that modern/official science considers that the Universe/Nature in the whole is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
+From the text above we already know that science considers that the Universe/Nature in the whole is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
 Plus, “official” science thinks that the Universe (Big Organism) can do its work by Gravitational Force (Invisible Hand).
 
@@ -554,7 +554,7 @@ This formula above is absolutely wrong and this is explained in Discovery #1.
 
 As we can see:
 
-modern/official science mistakenly believes that the real reason for the difference in the distance is Gravitational Force —  the more Work is done by the same Gravitational Force during the given second, the more Distance (D) traveled by the object during the given second.
+science mistakenly believes that the real reason for the difference in the distance is Gravitational Force —  the more Work is done by the same Gravitational Force during the given second, the more Distance (D) traveled by the object during the given second.
 
 NEW DISCOVERIES CHANGING ALL SCIENCE
 
@@ -570,7 +570,7 @@ __________
 
 This First Fundamental Mistake is exactly the one that is the SUFFICIENT fundamental mistake in science.
 
-Even this single mistake is sufficient, it destroys the whole concept of modern/official science of understanding the Universe.
+Even this single mistake is sufficient, it destroys the whole concept of science of understanding the Universe.
 
 As said above, in my opinion, all the biggest basic mistakes in science occurred because people didn’t and still don’t fully understand the three Newton’s discoveries (Newton’s 1st, 2nd and 3rd Laws) which results, among other things, in misunderstanding of what in reality is Force, Work and Energy.
 
@@ -658,7 +658,7 @@ Here Isaac Newton comes into play again, again with his 1 Law.
 
 According to Newton’s 1st Law, when an object is moving only by inertia, then no Work is being done and no Energy (no resource) is being spent in this process — because when an object is moving only by inertia it is the same that the object is being at rest.
 
-In particular, the wrongness of "official" science  lies in misunderstanding the fact that in every “free-falling” there is also the Inertial motion being moved by the object due only to inertia (i.e. not due to Work of Gravitational Force, but only due to Inertia).
+In particular, the wrongness of science  lies in misunderstanding the fact that in every “free-falling” there is also the Inertial motion being moved by the object due only to inertia (i.e. not due to Work of Gravitational Force, but only due to Inertia).
 
 It all means that when the object is moving the Inertial Distance (D2) during every single second of free-falling, no Work is being done and no Energy (no resource) is being spent.
 
@@ -764,7 +764,7 @@ Importantly, even this single discovered mistake destroys all “official” sci
 
 __________
 
-As said above, even this single mistake described/explained above destroys the entire concept of modern/official science of understanding the Universe.
+As said above, even this single mistake described/explained above destroys the entire concept of science of understanding the Universe.
 
 This mistake is sufficient.
 
