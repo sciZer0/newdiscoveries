@@ -286,7 +286,7 @@ Now, let’s take, for example, Gravitational Force which is familiar to everyon
 
 But what is Gravitational Force?
 
->Remarkably, official science doesn’t even attempt to answer: what is Gravitational Force? Everything modern science knows is that during every moment “something” is pushing every object closer to the ground, and we (people) call this “something” Gravitational Force.
+>Remarkably, science doesn’t even attempt to answer: what is Gravitational Force? Everything modern science knows is that during every moment “something” is pushing every object closer to the ground, and we (people) call this “something” Gravitational Force.
 
 For example, when you let an apple out of your hand,
 
@@ -296,7 +296,7 @@ For example, when you let an apple out of your hand,
 
 the apple starts moving downwards (closer to the ground).
 
-Importantly, the apple starts its motion downwards ONLY BECAUSE during every moment “something” is pushing (or , of course, if wanted, we might say “pulling” or “attracting”) this apple downwards (closer to the ground). So when you let an apple out of your hand, this apple starts moving downwards.
+Importantly, the apple starts its motion downwards ONLY BECAUSE during every moment “something” is pushing (or , of course, if wanted, we might say "pulling" or "attracting") the apple downwards (closer to the ground). So when you let an apple out of your hand, the apple starts moving downwards.
 
 In other words, during every moment, “something” is pushing the apple downwards and we (people) call this “something” Gravitational Force.
 
@@ -317,7 +317,7 @@ Metaphorically saying, Big Organism (the Universe) has its Invisible Hand and th
 
 So, again for the sake of simplicity, we might always say that Gravitational Force (F) is Invisible Hand — Invisible Hand of Big Organism.
 
-And now, we might already say that during every moment, Gravitational Force (Invisible Hand) is pushing this apple downwards.
+And now, we might already say that during every moment, Gravitational Force (Invisible Hand) is pushing the apple downwards.
 
 <p align="center">
   <img src="/assets/images/13.png"/><br>
@@ -334,21 +334,34 @@ But, for example, in cosmos far away from all planets, there is no Gravitational
   <img src="/assets/images/14.png"/><br>
 </p>
 
-On the other hand, on the Earth, as we already know, there is Gravitational Force (Invisible Hand) which push every object downwards. So if you let an apple out of your hand, the apple starts its motion downwards only thanks to the pushing done during every moment by Gravitational Force (Invisible Hand).
+On the other hand, on the Earth, as we already know, there is Gravitational Force (Invisible Hand) which pushes every object downwards. So if you let an apple out of your hand, the apple starts its motion downwards only thanks to the push being done — during every moment —  by Gravitational Force (Invisible Hand).
 
-Summarizing, all that Gravitational Force (Invisible Hand) can EVER be doing during ANY moment of time is to be pushing every object downwards.
+Summarizing, all that Gravitational Force (Invisible Hand) can EVER be doing during ANY moment of time is to be pushing an object downwards.
 
 Here is the "official" Newton’s Formula for calculating Force,
 
-where,F — Force pushing the object (measured in Newtons: N);m — Mass of the pushed object (measured in kilograms: kg);a — Real Acceleration of the pushed object during one second (measured in meter/second²: m/s²); or, we might say, Real Increase in Velocity of the pushed object per one second (measured in meter/second/second: m/s/s).
+<p align="center">
+  <img src="/assets/images/15.png"/><br>
+</p>
 
-In my opinion, the true Newton’s Formula is different. More on this a bit below.
+where,<br>
+F — Force pushing the object (measured in Newtons: N);<br>
+m — Mass of the pushed object (measured in kilograms: kg);<br>
+a — Real Acceleration of the pushed object during one second (measured in meter/second²: m/s²); or, we might say, Real Increase in Velocity of the pushed object per one second (measured in meter/second/second: m/s/s).
 
-The "official" Newton’s formula for Force is easier to understand through the simple example where a 20 kg object is free-falling.
+In my opinion, the true Newton’s Formula is different. <i>More on this a bit below.</i>
+
+Only in some cases, the "official" formula for Force works correctly.
+
+The formula is easier to understand through a simple example where a 20 kg object is free-falling.
 
 CASE #1
 
 So, let’s consider an example where a 20 kg object is free-falling during 30 seconds.
+
+<p align="center">
+  <img src="/assets/images/16.png"/><br>
+</p>
 
 In this case, throughout every moment, Gravitational Force (Invisible hand) is pushing the 20 kg object downwards.
 
