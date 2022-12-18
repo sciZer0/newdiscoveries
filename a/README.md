@@ -158,7 +158,7 @@ The today’s situation is that if any clever person wants to enter "official" s
 In my Open Letter to Elon Musk, I explain why exactly all "official" physics scientists around the world (including even those who privately agreed with these discoveries) publicly are, and will likely always be against an announcement of these discoveries (Spoiler: only because they have <b>personal reasons</b> for this).
 
 <b>Open Letter to Elon Musk</b><br>
-https://github.com/sciZer0/newdiscoveries/tree/main/assets/t/t1
+https://github.com/sciZer0/newdiscoveries/tree/main/l
 
 ## START
 
