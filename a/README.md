@@ -172,13 +172,13 @@ B. "Official" Concept of Work and "Official" Concept of Energy.
 
 ### NEW DISCOVERIES CHANGING ALL SCIENCE
 
-### Discovery #1
+### DISCOVERY #1
 <i>FUNDAMENTAL MISTAKES IN “OFFICIAL” SCIENCE</i>
 
 1.1. THE 1st Sufficient Fundamental Mistake in "Official" Science;<br>
 1.2. Endless Series of Fundamental Mistakes in "Official" Science.
 
-### Discovery #2
+### DISCOVERY #2
 <i>NEW FORMULAS OF FORCE, WORK, ENERGY, POWER</i>
 
 2.1. Target Acceleration for each Force;<br>
@@ -193,7 +193,7 @@ B. "Official" Concept of Work and "Official" Concept of Energy.
 2.10. New Formula for Potential Energy;<br>
 2.11. New Formula for Power.<br>
 
-### Discovery #3
+### DISCOVERY #3
 <i>NEW LAW OF CONSEVATION OF ENERGY & FREE CLEAN ENERGY</i>
 
 3.1. Precedents of Conservation of Energy;<br>
@@ -203,7 +203,7 @@ B. "Official" Concept of Work and "Official" Concept of Energy.
 3.6. New Energy & New Ability of Magnets;<br>
 3.7. New-Generation Generator of Electrical Energy.<br>
 
-### Discovery #4
+### DISCOVERY #4
 
 4.1. First Correct Explanation of Bernoulli’s Equation;<br>
 4.2. New Concept of Charge;<br>
