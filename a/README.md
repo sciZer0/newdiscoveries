@@ -8,7 +8,7 @@
 * START<br>
 
 ## FIRST OF ALL
-In my opinion, science now is an extremely stupid religion being taken on faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect. <i>More on it a bit below.</i>
+In my opinion, science now is an extremely illogical religion being taken on faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect. <i>More on it a bit below.</i>
 
 All I have is logic.
 
@@ -66,7 +66,7 @@ This mistake is called "sufficient" because even this mistake alone destroys the
 The mistake is based on the fact that modern/official science fails to even understand what is THE REAL REASON that a free-falling object during every second is moving the distance different in size.
 
 <p align="center">
-  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/1.png"/><br>
+  <img src="/assets/images/1.png"/><br>
   <i>We (people) know all the exact<br> 
    numbers about “free-falling“ through<br>
    well-known experiments</i>
@@ -75,7 +75,7 @@ The mistake is based on the fact that modern/official science fails to even unde
 So, for example, modern/official science fails to even understand what is the real reason that a free-falling apple during every second is moving the distance different in size:
 
 <p align="center">
-  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/2.png"/>
+  <img src="/assets/images/2.png"/>
 </p>
 
 in particular, the apple is moving the shorter distance of 4.9 meters during the 1st second and the longer distance of 14.7 meters during the 2nd second.
@@ -93,7 +93,7 @@ But modern/official science absolutely fails to understand this.
 As a consequence of the misunderstanding, for now, all scientists (all existing science textbooks) have the absolutely wrong concept of Work and hence have the absolutely wrong concept of Energy. As a result, all the existing formulas for calculating Work (W) and Energy (E), including these basic formulas,
 
 <p align="center">
-  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/3.png"/>
+  <img src="/assets/images/3.png"/>
 </p>
 
 are absolutely wrong.
@@ -115,7 +115,7 @@ So, for example, the mistake results that
 all scientists (all existing science textbooks), for now, CORRECTLY consider that the person on the left (lifting the 2 kg object upwards) is doing Mechanical Work and is spending their Energy (Resource) on this Work;
 
 <p align="center">
-  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/4.png"/>
+  <img src="/assets/images/4.png"/>
 </p>
 
 BUT all scientists (all the existing science textbooks), for now, INCORRECTLY consider that the person on the right (holding the 20 kg object motionless in the air) is NOT DOING Mechanical Work and is NOT SPENDING their Energy (Resource) on this Work!
@@ -139,7 +139,7 @@ But how did we get there?
 In my opinion, all the biggest fundamental mistakes in science occurred because people, as said above, didn’t and still don’t fully understand well-knwon Newton’s discoveries. Even though this might seem impossible, the fact of this misunderstanding is true.
 
 <p align="center">
-  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/5.png"/><br>
+  <img src="/assets/images/5.png"/><br>
   <i>Isaac Newton: A Not-Fully-Understood Scientific Genius</i>
 </p>
 
@@ -212,11 +212,11 @@ B. “Official” Concept of Work and “Official” Concept of Energy.
 
 
 <p align="center">
-  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/6.png"/><br>
+  <img src="/assets/images/6.png"/><br>
 </p>
 
 <p align="center">
-  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/7.png"/><br>
+  <img src="/assets/images/7.png"/><br>
 </p>
 
 Really, Truth can be more surprising than Fiction
@@ -247,7 +247,7 @@ Here is the most simple and simultaneously exact definition of Force:
 <b>Force is a push.</b>
 
 <p align="center">
-  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/8.png"/><br>
+  <img src="/assets/images/8.png"/><br>
 </p>
 
 In other words:
@@ -255,7 +255,7 @@ In other words:
 <b>Force is the process of pushing an object in a certain direction.</b>
 
 <p align="center">
-  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/9.png"/><br>
+  <img src="/assets/images/9.png"/><br>
   <i>The green arrow shows the<br>
   direction of the pushing</i>
 </p>
@@ -263,7 +263,7 @@ In other words:
 For example, when your organism (specifically, your hand) is pushing a strong wall with some great effort,
 
 <p align="center">
-  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/10.png"/><br>
+  <img src="/assets/images/10.png"/><br>
   <i>Your hand creates Force</i>
 </p>
 
@@ -276,7 +276,7 @@ In other words:
 In the given case, your hand is pushing the wall.
 
 <p align="center">
-  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/10.png"/><br>
+  <img src="/assets/images/10.png"/><br>
   <i>Your hand is pushing the wall</i>
 </p>
 
@@ -286,12 +286,12 @@ Now, let’s take, for example, Gravitational Force which is familiar to everyon
 
 But what is Gravitational Force?
 
->Remarkably, "official" science doesn’t even attempt to answer: what is Gravitational Force? Everything modern science knows is that during every moment “something” is pushing every object closer to the ground, and we (people) call this “something” Gravitational Force.
+>Remarkably, official science doesn’t even attempt to answer: what is Gravitational Force? Everything modern science knows is that during every moment “something” is pushing every object closer to the ground, and we (people) call this “something” Gravitational Force.
 
 For example, when you let an apple out of your hand,
 
 <p align="center">
-  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/11.png"/><br>
+  <img src="/assets/images/11.png"/><br>
 </p>
 
 the apple starts moving downwards (closer to the ground).
@@ -307,7 +307,7 @@ And, as we already know, modern/official science considers that the Universe/Nat
 So, for the sake of simplicity, Gravitational Force (F) might be imagined by us as the pushing done by a invisible hand  — by Invisible Hand of Big Organism.
 
 <p align="center">
-  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/12.png"/><br>
+  <img src="/assets/images/12.png"/><br>
   <i>The apple being pushed by<br>
      Invisible Hand --<br>
      Gravitational Force</i>
@@ -320,7 +320,7 @@ So, again for the sake of simplicity, we might always say that Gravitational For
 And now, we might already say that during every moment, Gravitational Force (Invisible Hand) is pushing this apple downwards.
 
 <p align="center">
-  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/13.png"/><br>
+  <img src="/assets/images/13.png"/><br>
   <i>The apple being pushed by<br>
      Invisible Hand --<br>
      Gravitational Force</i>
@@ -331,7 +331,7 @@ Let’s repeat it once again, when you let an apple out of your hand, the apple 
 But, for example, in cosmos far away from all planets, there is no Gravitational Force (no Invisible Hand) which could push every object downwards. So if you let an apple out of your hand, the apple won’t start moving downwards (won’t start moving anywhere).
 
 <p align="center">
-  <img src="https://github.com/sciZer0/newdiscoveries/blob/main/assets/images/14.png"/><br>
+  <img src="/assets/images/14.png"/><br>
 </p>
 
 On the other hand, on the Earth, as we already know, there is Gravitational Force (Invisible Hand) which push every object downwards. So if you let an apple out of your hand, the apple starts its motion downwards only thanks to the pushing done during every moment by Gravitational Force (Invisible Hand).
@@ -777,7 +777,7 @@ Help civilization.
 The continuation of the article is here:
 
 <p align="center">
-  <img src="https://github.com/sciZer0/new_discoveries/blob/main/assets/images/table.png"/>
+  <img src="/assets/images/table.png"/>
 </p>
 
 
