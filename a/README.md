@@ -28,14 +28,14 @@ Note: Thanks to these discoveries, at best,<br>
 
 ## THIS IS EASY TO UNDERSTAND
 
-This article explaining the discoveries was written in such a way as to be understandable to everyone. So you are fully able to easily understand everything, even if you have no scientific background.
+This article explaining the discoveries was written in such a way as to be understandable to everyone.
 
 In particular, if you know the multiplication table and can understand these simple mathematical examples:
 
 2 * 2 = 4<br>
 20 * 9.8 = 196
 
-you are fully able to easily understand every thing in this article.
+you are fully able to easily understand every thing, even if you have no scientific background.
 
 Throughout the entire article, I practice “redundancy of understandability”, using very simple language and sometimes explaining the same things several times and in various ways.
 
