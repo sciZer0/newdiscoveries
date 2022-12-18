@@ -8,7 +8,7 @@
 * START<br>
 
 ## FIRST OF ALL
-In my opinion, science now is an extremely illogical religion being taken on faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect. <i>More on it a bit below.</i>
+Science now is an illogical thing being taken on faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect. <i>More on it a bit below.</i>
 
 All I have is logic.
 
