@@ -30,7 +30,7 @@ Remarkably, the discoveries are fully based on well-known experiments and well-k
 Here is the main article,<br>
 
 <b>New Discoveries Changing All Science</b><br>
-https://github.com/sciZer0/newdiscoveries/blob/main/README.md
+https://github.com/sciZer0/newdiscoveries/tree/main/a
 
 Although there are 2 problems, social and engineering.
 
