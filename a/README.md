@@ -6,7 +6,7 @@
 * BRIEF INTRODUCTION<br>
 * CONTEXT IN BRIEF<br>
 * START<br>
-1
+
 ## FIRST OF ALL
 In my opinion, science now is an extremely stupid religion being taken on faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect. <i>More on it a bit below.</i>
 
