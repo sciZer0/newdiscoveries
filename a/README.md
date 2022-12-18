@@ -143,41 +143,40 @@ In my opinion, all the biggest fundamental mistakes in science occurred because 
   <i>Isaac Newton: A Not-Fully-Understood Scientific Genius</i>
 </p>
 
-What about “official” science?
+What about "official" science?
 
-As said above, in my opinion, “official” science is a religion being taken on faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect.
+As said above, in my opinion, "official" science is a religion being taken on faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect.
 
 Really, the scientific system precisely because of being a religious sect is a fully-closed one. The system's entrance for any new personm is ONLY possible on recommendations of members of the religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
 
 Moreover, the religious sect’s members always desperately cast stones at everyone who dares to say things that are logical but (yes, again) different from those that have been written in their religious books, and this is always so without allowing any open public discussion.
 
-The today’s situation is that if any clever person wants to enter “official” science, first they must humiliate their own intellect, essentially they must DEGRADE their own intellect because the fundamental mistakes existing in “official” science are too big and obvious, it is impossible not to see them.
+The today’s situation is that if any clever person wants to enter "official" science, first they must humiliate their own intellect, essentially they must DEGRADE their own intellect because the fundamental mistakes existing in "official" science are too big and obvious, it is impossible not to see them.
 
-In my Open Letter to Elon Musk, I explain why exactly all “official” physics scientists around the world (including even those who privately agreed with these discoveries) publicly are, and will likely always be against an announcement of these discoveries (Spoiler: only because they have <b>personal reasons</b> for this).
+In my Open Letter to Elon Musk, I explain why exactly all "official" physics scientists around the world (including even those who privately agreed with these discoveries) publicly are, and will likely always be against an announcement of these discoveries (Spoiler: only because they have <b>personal reasons</b> for this).
 
 <b>Open Letter to Elon Musk</b><br>
 https://github.com/sciZer0/newdiscoveries/tree/main/assets/t/t1
 
 ## START
 
-<b>ATTENTION:</b></br>
-This whole work is strictly based on well-known experiments and consistent logical conclusions. Because of that it is very important to read this document from the very beginning, consistently and carefully (step by step, line by line) without any skip.
+ATTENTION: This whole work is strictly based on well-known experiments and consistent logical conclusions. Because of that it is very important to read this document from the very beginning, consistently and carefully (step by step, line by line) without any skip.
 
 ____
 
 ### Compulsory Part
 <i>“OFFICIAL” CONCEPTS & FORMULAS</i>
 
-A. “Official” Concept of Force (“Official” Newton’s Formula for Force);<br>
-B. “Official” Concept of Work and “Official” Concept of Energy.
+A. "Official" Concept of Force ("Official" Newton’s Formula for Force);<br>
+B. "Official" Concept of Work and "Official" Concept of Energy.
 
 ### NEW DISCOVERIES CHANGING ALL SCIENCE
 
 ### Discovery #1
 <i>FUNDAMENTAL MISTAKES IN “OFFICIAL” SCIENCE</i>
 
-1.1. THE 1st Sufficient Fundamental Mistake in “Official” Science;<br>
-1.2. Endless Series of Fundamental Mistakes in “Official” Science.
+1.1. THE 1st Sufficient Fundamental Mistake in "Official" Science;<br>
+1.2. Endless Series of Fundamental Mistakes in "Official" Science.
 
 ### Discovery #2
 <i>NEW FORMULAS OF FORCE, WORK, ENERGY, POWER</i>
@@ -228,12 +227,12 @@ ___
 
 “OFFICIAL” CONCEPTS & FORMULAS
 
-A. “Official” Concept of Force (“Official” Newton’s Formula for Force);<br>
-B. “Official” Concept of Work and “Official” Concept of Energy.
+A. "Official" Concept of Force ("Official" Newton’s Formula for Force);<br>
+B. "Official" Concept of Work and "Official" Concept of Energy.
 
 
 
-### A. “Official” Concept of Force (“Official” Newton’s Formula for Force)
+### A. "Official" Concept of Force ("Official" Newton’s Formula for Force)
 
 Foremost, before we start, it is important to understand that science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
@@ -241,7 +240,7 @@ Importantly, I absolutely agree with this.
 
 More detail on this we will be getting throughout the way.
 
-Now, let’s start from the very beginning — from the “official” concept of Force.
+Now, let’s start from the very beginning — from the "official" concept of Force.
 
 Here is the most simple and simultaneously exact definition of Force:
 
@@ -339,13 +338,13 @@ On the other hand, on the Earth, as we already know, there is Gravitational Forc
 
 Summarizing, all that Gravitational Force (Invisible Hand) can EVER be doing during ANY moment of time is to be pushing every object downwards.
 
-Here is the “official” Newton’s Formula for calculating Force,
+Here is the "official" Newton’s Formula for calculating Force,
 
 where,F — Force pushing the object (measured in Newtons: N);m — Mass of the pushed object (measured in kilograms: kg);a — Real Acceleration of the pushed object during one second (measured in meter/second²: m/s²); or, we might say, Real Increase in Velocity of the pushed object per one second (measured in meter/second/second: m/s/s).
 
 In my opinion, the true Newton’s Formula is different. More on this a bit below.
 
-The “official” Newton’s formula for Force is easier to understand through the simple example where a 20 kg object is free-falling.
+The "official" Newton’s formula for Force is easier to understand through the simple example where a 20 kg object is free-falling.
 
 CASE #1
 
@@ -355,7 +354,7 @@ In this case, throughout every moment, Gravitational Force (Invisible hand) is p
 
 We want to calculate Force (Gravitational Force) pushing the 20 kg object.
 
-ATTENTION: The “official” Newton’s formula for calculating Force works absolutely correctly in CASE #1.
+ATTENTION: The "official" Newton’s formula for calculating Force works absolutely correctly in CASE #1.
 
 Let’s take a close look at what is happening there — at what is going on.
 
@@ -391,7 +390,7 @@ Real Acceleration of the pushed object during any single second (a) is always th
 
 a = 9.8 m/s².
 
-Gravitational Force (Invisible Hand) pushing the 20 kg object downwards while free-falling can be correctly calculated through the “official” Newton’s Formula this way:
+Gravitational Force (Invisible Hand) pushing the 20 kg object downwards while free-falling can be correctly calculated through the "official" Newton’s Formula this way:
 
 as the product of Mass of the pushed object, m (in our case, m = 20 kg) and Real Acceleration of the pushed object during one second, a (in our case, a = 9.8 m/s²):
 
@@ -439,19 +438,19 @@ Now, we might say that while free-falling during every moment:
 
 · the 50 kg object is being pushed by Force equal to 490 Newtons.
 
-B. “Official” Concept of Work and “Official” Concept of Energy
+B. "Official" Concept of Work and "Official" Concept of Energy
 
 From the text above we already know that science considers that the Universe/Nature in the whole is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
-Plus, “official” science thinks that the Universe (Big Organism) can do its work by Gravitational Force (Invisible Hand).
+Plus, "official" science thinks that the Universe (Big Organism) can do its work by Gravitational Force (Invisible Hand).
 
-Also, we know that in the vision of “official” science all that Gravitational Force (Invisible Hand) can EVER be doing during ANY moment of time is to be pushing an object downwards.
+Also, we know that in the vision of "official" science all that Gravitational Force (Invisible Hand) can EVER be doing during ANY moment of time is to be pushing an object downwards.
 
 I absolutely agree with everything above.
 
 With this all being held in mind, we go on.
 
-The “Official” Concept of Work and “Official” Concept of Energy are also easier to understand through the  same CASE #1 familiar to us.
+The "Official" Concept of Work and "Official" Concept of Energy are also easier to understand through the  same CASE #1 familiar to us.
 
 CASE #1
 
@@ -459,7 +458,7 @@ So, let’s again consider the example where the 20 kg object is free-falling du
 
 In this case, throughout every moment, Gravitational Force (Invisible hand) is pushing the 20 kg object downwards.
 
-ATTENTION: The “official” Newton’s formula for Force works absolutely correctly in CASE #1.
+ATTENTION: The "official" Newton’s formula for Force works absolutely correctly in CASE #1.
 
 Let’s take again a closer look at what is happening there — at what is going on.
 
@@ -479,23 +478,23 @@ Summary Distance (D) during the 1st second is 4.9 meters;Summary Distance (D) du
 
 We (people) know all these exact numbers about “free-falling“ by well-known experiments.
 
-So what is Work in the vision of “official” science?
+So what is Work in the vision of "official" science?
 
-“Official” science says that while the free-falling of the 20 kg object, 
+"Official" science says that while the free-falling of the 20 kg object, 
 
 the Universe (Big Organism) during every second is doing Work  by Gravitational Force (Invisible Hand) pushing the 20 kg object. 
 
 I absolutely agree with this above.
 
-But  I don’t agree with the formula “official” science calculates Work by.
+But  I don’t agree with the formula "official" science calculates Work by.
 
-Specifically, “Official” science says that Work being done by Gravitational Force during any given second can be calculated by this formula:
+Specifically, "Official" science says that Work being done by Gravitational Force during any given second can be calculated by this formula:
 
 W = F * D
 
 where,W — Work done by Force during the given second (measured in Joules: J);F — Force pushing the object during the given second (measured in Newtons: N);D — Distance moved by the pushed object during the given second (measured in meters: m).
 
-Since during every second Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during every second the pushed 20 kg object is moving the distance different in size, “official” science says the following:
+Since during every second Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during every second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
 
 Work being done by Gravitational Force (Invisible Hand )
 
@@ -509,25 +508,25 @@ during the 4th second is:W = 196 (N) * 34.3 (m) = 6722.8 Joules
 
 during the 5th second is:W = 196 (N) * 44.1 (m) = 8643.6 Joules
 
-ATTENTION: “Official” science states that while free-falling
+ATTENTION: "Official" science states that while free-falling
 
 the more Distance (D) traveled by the object during the given second, the more Work is done by the same Gravitational Force during the given second; —  or in other words,  the more Work is done by the same Gravitational Force during the given second, the more Distance (D) traveled by the object during the given second.
 
 This statement above is absolutely wrong and this is explained in Discovery #1.
 
-Also, “official” science says that while free-falling of the 20 kg object, during every second the Universe (Big Organism), while doing Work, is spending some Energy (resource) of the Universe (Big Organism) on this Work.  
+Also, "official" science says that while free-falling of the 20 kg object, during every second the Universe (Big Organism), while doing Work, is spending some Energy (resource) of the Universe (Big Organism) on this Work.  
 
 I also absolutely agree with this above.
 
-But I don’t agree with the formula “official” science calculates Energy by.
+But I don’t agree with the formula "official" science calculates Energy by.
 
-Specifically, “Official” science says that Energy being spent by the Universe during the given second (while Gravitational Force is pushing the free-falling object) can be calculated by this formula:
+Specifically, "Official" science says that Energy being spent by the Universe during the given second (while Gravitational Force is pushing the free-falling object) can be calculated by this formula:
 
 E = F * D
 
 where,E — Energy (Resource) being spent by the subject doing Work during the given second, (for example, as the subject this might be you or the Universe) (Joule: J);F — Force pushing the object during every second (Newton: N);D — Distance moved by the pushed object during the given second (meter: m).
 
-Since during every second Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during every second the pushed 20 kg object is moving the distance different in size, “official” science says the following:
+Since during every second Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during every second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
 
 Energy (Resource) being spent by the Universe on Work
 
@@ -541,13 +540,13 @@ during the 4th second is:E = 196 (N) * 34.3 (m) = 6722.8 Joules
 
 during the 5th second is:E = 196 (N) * 44.1 (m) = 8643.6 Joules
 
-ATTENTION: “Official” science states that while free-falling 
+ATTENTION: "Official" science states that while free-falling 
 
 the more Distance (D) traveled by the object  during the given second, the more Energy (Resource) is being spent by the Universe during the given second; — or in other words, the more Energy (Resource) is being spent by the Universe  during the given second, the more Distance (D) traveled by the  object during the given second.
 
 This statement above is absolutely wrong and this is explained in Discovery #1
 
-Summarizing, “Official” science states that
+Summarizing, "Official" science states that
 
 W = E = F * D
 
@@ -563,11 +562,11 @@ Discovery #1
 
 FUNDAMENTAL MISTAKES IN OFFICIAL SCIENCE
 
-1.1. First Fundamental Mistake in “Official” Science;1.2. Second Fundamental Mistake in “Official” Science;1.3. Third Fundamental Mistake in “Official” Science;1.4. Fourth Fundamental Mistake in “Official” Science;1.5. Endless Series of Fundamental Mistakes in “Official” Science.
+1.1. First Fundamental Mistake in "Official" Science;1.2. Second Fundamental Mistake in "Official" Science;1.3. Third Fundamental Mistake in "Official" Science;1.4. Fourth Fundamental Mistake in "Official" Science;1.5. Endless Series of Fundamental Mistakes in "Official" Science.
 
 __________
 
-1.1. First Fundamental Mistake in “Official” Science
+1.1. First Fundamental Mistake in "Official" Science
 
 This First Fundamental Mistake is exactly the one that is the SUFFICIENT fundamental mistake in science.
 
@@ -575,11 +574,11 @@ Even this single mistake is sufficient, it destroys the whole concept of science
 
 As said above, in my opinion, all the biggest basic mistakes in science occurred because people didn’t and still don’t fully understand the three Newton’s discoveries (Newton’s 1st, 2nd and 3rd Laws) which results, among other things, in misunderstanding of what in reality is Force, Work and Energy.
 
-In particular, “official” science fails to understand the difference between how Inertia works and how Gravitational Force (Invisible Hand) works; and especially, what happens when they (Inertia and Gravitational Force) work simultaneously.
+In particular, "official" science fails to understand the difference between how Inertia works and how Gravitational Force (Invisible Hand) works; and especially, what happens when they (Inertia and Gravitational Force) work simultaneously.
 
-In this chapter, along the way, we will see the total wrongness of “official” science: 
+In this chapter, along the way, we will see the total wrongness of "official" science: 
 
-the total wrongness of the “official” formulas for calculating Work (W) and Energy (E).
+the total wrongness of the "official" formulas for calculating Work (W) and Energy (E).
 
 In order to fully understand this, let’s recall some familiar stuff above, adding some new points.
 
@@ -631,9 +630,9 @@ Moreover, the difference in the distances is always the same, 9.8 meters:
 
 14.7 (m) - 4.9 (m) = 9.8 m24.5 (m) - 14.7 (m) = 9.8 m34.3 (m) - 24.5 (m) = 9.8 m44.1 (m) - 34.3 (m) = 9.8 mand so on.
 
-“Official” science wrongly believes that this difference in the distances (9.8 m) is due to the different-in-size Work that Gravitational Force (Invisible Hand) is doing during every second.
+"Official" science wrongly believes that this difference in the distances (9.8 m) is due to the different-in-size Work that Gravitational Force (Invisible Hand) is doing during every second.
 
-Unfortunately, “official” science is absolutely wrong.
+Unfortunately, "official" science is absolutely wrong.
 
 And right now I will give you the explanation of what is the real reason for this difference in the distances.
 
@@ -709,13 +708,13 @@ According to Newton’s 1st Law, when an object is moving only by inertia (D2), 
 
 Since the Inertial Distance (D2 = 9.8 meters) during the 2nd second is absolutely irrelevant to the pushing done by Gravitational Force during the 2nd second (i.e. is irrelevant to the Work (W) of Gravitational Force during the 2nd second), then the Inertial Distance (D2 = 9.8 meters) should not increase the calculated Work (W) of Gravitational Force during the 2nd second and the calculated Energy (E) .
 
-But in this wrong “official” formula for Work and Energy:
+But in this wrong "official" formula for Work and Energy:
 
 the Inertial Distance (D2) is mistakenly included in the calculation and hence mistakenly increases the wrongly calculated Work (W) of Gravitational Force (F) during the 2nd second and therefore mistakenly increases the wrongly calculated Energy (E).
 
 It is important to understand that the same thing happens during every single second of the falling (please study the table above carefully)!
 
-And this all means that the base “official” formula for Work and Energy:
+And this all means that the base "official" formula for Work and Energy:
 
 is absolutely wrong!
 
@@ -723,13 +722,13 @@ And once again,
 
 it’s extremely important to understand that DURING EVERY SINGLE SECOND of “free-falling” the same Energy is required to do the same Work — to increase Velocity of the pushed object by the same value of 9.8 m/s.
 
-Also, it is very important to understand that this wrong “official” formula for Work and Energy is base and thus strictly defines all other “official formulas“, incl. the “official” formula for potential Energy (Ep) and the “official” formula for kinetic Energy (Ek):
+Also, it is very important to understand that this wrong "official" formula for Work and Energy is base and thus strictly defines all other “official formulas“, incl. the "official" formula for potential Energy (Ep) and the "official" formula for kinetic Energy (Ek):
 
-which means that these “official” formulas for potential Energy (Ep) and kinetic Energy (Ek):
+which means that these "official" formulas for potential Energy (Ep) and kinetic Energy (Ek):
 
 are also absolutely wrong!
 
-This means that all of the “Official” Formulas for Work and Energy, while using them for calculations, literally generate nonsense.
+This means that all of the "Official" Formulas for Work and Energy, while using them for calculations, literally generate nonsense.
 
 And since all these wrong formulas also strictly define the dimensional formulas of the Joule (Joule =Newton*meter = kilogram*meter²/second²), it all means that the Joule is the absolutely wrong unit of measure for Work and Energy!
 
@@ -741,7 +740,7 @@ The real reason for this difference in the distances IS NOT Gravitational Force.
 
 The real reason for this difference in the distances IS Inertia.
 
-Unfortunately, “official” science absolutely fails to understand this.
+Unfortunately, "official" science absolutely fails to understand this.
 
 As a consequence of this misunderstanding, for now, all scientists (all existing science textbooks) have the absolutely wrong concept of Work and hence have the absolutely wrong concept of Energy. As a result, all the existing formulas for Work (W) and Energy (E), including these basic formulas,
 
@@ -751,17 +750,17 @@ The Joule, in its turn, is the absolutely wrong unit of measure for Work and Ene
 
 Always when we are calculating Work or Energy in Joules we get nonsense.
 
-Since concepts of Work and Energy are basic in science, even due to this single fundamental mistake, there is the total incorrectness of “official” science.
+Since concepts of Work and Energy are basic in science, even due to this single fundamental mistake, there is the total incorrectness of "official" science.
 
 CONCLUSIONS
 
-This discovered mistake (error) is absolutely sufficient proof of the total incorrectness of all the “Official” Formulas for Work and Energy, and is absolutely sufficient proof of the total wrongness to use any of these formulas for any calculations of Work or Energy.
+This discovered mistake (error) is absolutely sufficient proof of the total incorrectness of all the "Official" Formulas for Work and Energy, and is absolutely sufficient proof of the total wrongness to use any of these formulas for any calculations of Work or Energy.
 
 This mistake is fundamental. LITERALLY-CRYING.
 
-Of course, this discovered mistake (error) automatically cancels all the “Official” Formulas for Work and Energy, and also the Joule as the unit of measure for Work and Energy!
+Of course, this discovered mistake (error) automatically cancels all the "Official" Formulas for Work and Energy, and also the Joule as the unit of measure for Work and Energy!
 
-Importantly, even this single discovered mistake destroys all “official” science.
+Importantly, even this single discovered mistake destroys all "official" science.
 
 __________
 
