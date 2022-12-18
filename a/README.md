@@ -33,7 +33,9 @@ This article explaining the discoveries was written in such a way as to be under
 In particular, if you know the multiplication table and can understand these simple mathematical examples:
 
 2 * 2 = 4<br>
-20 * 9.8 = 196
+20 * 9.8 = 196<br>
+8 / 2 = 4<br>
+9.8 / 2 = 4.9
 
 you are fully able to easily understand every thing, even if you have no scientific background.
 
