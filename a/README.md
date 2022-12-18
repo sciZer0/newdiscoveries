@@ -49,7 +49,7 @@ English is my second language, I started learning it by myself when I was 39 and
 
 Some time ago, I made scientific discoveries about Force, Work and Energy that cardinally change/improve our understanding the Universe.
 
->Since Energy, as THE main resource for every event in the Universe, is the main concept in the chief sciences, these discoveries, as said above, directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
+>Since Energy, as THE main resource for every event in the Universe, is the main concept in the chief sciences, the discoveries, as said above, directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
 
 Importantly, at the start of the process, I also discovered the existence of the biggest, LITERALLY-CRYING, logical mistakes in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
 
