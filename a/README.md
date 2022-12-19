@@ -147,7 +147,7 @@ In my opinion, all the biggest fundamental mistakes in science occurred because 
 
 What about "official" science?
 
-In my opinion, science (inc. "official" science) is a fundamentally wrong thing being taken on faith. And actually, as said above, the situation is even much worse than that, the scientific system itself is a religious sect.
+In my opinion, science (inc. "official" science) is a fundamentally illogical/wrong thing being taken on faith. And actually, the situation is even much worse than that, the scientific system itself, as said above, is a religious sect.
 
 The scientific system, precisely because of being a religious sect, is a fully-closed one. The system's entrance for any new person is ONLY possible on recommendations of members of the religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
 
@@ -366,6 +366,10 @@ So, let’s consider an example where a 20 kg object is free-falling during 30 s
 </p>
 
 In this case, during every moment, Gravitational Force (Invisible hand) is pushing the 20 kg object downwards.
+
+<p align="center">
+  <img src="/assets/images/17.png"/><br>
+</p>
 
 We want to calculate Force (Gravitational Force) pushing the 20 kg object.
 
