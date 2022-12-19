@@ -417,13 +417,13 @@ As we can see, during every second Velocity of the pushed 20 kg object is evenly
    calculations</i>
 </p>
 
-So Real Increase in Velocity of the pushed object per ANY second (<b>Δv</b>) is always the same,
+So Real Increase in Velocity of the pushed object per ANY given second (<b>Δv</b>) is always the same,
 
 <b>Δv</b> = <b>9.8</b> m/s per second;
 
 or, in other words,
 
-Real Acceleration of the pushed object during any single second (<b>a</b>) is always the same,
+Real Acceleration of the pushed object during any given second (<b>a</b>) is always the same,
 
 <b>a</b> = <b>9.8</b> m/s².
 
@@ -433,17 +433,17 @@ Gravitational Force (Invisible Hand) pushing the 20 kg object downwards while fr
   <img src="/assets/images/19.png"/><br>
 </p>
 
-as the product of Mass of the pushed object, <b>m</b> (in our case, <b>m</b> = 20 kg) and Real Acceleration of the pushed object during one second, <b>a</b> (in our case, <b>a</b> = 9.8 m/s²):
+as the product of Mass of the pushed object, <b>m</b> (in our case, <b>m</b> = 20 kg) and Real Acceleration of the pushed object during any given second, <b>a</b> (in our case, <b>a</b> = 9.8 m/s²):
 
 <b>F</b> = <b>20</b> (kg) * <b>9.8</b> (m/s²) = <b>196</b> (kg*m/s²) = <b>196</b> Newtons
 
 or, in other words,
 
-as the product of Mass of the pushed object, <b>m</b> (in our case, <b>m</b> = 20 kg) and Real Increase in Velocity of the pushed object per second, <b>Δv</b> (in our case, <b>Δv</b> = 9.8 m/s per second):
+as the product of Mass of the pushed object, <b>m</b> (in our case, <b>m</b> = 20 kg) and Real Increase in Velocity of the pushed object per any given second, <b>Δv</b> (in our case, <b>Δv</b> = 9.8 m/s per second):
 
 <b>F</b> = <b>20</b> (kg) * <b>9.8</b> (m/s/s) = <b>196</b> (kg*m/s/s) = <b>196</b> Newtons
 
-As we can see, the unit of measure for Force is <>Newton.
+As we can see, the unit of measure for Force is Newton.
 
 In other words, Force is measured in Newtons.
 
@@ -459,7 +459,7 @@ Now, we might say that Gravitational Force pushing downwards the 20 kg object is
 
 Or in other words, we might also say that Effort with which Gravitational Force (Invisible Hand) is pushing downwards the 20 kg object is equal to <b>196</b> Newtons.
 
-In addition, we might note that during ANY second of this pushing (during ANY second of this free-falling) the value of Force is always the same, <b>196</b> Newtons.
+In addition, we might note that during ANY given second of this pushing (during ANY given second of this free-falling) the value of Force is always the same, <b>196</b> Newtons.
 
 But if a 50 kg object is free-falling downwards during 30 seconds,
 
@@ -479,7 +479,7 @@ This means that the more Mass of the pushed object, the more Gravitational Force
 
 Now, we might say that while free-falling during every moment:
 
-· the 20 kg object is being pushed by Gravitational Force equal to 196 Newtons,
+· the 20 kg object is being pushed by Force equal to 196 Newtons,
 
 · the 50 kg object is being pushed by Force equal to 490 Newtons.
 
@@ -491,7 +491,7 @@ We already know that science considers that the Universe/Nature in general is a 
 
 Plus, "official" science thinks that the Universe (Big Organism) can do its work by Gravitational Force (Invisible Hand).
 
-Also, we know that in the vision of "official" science all that Gravitational Force (Invisible Hand) can EVER be doing during ANY moment of time is to be pushing an object downwards.
+Also, we know that in the vision of "official" science all that Gravitational Force (Invisible Hand) can EVER be doing during ANY given moment of time is to only be pushing an object downwards.
 
 I absolutely agree with everything above.
 
@@ -509,7 +509,7 @@ So, let’s again consider the example where the 20 kg object is free-falling du
   <img src="/assets/images/16.png"/><br>
 </p>
 
-In this case, throughout every moment, Gravitational Force (Invisible hand) is pushing the 20 kg object downwards.
+In this case, throughout any given moment, Gravitational Force (Invisible hand) is pushing the 20 kg object downwards.
 
 <p align="center">
   <img src="/assets/images/17.png"/><br>
@@ -521,8 +521,7 @@ Let’s take again a closer look at what is happening there — at what is g
 
 So.
 
-As we already know, throughout this free-falling, Velocity of the pushed object, (v) is increased uniformly this way:
-
+As we already know, during any given second Velocity of the pushed 20 kg object is evenly increased by 9.8 (m/s).
 
 <p align="center">
   <img src="/assets/images/18.png"/><br>
@@ -533,9 +532,9 @@ As we already know, throughout this free-falling, Velocity of the pushed object,
 </p>
 
 
-So during every moment Gravitational Force (Invisible Hand) is pushing the 20 kg object downwards and, ONLY AS A RESULT of that pushing, the pushed object starts moving downwards and is increasing its velocity uniformly during every second.
+Importantly,during every moment Gravitational Force (Invisible Hand) is pushing the 20 kg object downwards and ONLY AS A RESULT of that pushing, the pushed object starts moving downwards and is increasing its velocity uniformly during every second.
 
-The Distance (D) moved by the pushed object during every second is as follows:  
+The Distance (D) moved by the pushed object during any given second is as follows:  
 
 <p align="center">
   <img src="/assets/images/21.png"/><br>
@@ -547,11 +546,11 @@ The Distance (D) moved by the pushed object during every second is as follows:
 
 Please pay attention to Summary Distance (D) — the right column.
 
-Summary Distance (D) during the 1st second is 4.9 meters;<br>
-Summary Distance (D) during the 2nd second is 14.7 meters;<br>
-Summary Distance (D) during the 3rd second is 24.5 meters;<br>
-Summary Distance (D) during the 4th second is 34.3 meters;<br>
-Summary Distance (D) during the 5th second is 44.1 meters.
+Distance (D) during the 1st second is 4.9 meters;<br>
+Distance (D) during the 2nd second is 14.7 meters;<br>
+Distance (D) during the 3rd second is 24.5 meters;<br>
+Distance (D) during the 4th second is 34.3 meters;<br>
+Distance (D) during the 5th second is 44.1 meters.
 
 <p align="center">
   <img src="/assets/images/22.png"/><br>
@@ -561,15 +560,11 @@ Summary Distance (D) during the 5th second is 44.1 meters.
 
 So what is Work in the vision of "official" science?
 
-"Official" science says that while the free-falling of the 20 kg object, during every second, the Universe (Big Organism) is doing Work by Gravitational Force (Invisible Hand) pushing the 20 kg object. 
+"Official" science says that while the free-falling of the 20 kg object, during every second, the Universe (Big Organism) is doing Work by Gravitational Force (Invisible Hand), pushing the 20 kg object downwards. 
 
 And I absolutely agree with this above.
 
-But I don’t agree with the formula by which "official" science calculates Work:
-
-W = F * D
-
-Specifically, "Official" science says that Work being done by Gravitational Force during any given second can be calculated by this formula:
+But I don’t agree with the "official" formula by which "official" science calculates Work:
 
 W = F * D
 
@@ -578,19 +573,24 @@ W — Work done by Force during the given second (measured in Joules: J);<br
 F — Force pushing the object during the given second (measured in Newtons: N);<br>
 D — Distance moved by the pushed object during the given second (measured in meters: m).
 
-Since during every second Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during every second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
+Since during any given second Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during any given  second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
 
-Work being done by Gravitational Force (Invisible Hand )
+Work being done by Gravitational Force (Invisible Hand)
 
-during the 1st second is:W = 196 (N) * 4.9 (m) = 960.4 Joules
+during the 1st second is:<br>
+W = 196 (N) * 4.9 (m) = 960.4 Joules
 
-during the 2nd second is:W = 196 (N) * 14.7 (m) = 2881.2 Joules
+during the 2nd second is:<br>
+W = 196 (N) * 14.7 (m) = 2881.2 Joules
 
-during the 3rd second is:W = 196 (N) * 24.5 (m) = 4802.0 Joules
+during the 3rd second is:<br>
+W = 196 (N) * 24.5 (m) = 4802.0 Joules
 
-during the 4th second is:W = 196 (N) * 34.3 (m) = 6722.8 Joules
+during the 4th second is:<br>
+W = 196 (N) * 34.3 (m) = 6722.8 Joules
 
-during the 5th second is:W = 196 (N) * 44.1 (m) = 8643.6 Joules
+during the 5th second is:<br>
+W = 196 (N) * 44.1 (m) = 8643.6 Joules
 
 ATTENTION: "Official" science states that while free-falling
 
