@@ -49,7 +49,14 @@ English is my second language, I started learning it by myself when I was 39 and
 
 Some time ago, I made scientific discoveries about Force, Work and Energy that cardinally change/improve our understanding the Universe.
 
->Since Energy, as THE main resource for every event in the Universe, is the main concept in the chief sciences, the discoveries, as said above, directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
+Among other things as a result I got the following:
+
+New Formula for Force<br>
+New Formula for Work<br>
+New Formula for Energy<br>
+New Formula for Power
+
+Since Energy, as THE main resource for every event in the Universe, is the main concept in the chief sciences, the discoveries directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
 
 Importantly, at the start of the process, I also discovered the existence of the biggest, LITERALLY-CRYING, logical mistakes in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
 
@@ -234,7 +241,7 @@ B. "Official" Concept of Work and "Official" Concept of Energy.
 
 
 
-### A. "Official" Concept of Force ("Official" Newton’s Formula for Force)
+## A. "Official" Concept of Force ("Official" Newton’s Formula for Force)
 
 Foremost, before we start, it is important to understand that science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
@@ -456,7 +463,7 @@ Or in other words, we might also say that Effort with which Gravitational Force 
 
 In addition, we might note that during ANY second of this pushing (during ANY second of this free-falling) the value of Force is always the same, <b>196</b> Newtons.
 
-Now, if a 50 kg object is free-falling downwards during 30 seconds,
+But if a 50 kg object is free-falling downwards during 30 seconds,
 
 <p align="center">
   <img src="/assets/images/20.png"/><br>
@@ -482,7 +489,7 @@ Now, we might say that while free-falling during every moment:
 
 ### B. "Official" Concept of Work and "Official" Concept of Energy
 
-From the text above we already know that science considers that the Universe/Nature in the whole is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
+We already know that science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
 Plus, "official" science thinks that the Universe (Big Organism) can do its work by Gravitational Force (Invisible Hand).
 
@@ -492,15 +499,25 @@ I absolutely agree with everything above.
 
 With this all being held in mind, we go on.
 
-The "Official" Concept of Work and "Official" Concept of Energy are also easier to understand through the  same CASE #1 familiar to us.
+Now let's consider the "Official" Concept of Work and "Official" Concept of Energy.
+
+Both these concepts are easier to understand also through the  same CASE #1 familiar to us.
 
 CASE #1
 
 So, let’s again consider the example where the 20 kg object is free-falling during 30 seconds.
 
+<p align="center">
+  <img src="/assets/images/16.png"/><br>
+</p>
+
 In this case, throughout every moment, Gravitational Force (Invisible hand) is pushing the 20 kg object downwards.
 
-ATTENTION: The "official" Newton’s formula for Force works absolutely correctly in CASE #1.
+<p align="center">
+  <img src="/assets/images/17.png"/><br>
+</p>
+
+>ATTENTION: The "official" Newton’s formula for Force works absolutely correctly in CASE #1.
 
 Let’s take again a closer look at what is happening there — at what is going on.
 
@@ -508,33 +525,60 @@ So.
 
 As we already know, throughout this free-falling, Velocity of the pushed object, (v) is increased uniformly this way:
 
+
+<p align="center">
+  <img src="/assets/images/18.png"/><br>
+  <i>We (people) know all these exact<br> 
+   numbers about “free-falling“ through<br>
+   well-known experiments and simple<br>
+   calculations</i>
+</p>
+
+
 So during every moment Gravitational Force (Invisible Hand) is pushing the 20 kg object downwards and, ONLY AS A RESULT of that pushing, the pushed object starts moving downwards and is increasing its velocity uniformly during every second.
 
-The Distance (D) moved by the pushed object during every second (the right column) is as follows:
+The Distance (D) moved by the pushed object during every second is as follows:  
 
-We (people) know all these exact numbers about “free-falling“ by well-known experiments.
+<p align="center">
+  <img src="/assets/images/21.png"/><br>
+  <i>We (people) know all these exact<br> 
+   numbers about “free-falling“ through<br>
+   well-known experiments and simple<br>
+   calculations</i>
+</p>
 
 Please pay attention to Summary Distance (D) — the right column.
 
-Summary Distance (D) during the 1st second is 4.9 meters;Summary Distance (D) during the 2nd second is 14.7 meters;Summary Distance (D) during the 3rd second is 24.5 meters;Summary Distance (D) during the 4th second is 34.3 meters;Summary Distance (D) during the 5th second is 44.1 meters.
+Summary Distance (D) during the 1st second is 4.9 meters;<br>
+Summary Distance (D) during the 2nd second is 14.7 meters;<br>
+Summary Distance (D) during the 3rd second is 24.5 meters;<br>
+Summary Distance (D) during the 4th second is 34.3 meters;<br>
+Summary Distance (D) during the 5th second is 44.1 meters.
 
-We (people) know all these exact numbers about “free-falling“ by well-known experiments.
+<p align="center">
+  <img src="/assets/images/22.png"/><br>
+  <i>We (people) know all these exact<br> 
+   numbers about “free-falling“ through<br>
+   well-known experiments</i>
 
 So what is Work in the vision of "official" science?
 
-"Official" science says that while the free-falling of the 20 kg object, 
+"Official" science says that while the free-falling of the 20 kg object, during every second, the Universe (Big Organism) is doing Work by Gravitational Force (Invisible Hand) pushing the 20 kg object. 
 
-the Universe (Big Organism) during every second is doing Work  by Gravitational Force (Invisible Hand) pushing the 20 kg object. 
+And I absolutely agree with this above.
 
-I absolutely agree with this above.
+But I don’t agree with the formula by which "official" science calculates Work:
 
-But  I don’t agree with the formula "official" science calculates Work by.
+W = F * D
 
 Specifically, "Official" science says that Work being done by Gravitational Force during any given second can be calculated by this formula:
 
 W = F * D
 
-where,W — Work done by Force during the given second (measured in Joules: J);F — Force pushing the object during the given second (measured in Newtons: N);D — Distance moved by the pushed object during the given second (measured in meters: m).
+where,<br>
+W — Work done by Force during the given second (measured in Joules: J);<br>
+F — Force pushing the object during the given second (measured in Newtons: N);<br>
+D — Distance moved by the pushed object during the given second (measured in meters: m).
 
 Since during every second Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during every second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
 
@@ -552,7 +596,7 @@ during the 5th second is:W = 196 (N) * 44.1 (m) = 8643.6 Joules
 
 ATTENTION: "Official" science states that while free-falling
 
-the more Distance (D) traveled by the object during the given second, the more Work is done by the same Gravitational Force during the given second; —  or in other words,  the more Work is done by the same Gravitational Force during the given second, the more Distance (D) traveled by the object during the given second.
+the more Distance (D) traveled by the object during the given second, the more Work is done by the same Gravitational Force during the given second.
 
 This statement above is absolutely wrong and this is explained in Discovery #1.
 
@@ -560,13 +604,20 @@ Also, "official" science says that while free-falling of the 20 kg object, durin
 
 I also absolutely agree with this above.
 
-But I don’t agree with the formula "official" science calculates Energy by.
+But I don’t agree with the formula by which "official" science calculates Energy:
+  
+E = F * D
 
 Specifically, "Official" science says that Energy being spent by the Universe during the given second (while Gravitational Force is pushing the free-falling object) can be calculated by this formula:
 
 E = F * D
 
-where,E — Energy (Resource) being spent by the subject doing Work during the given second, (for example, as the subject this might be you or the Universe) (Joule: J);F — Force pushing the object during every second (Newton: N);D — Distance moved by the pushed object during the given second (meter: m).
+where,<br>
+E — Energy (Resource) being spent by the subject pushing the object during the given second (measured in Joules: J);<br>
+F — Force pushing the object during every second (measured in Newtons: N);<br>
+D — Distance moved by the pushed object during the given second (measured in meters: m).
+  
+<i>For example, as the subject this might be you or the Universe.</i>
 
 Since during every second Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during every second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
 
@@ -584,7 +635,7 @@ during the 5th second is:E = 196 (N) * 44.1 (m) = 8643.6 Joules
 
 ATTENTION: "Official" science states that while free-falling 
 
-the more Distance (D) traveled by the object  during the given second, the more Energy (Resource) is being spent by the Universe during the given second; — or in other words, the more Energy (Resource) is being spent by the Universe  during the given second, the more Distance (D) traveled by the  object during the given second.
+the more Distance (D) traveled by the object  during the given second, the more Energy (Resource) is being spent by the Universe during the given second.
 
 This statement above is absolutely wrong and this is explained in Discovery #1
 
@@ -594,9 +645,11 @@ W = E = F * D
 
 This formula above is absolutely wrong and this is explained in Discovery #1.
 
+>ATTENTION: In my opinion, the "Official" Formula of Energy is absolutely wrong.
+
 As we can see:
 
-science mistakenly believes that the real reason for the difference in the distance is Gravitational Force —  the more Work is done by the same Gravitational Force during the given second, the more Distance (D) traveled by the object during the given second.
+science (mistakenly in my opinion) believes that the real reason for the difference in the distance is Gravitational Force —  the more Work is done by the same Gravitational Force during the given second, the more Distance (D) traveled by the object during the given second.
 
 NEW DISCOVERIES CHANGING ALL SCIENCE
 
@@ -608,9 +661,9 @@ FUNDAMENTAL MISTAKES IN OFFICIAL SCIENCE
 
 __________
 
-1.1. First Fundamental Mistake in "Official" Science
+## 1.1. First Fundamental Mistake in "Official" Science
 
-This First Fundamental Mistake is exactly the one that is the SUFFICIENT fundamental mistake in science.
+This First Fundamental Mistake is SUFFICIENT.
 
 Even this single mistake is sufficient, it destroys the whole concept of science of understanding the Universe.
 
