@@ -454,9 +454,13 @@ Now, we might say that Gravitational Force pushing downwards the 20 kg object is
 
 Or in other words, we might also say that Effort with which Gravitational Force (Invisible Hand) is pushing downwards the 20 kg object is equal to <b>196</b> Newtons.
 
-In addition, we might note that the value of Force during ANY second of this pushing (during ANY second of this free-falling) is always the same, <b>196</b> Newtons.
+In addition, we might note that during ANY second of this pushing (during ANY second of this free-falling) the value of Force is always the same, <b>196</b> Newtons.
 
 Now, if a 50 kg object is free-falling downwards during 30 seconds,
+
+<p align="center">
+  <img src="/assets/images/20.png"/><br>
+</p>
 
 Gravitational Force (Invisible Hand) pushing downwards this 50 kg object is already equal to 490 Newtons:
 
