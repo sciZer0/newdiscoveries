@@ -597,17 +597,15 @@ ATTENTION: "Official" science states that while free-falling
 the more Distance (D) traveled by the object during the given second, the more Work is done by the same Gravitational Force during the given second.
 
 This statement above is absolutely wrong and this is explained in Discovery #1.
-
-Also, "official" science says that while free-falling of the 20 kg object, during every second the Universe (Big Organism), while doing Work, is spending some Energy (resource) of the Universe (Big Organism) on this Work.  
-
-I also absolutely agree with this above.
-
-But I don’t agree with the formula by which "official" science calculates Energy:
   
-E = F * D
+Now about Energy.
 
-Specifically, "Official" science says that Energy being spent by the Universe during the given second (while Gravitational Force is pushing the free-falling object) can be calculated by this formula:
+"Official" science says that while free-falling of the 20 kg object, during any given second the Universe (Big Organism), while doing Work, is spending some Energy (resource) of the Universe (Big Organism) on this Work.  
 
+And I also absolutely agree with this above.
+
+But I don’t agree with the "official" formula by which "official" science calculates Energy:
+  
 E = F * D
 
 where,<br>
@@ -615,25 +613,30 @@ E — Energy (Resource) being spent by the subject pushing the object during
 F — Force pushing the object during every second (measured in Newtons: N);<br>
 D — Distance moved by the pushed object during the given second (measured in meters: m).
   
-<i>For example, as the subject this might be you or the Universe.</i>
+<i>For example, as the subject this might be you (your Hand) or the Universe (Invisible Hand).</i>
 
-Since during every second Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during every second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
+Since during any given second Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during every second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
 
 Energy (Resource) being spent by the Universe on Work
 
-during the 1st second is:E = 196 (N) * 4.9 (m) = 960.4 Joules
+during the 1st second is:<br>
+E = 196 (N) * 4.9 (m) = 960.4 Joules
 
-during the 2nd second is:E = 196 (N) * 14.7 (m) = 2881.2 Joules
+during the 2nd second is:<br>
+E = 196 (N) * 14.7 (m) = 2881.2 Joules
 
-during the 3rd second is:E = 196 (N) * 24.5 (m) = 4802.0 Joules
+during the 3rd second is:<br>
+E = 196 (N) * 24.5 (m) = 4802.0 Joules
 
-during the 4th second is:E = 196 (N) * 34.3 (m) = 6722.8 Joules
+during the 4th second is:<br>
+E = 196 (N) * 34.3 (m) = 6722.8 Joules
 
-during the 5th second is:E = 196 (N) * 44.1 (m) = 8643.6 Joules
+during the 5th second is:<br>
+E = 196 (N) * 44.1 (m) = 8643.6 Joules
 
 ATTENTION: "Official" science states that while free-falling 
 
-the more Distance (D) traveled by the object  during the given second, the more Energy (Resource) is being spent by the Universe during the given second.
+the more Distance (D) traveled by the object during the given second, the more Energy (Resource) is being spent by the Universe during the given second.
 
 This statement above is absolutely wrong and this is explained in Discovery #1
 
@@ -643,7 +646,7 @@ W = E = F * D
 
 This formula above is absolutely wrong and this is explained in Discovery #1.
 
->ATTENTION: In my opinion, the "Official" Formula of Energy is absolutely wrong.
+>ATTENTION: In my opinion, the "Official" Formula of Work and the "Official" Formula of Energy are absolutely wrong.
 
 As we can see:
 
