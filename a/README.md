@@ -478,7 +478,9 @@ Now, we might say that while free-falling during every moment:
 
 · the 50 kg object is being pushed by Force equal to 490 Newtons.
 
-B. "Official" Concept of Work and "Official" Concept of Energy
+---
+
+### B. "Official" Concept of Work and "Official" Concept of Energy
 
 From the text above we already know that science considers that the Universe/Nature in the whole is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
