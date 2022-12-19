@@ -395,11 +395,24 @@ at the beginning of the 4th second — 29.4 (m/s);
 
 at the beginning of the 5th second — 39.2 (m/s). 
 
-We (people) know all these exact numbers about “free-falling“ by well-known experiments.
+<p align="center">
+  <img src="/assets/images/1.png"/><br>
+  <i>We (people) know all the exact<br> 
+   numbers about “free-falling“ through<br>
+   well-known experiments</i>
+</p>
 
 As we can see, during every second Velocity of the pushed 20 kg object is evenly increased by 9.8 (m/s).
 
-So Real Increase in Velocity of the pushed object per ANY second (Δv) is always the same,
+<p align="center">
+  <img src="/assets/images/18.png"/><br>
+  <i>We (people) know all the exact<br> 
+   numbers about “free-falling“ through<br>
+   well-known experiments and simple<br>
+   calculations</i>
+</p>
+
+Real Increase in Velocity of the pushed object per ANY second (Δv) is always the same,
 
 Δv = 9.8 m/s per second;
 
