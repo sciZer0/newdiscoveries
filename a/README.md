@@ -430,7 +430,7 @@ Gravitational Force (Invisible Hand) pushing the 20 kg object downwards while fr
 
 as the product of Mass of the pushed object, <b>m</b> (in our case, <b>m</b> = 20 kg) and Real Acceleration of the pushed object during one second, <b>a</b> (in our case, <b>a</b> = 9.8 m/s²):
 
-<b>F<b> = <b>20</b> (kg) * <b>9.8</b> (m/s²) = <b>196</b> (kg*m/s²) = <b>196</b> Newtons
+<b>F</b> = <b>20</b> (kg) * <b>9.8</b> (m/s²) = <b>196</b> (kg*m/s²) = <b>196</b> Newtons
 
 or, in other words,
 
