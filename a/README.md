@@ -8,7 +8,7 @@
 * START<br>
 
 ## FIRST OF ALL
-Science now is a fundamentally wrong thing being taken on faith. Actually, the situation is even much worse than that, the scientific system itself is a religious sect.
+Science now is a fundamentally illogical/wrong thing being taken on faith. The scientific system itself is a religious sect.
 
 All I have is logic.
 
