@@ -412,29 +412,33 @@ As we can see, during every second Velocity of the pushed 20 kg object is evenly
    calculations</i>
 </p>
 
-Real Increase in Velocity of the pushed object per ANY second (Δv) is always the same,
+So Real Increase in Velocity of the pushed object per ANY second (<b>Δv</b>) is always the same,
 
-Δv = 9.8 m/s per second;
+<b>Δv</b> = <b>9.8</b> m/s per second;
 
 or, in other words,
 
-Real Acceleration of the pushed object during any single second (a) is always the same,
+Real Acceleration of the pushed object during any single second (<b>a</b>) is always the same,
 
-a = 9.8 m/s².
+<b>a</b> = <b>9.8</b> m/s².
 
 Gravitational Force (Invisible Hand) pushing the 20 kg object downwards while free-falling can be correctly calculated through the "official" Newton’s Formula this way:
 
-as the product of Mass of the pushed object, m (in our case, m = 20 kg) and Real Acceleration of the pushed object during one second, a (in our case, a = 9.8 m/s²):
+<p align="center">
+  <img src="/assets/images/19.png"/><br>
+</p>
 
-F = 20 (kg) * 9.8 (m/s²) = 196 (kg*m/s²) = 196 Newtons
+as the product of Mass of the pushed object, <b>m</b> (in our case, <b>m</b> = 20 kg) and Real Acceleration of the pushed object during one second, <b>a</b> (in our case, <b>a</b> = 9.8 m/s²):
+
+<b>F<b> = <b>20</b> (kg) * <b>9.8</b> (m/s²) = <b>196</b> (kg*m/s²) = <>b196</b> Newtons
 
 or, in other words,
 
-as the product of Mass of the pushed object, m (in our case, m = 20 kg) and Real Increase in Velocity of the pushed object per second, Δv (in our case, Δv = 9.8 m/s per second):
+as the product of Mass of the pushed object, <b>m</b> (in our case, <b>m</b> = 20 kg) and Real Increase in Velocity of the pushed object per second, <b>Δv</b> (in our case, <b>Δv</b> = 9.8 m/s per second):
 
-F = 20 (kg) * 9.8 (m/s/s) = 196 (kg*m/s/s) = 196 Newtons
+<b>F</b> = <b>20</b> (kg) * <b>9.8</b> (m/s/s) = <b>196</b> (kg*m/s/s) = <b>196</b> Newtons
 
-As we can see, the unit of measure for Force is Newton.
+As we can see, the unit of measure for Force is <>Newton.
 
 In other words, Force is measured in Newtons.
 
@@ -446,11 +450,11 @@ or
 
 Newton = kg * m /s /s.
 
-Now, we might say that Gravitational Force pushing downwards the 20 kg object is equal to 196 Newtons.
+Now, we might say that Gravitational Force pushing downwards the 20 kg object is equal to <b>196</b> Newtons.
 
-Or in other words, we might also say that Effort with which Gravitational Force (Invisible Hand) is pushing downwards the 20 kg object is equal to 196 Newtons.
+Or in other words, we might also say that Effort with which Gravitational Force (Invisible Hand) is pushing downwards the 20 kg object is equal to <b>196</b> Newtons.
 
-In addition, we might note that the value of Force during ANY second of this pushing (during ANY second of this free-falling) is always the same, 196 Newtons.
+In addition, we might note that the value of Force during ANY second of this pushing (during ANY second of this free-falling) is always the same, <b>196</b> Newtons.
 
 Now, if a 50 kg object is free-falling downwards during 30 seconds,
 
