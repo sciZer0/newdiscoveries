@@ -245,7 +245,7 @@ B. "Official" Concept of Work and "Official" Concept of Energy.
 
 Foremost, before we start, it is important to understand that science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
-Importantly, I absolutely agree with this.
+Importantly, I absolutely agree with this above.
 
 More detail on this we will be getting throughout the way.
 
@@ -269,7 +269,7 @@ In other words:
   direction of the pushing</i>
 </p>
 
-For example, when your organism (specifically, your hand) is pushing a strong wall with some great effort,
+For example, when your organism (in particular, your hand) is pushing a strong wall with some great effort,
 
 <p align="center">
   <img src="/assets/images/10.png"/><br>
@@ -318,8 +318,7 @@ So, for the sake of simplicity, Gravitational Force (F) might be imagined by us 
 <p align="center">
   <img src="/assets/images/12.png"/><br>
   <i>The apple being pushed by<br>
-     Invisible Hand --<br>
-     Gravitational Force</i>
+     Invisible Hand (Gravitational Force)</i>
 </p>
 
 Metaphorically saying, Big Organism (the Universe) has its Invisible Hand and this Invisible Hand during every moment is pushing the apple downwards.
@@ -331,19 +330,18 @@ And now, we might already say that during every moment, Gravitational Force (Inv
 <p align="center">
   <img src="/assets/images/13.png"/><br>
   <i>The apple being pushed by<br>
-     Invisible Hand --<br>
-     Gravitational Force</i>
+     Invisible Hand (Gravitational Force)</i>
 </p>
 
 Let’s repeat it once again, when you let an apple out of your hand, the apple starts moving downwards ONLY BECAUSE during every moment Gravitational Force (Invisible Hand) is pushing the apple downwards.
 
-But, for example, in cosmos far away from all planets, there is no Gravitational Force (no Invisible Hand) which could push every object downwards. So if you let an apple out of your hand, the apple won’t start moving downwards (won’t start moving anywhere).
+But, for example, in cosmos far away from all planets, there is no Gravitational Force (Invisible Hand) which could push every object downwards. So if you let an apple out of your hand, the apple won’t start moving downwards (won’t start moving anywhere).
 
 <p align="center">
   <img src="/assets/images/14.png"/><br>
 </p>
 
-On the other hand, on the Earth, as we already know, there is Gravitational Force (Invisible Hand) which pushes every object downwards. So if you let an apple out of your hand, the apple starts its motion downwards only thanks to the push being done — during every moment —  by Gravitational Force (Invisible Hand).
+On the other hand, on the Earth, as we already know, there is Gravitational Force (Invisible Hand) which pushes every object downwards. So if you let an apple out of your hand, the apple starts its motion downwards only thanks to the pushing being done — during every moment —  by Gravitational Force (Invisible Hand).
 
 Summarizing, all that Gravitational Force (Invisible Hand) can EVER be doing during ANY moment of time is to be pushing an object downwards.
 
@@ -356,7 +354,7 @@ Here is the "official" Newton’s Formula for calculating Force,
 where,<br>
 F — Force pushing the object (measured in Newtons: N);<br>
 m — Mass of the pushed object (measured in kilograms: kg);<br>
-a — Real Acceleration of the pushed object during one second (measured in meter/second²: m/s²); or, we might say, Real Increase in Velocity of the pushed object per one second (measured in meter/second/second: m/s/s).
+a — Real Acceleration of the pushed object during the given second (measured in meter/second²: m/s²); or, we might say, Real Increase in Velocity of the pushed object per the given second (measured in meter/second/second: m/s/s).
 
 In my opinion, the true Newton’s Formula is different. <i>More on this a bit below.</i>
 
@@ -388,7 +386,7 @@ So.
 
 At the beginning of the 1st second of the free-falling, Velocity of this pushed 20 kg object (v) is 0 (m/s), and next the object starts free-falling.
 
-Throughout the whole falling, Velocity of the pushed object (v) is increased uniformly, incl. is increased uniformly during every second.
+Throughout the whole falling, Velocity of the pushed object (v) is increased uniformly, incl. uniformly during every second.
 
 So at the beginning of the 2nd second of the free-falling, Velocity of the pushed object (v) becomes 9.8 (m/s).
 
@@ -403,7 +401,7 @@ at the beginning of the 4th second — 29.4 (m/s);
 at the beginning of the 5th second — 39.2 (m/s). 
 
 <p align="center">
-  <img src="/assets/images/1.png"/><br>
+  <img src="/assets/images/0.png"/><br>
   <i>We (people) know all these exact<br> 
    numbers about “free-falling“ through<br>
    well-known experiments</i>
