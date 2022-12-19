@@ -69,7 +69,7 @@ The mistake is based on the fact that science fails to even understand what is T
 
 <p align="center">
   <img src="/assets/images/1.png"/><br>
-  <i>We (people) know all the exact<br> 
+  <i>We (people) know all these exact<br> 
    numbers about “free-falling“ through<br>
    well-known experiments</i>
 </p>
@@ -397,7 +397,7 @@ at the beginning of the 5th second — 39.2 (m/s).
 
 <p align="center">
   <img src="/assets/images/1.png"/><br>
-  <i>We (people) know all the exact<br> 
+  <i>We (people) know all these exact<br> 
    numbers about “free-falling“ through<br>
    well-known experiments</i>
 </p>
@@ -406,7 +406,7 @@ As we can see, during every second Velocity of the pushed 20 kg object is evenly
 
 <p align="center">
   <img src="/assets/images/18.png"/><br>
-  <i>We (people) know all the exact<br> 
+  <i>We (people) know all these exact<br> 
    numbers about “free-falling“ through<br>
    well-known experiments and simple<br>
    calculations</i>
