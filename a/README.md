@@ -6,6 +6,7 @@ New Formula for Power<br>
 ---
 
 * FIRST OF ALL<br>
+* BENEFITS<br>
 * THIS IS EASY TO UNDERSTAND<br>
 * BRIEF ABOUT<br>
 * BRIEF INTRODUCTION<br>
@@ -23,9 +24,10 @@ The discoveries are so big that they directly affect philosophy, physics, chemis
 
 Simultaneously, the discoveries are very simple and obvious.
 
-Note: Thanks to these discoveries, at best,<br>
+## BENEFITS
+Thanks to these discoveries, at best,<br>
 
-* the world will have the ability to REALLY prosper;<br>
+* the world will get access to new energy and the ability to REALLY prosper;<br>
 
 * people will become more financially secure, have more free time (less working time), and can significantly improve their lives, making them more fulfilled, happier and longer;<br>
 
