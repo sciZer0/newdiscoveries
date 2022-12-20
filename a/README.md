@@ -188,10 +188,10 @@ B. "Official" Concept of Work and "Official" Concept of Energy.
 ### NEW DISCOVERIES CHANGING ALL SCIENCE
 
 ### DISCOVERY #1
-<i>FUNDAMENTAL ERRORS IN “OFFICIAL” SCIENCE</i>
+<i>FUNDAMENTAL ERRORS IN SCIENCE</i>
 
-1.1. THE 1st Sufficient Fundamental Mistake in "Official" Science;<br>
-1.2. Endless Series of Fundamental Mistakes in "Official" Science.
+1.1. The 1st Sufficient Fundamental Error in Science;<br>
+1.2. Endless Series of Fundamental Errors in Science.
 
 ### DISCOVERY #2
 <i>NEW FORMULAS OF FORCE, WORK, ENERGY, POWER</i>
@@ -662,15 +662,19 @@ NEW DISCOVERIES CHANGING ALL SCIENCE
 
 Discovery #1
 
-FUNDAMENTAL ERRORS IN OFFICIAL SCIENCE
+FUNDAMENTAL ERRORS IN SCIENCE
 
-1.1. First Fundamental Mistake in "Official" Science;1.2. Second Fundamental Mistake in "Official" Science;1.3. Third Fundamental Mistake in "Official" Science;1.4. Fourth Fundamental Mistake in "Official" Science;1.5. Endless Series of Fundamental Mistakes in "Official" Science.
+1.1. First Fundamental Error in "Official" Science;
+1.2. Second Fundamental Error in "Official" Science;
+1.3. Third Fundamental Error in "Official" Science;
+1.4. Fourth Fundamental Error in "Official" Science;
+1.5. Endless Series of Fundamental Errors in "Official" Science.
 
 __________
 
-## 1.1. First Fundamental Mistake in "Official" Science
+## 1.1. First Fundamental Error in Science
 
-This First Fundamental Mistake is SUFFICIENT.
+This First Fundamental Error is SUFFICIENT.
 
 Even this single error is sufficient, it destroys the whole concept of science of understanding the Universe.
 
