@@ -115,7 +115,7 @@ are absolutely wrong.
 
 The Joule, in its turn, is the absolutely wrong unit of measure for Work and Energy.
 
-As said above, even this error alone destroys the entire concept of science of understanding the Universe.
+As said above, even this fundamental error alone destroys the entire concept of science of understanding the Universe.
 
 <i>The error is explained in detail below in this article.</i>
 
@@ -139,11 +139,11 @@ But in my opinion, the person on the right (holding the 20 kg object motionless 
 
 Due to this error — due to the Absence of the Concept of Static Mechanical Work in science — the vast majority of processes in the Universe right now are being fallen out of our sight, and hence understanding. For this reason, humanity has the absolutely wrong picture of the physical world and is losing gigantic opportunities.
 
-As said above, even this error alone destroys the entire concept of science of understanding the Universe.
+As said above, even this fundamental error alone destroys the entire concept of science of understanding the Universe.
 
 <i>The Concept of Static Mechanical Work is explained in detail below in this article.</i>
 
-Also, in science, there is a lot of other obvious fundamental errors. <i>More on it below.</i>
+Also, in science, there is a lot of other fundamental errors which are obvious. <i>More on it below.</i>
 
 ## CONTEXT
 
