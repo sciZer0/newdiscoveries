@@ -62,7 +62,7 @@ Remarkably, the discoveries are fully based on well-known experiments and well-k
 
 At best, thanks to the discoveries,<br>
 
-* the world will get access to new energy and the ability to REALLY prosper;<br>
+* the world will get unlimited access to new clean energy and the ability to REALLY prosper;<br>
 
 * people will become more financially secure, have more free time (less working time), and can significantly improve their lives, making them more fulfilled, happier and longer;<br>
 
