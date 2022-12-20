@@ -1,13 +1,8 @@
 # New Discoveries Changing All Science
-## New Formula for Force
-New Formula for Work
-New Formula for Energy
-New Formula for Power
-
-New Formula for Force
-New Formula for Work
-New Formula for Energy
-New Formula for Power
+New Formula for Force<br>
+New Formula for Work<br>
+New Formula for Energy<br>
+New Formula for Power<br>
 
 * FIRST OF ALL<br>
 * BRIEF ABOUT<br>
