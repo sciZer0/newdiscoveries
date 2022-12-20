@@ -5,7 +5,7 @@ New Formula for Energy<br>
 New Formula for Power<br>
 ---
 
-Table of contents
+Table of Contents
 * FIRST OF ALL<br>
 * THIS IS EASY TO UNDERSTAND<br>
 * ABOUT DISCOVERIES IN BRIEF<br>
