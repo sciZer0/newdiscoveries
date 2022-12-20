@@ -8,10 +8,10 @@ New Formula for Power<br>
 Table of Contents
 * FIRST OF ALL<br>
 * THIS IS EASY TO UNDERSTAND<br>
-* ABOUT DISCOVERIES IN BRIEF<br>
+* ABOUT DISCOVERIES<br>
 * BENEFITS
-* BRIEF INTRODUCTION<br>
-* BRIEF CONTEXT<br>
+* INTRODUCTION<br>
+* CONTEXT<br>
 * START<br>
 
 ## FIRST OF ALL
@@ -44,7 +44,7 @@ Always feel free to ask me any questions about the discoveries: theOlegGor@gmail
 
 English is my second language, I started learning it by myself when I was 39 and made the discoveries when I was 45.
 
-## ABOUT DISCOVERIES IN BRIEF
+## ABOUT DISCOVERIES
 
 Some time ago, I made scientific discoveries about Force, Work and Energy that cardinally change/improve our understanding the Universe.
 
@@ -70,9 +70,9 @@ At best, thanks to these discoveries,<br>
 
 * we as civilization will improve our understanding of the Universe and, in general, our thinking.
 
-## BRIEF INTRODUCTION
+## INTRODUCTION
 
-<i>This Brief Introduction is mostly for experts, so if you are a normal person you might just skip this part</i>
+<i>This brief Introduction is mostly for experts, so if you are a normal person you might just skip this part</i>
 
 In order for you to get an idea of how big the whole wrongness of science is, here is a description of just 2 of the fundamental mistakes that I discovered.
 
@@ -147,7 +147,7 @@ As said above, even this mistake alone destroys the entire concept of science of
 
 Also, in science, there is a lot of other obvious fundamental mistakes. <i>More on it below.</i>
 
-## BRIEF CONTEXT
+## CONTEXT
 
 As said above, there are the biggest, LITERALLY-CRYING, logical mistakes in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
 
