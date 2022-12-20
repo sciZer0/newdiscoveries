@@ -10,7 +10,7 @@ Table of Contents
 * EASY TO UNDERSTAND<br>
 * ABOUT DISCOVERIES<br>
 * BENEFITS
-* INTRODUCTION<br>
+* FUNDAMENTAL MISTAKES IN SCIENCE<br>
 * CONTEXT<br>
 * START<br>
 
@@ -70,9 +70,9 @@ At best, thanks to these discoveries,<br>
 
 * we as civilization will improve our understanding of the Universe and, in general, our thinking.
 
-## INTRODUCTION
+## FUNDAMENTAL MISTAKES IN SCIENCE
 
-<i>This brief Introduction is mostly for experts, so if you are a normal person you might just skip this part</i>
+<i>This part is mostly for experts, so if you are a normal person you might just skip the part</i>
 
 In order for you to get an idea of how big the whole wrongness of science is, here is a description of just 2 of the fundamental mistakes that I discovered.
 
