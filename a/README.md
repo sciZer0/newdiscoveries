@@ -579,7 +579,7 @@ W — Work done by Force during the given second (measured in Joules: J);<br
 F — Force pushing the object during the given second (measured in Newtons: N);<br>
 D — Distance moved by the pushed object during the given second (measured in meters: m).
 
-Since during any given second Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during any given  second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
+Since while free-falling the 20 kg object during any given second Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during any given  second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
 
 Work being done by Gravitational Force (Invisible Hand)
 
@@ -621,7 +621,7 @@ D — Distance moved by the pushed object during the given second (measured 
   
 <i>For example, as the subject this might be you (your Hand) or the Universe (Invisible Hand).</i>
 
-Since during any given second Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during every second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
+Since while free-falling the 20 kg object during any given second Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during any given second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
 
 Energy (Resource) being spent by the Universe on Work
 
@@ -656,7 +656,7 @@ This formula above is absolutely wrong and this is explained in Discovery #1.
 
 As we can see:
 
-science (mistakenly in my opinion) believes that the real reason for the difference in the distance is Gravitational Force —  the more Work is done by the same Gravitational Force during the given second, the more Distance (D) traveled by the object during the given second.
+science (mistakenly in my opinion) believes that the real reason for the difference in the distances is Gravitational Force — the more Distance (D) traveled by the object during the given second, the more Work is done by Gravitational Force during the given second.
 
 NEW DISCOVERIES CHANGING ALL SCIENCE
 
