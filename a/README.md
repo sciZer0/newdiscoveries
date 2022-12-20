@@ -101,7 +101,7 @@ Unfortunately, science mistakenly believes that the real reason for the differen
 
 But the real reason IS NOT Gravitational Force.
 
-The real reason for the difference in the distances is Inertia. 
+The real reason is Inertia. 
 
 But science absolutely fails to understand this.
 
