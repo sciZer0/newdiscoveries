@@ -56,7 +56,7 @@ New Formula for Power
 
 Since Energy, as THE main resource for every event in the Universe, is the main concept in the chief sciences, the discoveries, as said above, directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
 
-Importantly, at the start of the process, I also discovered the existence of the biggest, LITERALLY-CRYING, logical mistakes in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
+Importantly, at the start of the process, I also discovered the existence of the biggest, LITERALLY-CRYING, logical errors in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
 
 Remarkably, the discoveries are fully based on well-known experiments and well-known Newton’s discoveries (1st, 2nd and 3rd Newton’s Laws) which, ATTENTION, were and still are not fully understood by people.
 
@@ -68,17 +68,17 @@ At best, thanks to the discoveries,<br>
 
 * we as civilization will improve our understanding of the Universe and, in general, our thinking.
 
-## FUNDAMENTAL MISTAKES IN SCIENCE
+## FUNDAMENTAL ERRORS IN SCIENCE
 
 <i>This part is mostly for experts, so if you are a normal person you might just skip the part</i>
 
-In order for you to get an idea of how big the whole wrongness of science is, here is a description of just 2 of the fundamental mistakes that I discovered.
+In order for you to get an idea of how big the whole wrongness of science is, here is a description of just 2 of the fundamental errors that I discovered.
 
-#### THE 1st SUFFICIENT FUNDAMENTAL MISTAKE IN SCIENCE
+#### THE 1st SUFFICIENT FUNDAMENTAL ERROR IN SCIENCE
 
-This mistake is called "sufficient" because even this mistake alone destroys the entire concept of science of understanding the Universe.
+This error is called "sufficient" because even this error alone destroys the entire concept of science of understanding the Universe.
 
-The mistake is based on the fact that science fails to even understand what is THE REAL REASON that a free-falling object during every second is moving the distance different in size.
+The error is based on the fact that science fails to even understand what is THE REAL REASON that a free-falling object during every second is moving the distance different in size.
 
 <p align="center">
   <img src="/assets/images/1.png"/><br>
@@ -97,7 +97,7 @@ in particular, the apple is moving the shorter distance of 4.9 meters during the
 
 The difference in the distances is 9.8 meters.
 
-Unfortunately, science mistakenly believes that the real reason for the difference in the distances is Gravitational Force.
+Unfortunately, science errornly believes that the real reason for the difference in the distances is Gravitational Force.
 
 But the real reason IS NOT Gravitational Force.
 
@@ -115,17 +115,17 @@ are absolutely wrong.
 
 The Joule, in its turn, is the absolutely wrong unit of measure for Work and Energy.
 
-As said above, even this mistake alone destroys the entire concept of science of understanding the Universe.
+As said above, even this error alone destroys the entire concept of science of understanding the Universe.
 
-<i>The mistake is explained in detail below in this article.</i>
+<i>The error is explained in detail below in this article.</i>
 
-####  THE 2nd SUFFICIENT FUNDAMENTAL MISTAKE IN SCIENCE
+####  THE 2nd SUFFICIENT FUNDAMENTAL ERROR IN SCIENCE
 
-This mistake is the same way called "sufficient" because it works the same way: even this mistake alone destroys the entire concept of science of understanding the Universe.
+This error is the same way called "sufficient" because it works the same way: even this error alone destroys the entire concept of science of understanding the Universe.
 
-The mistake is that in science, there the Concept of Static Mechanical Work is wrongly missing.
+The error is that in science, there the Concept of Static Mechanical Work is wrongly missing.
 
-So, for example, the mistake results in the fact that
+So, for example, the error results in the fact that
 
 all scientists (all existing science textbooks), for now, CORRECTLY consider that the person on the left (lifting the 2 kg object upwards) is doing Mechanical Work and is spending their Energy (Resource) on this Work;
 
@@ -137,21 +137,21 @@ BUT all scientists (all the existing science textbooks), for now, INCORRECTLY co
 
 But in my opinion, the person on the right (holding the 20 kg object motionless in the air) is also doing Mechanical Work (Static Mechanical Work) and is spending their Energy (Resource) on this Work. And even moreover, the person on the right is doing a bigger amount of Mechanical Work than the person on the left is doing. Plus, the person on the right is spending a bigger amount of their Energy (Resource) on Mechanical Work than the person on the left is doing.
 
-Due to this mistake — due to the Absence of the Concept of Static Mechanical Work in science — the vast majority of processes in the Universe right now are being fallen out of our sight, and hence understanding. For this reason, humanity has the absolutely wrong picture of the physical world and is losing gigantic opportunities.
+Due to this error — due to the Absence of the Concept of Static Mechanical Work in science — the vast majority of processes in the Universe right now are being fallen out of our sight, and hence understanding. For this reason, humanity has the absolutely wrong picture of the physical world and is losing gigantic opportunities.
 
-As said above, even this mistake alone destroys the entire concept of science of understanding the Universe.
+As said above, even this error alone destroys the entire concept of science of understanding the Universe.
 
 <i>The Concept of Static Mechanical Work is explained in detail below in this article.</i>
 
-Also, in science, there is a lot of other obvious fundamental mistakes. <i>More on it below.</i>
+Also, in science, there is a lot of other obvious fundamental errors. <i>More on it below.</i>
 
 ## CONTEXT
 
-As said above, there are the biggest, LITERALLY-CRYING, logical mistakes in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
+As said above, there are the biggest, LITERALLY-CRYING, logical errors in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
 
 But how did we get there?
 
-In my opinion, all the biggest fundamental mistakes in science occurred because people, as said above, didn’t and still don’t fully understand well-knwon Newton’s discoveries. Even though this might seem impossible, the fact of this misunderstanding is true.
+In my opinion, all the biggest fundamental errors in science occurred because people, as said above, didn’t and still don’t fully understand well-knwon Newton’s discoveries. Even though this might seem impossible, the fact of this misunderstanding is true.
 
 <p align="center">
   <img src="/assets/images/5.png"/><br>
@@ -166,7 +166,7 @@ The scientific system, precisely because of being much like a religious sect, is
 
 Moreover, the religious sect’s members always desperately cast stones at everyone who dares to say things that are logical but (yes, again) different from those that have been written in their religious books, and this is always so without allowing any open public discussion.
 
-The today’s situation is that if any clever person wants to enter "official" science, first they must humiliate their own intellect, essentially they must DEGRADE their own intellect because the fundamental mistakes existing in "official" science are too big and obvious, it is impossible not to see them.
+The today’s situation is that if any clever person wants to enter "official" science, first they must humiliate their own intellect, essentially they must DEGRADE their own intellect because the fundamental errors existing in "official" science are too big and obvious, it is impossible not to see them.
 
 In my Open Letter to Elon Musk, I explain why exactly all "official" physics scientists around the world (including even those who privately agreed with these discoveries) publicly are, and will likely always be against an announcement of these discoveries (Spoiler: only because they have <b>personal reasons</b> for this).
 
@@ -188,7 +188,7 @@ B. "Official" Concept of Work and "Official" Concept of Energy.
 ### NEW DISCOVERIES CHANGING ALL SCIENCE
 
 ### DISCOVERY #1
-<i>FUNDAMENTAL MISTAKES IN “OFFICIAL” SCIENCE</i>
+<i>FUNDAMENTAL ERRORS IN “OFFICIAL” SCIENCE</i>
 
 1.1. THE 1st Sufficient Fundamental Mistake in "Official" Science;<br>
 1.2. Endless Series of Fundamental Mistakes in "Official" Science.
@@ -656,13 +656,13 @@ This formula above is absolutely wrong and this is explained in Discovery #1.
 
 As we can see:
 
-science (mistakenly in my opinion) believes that the real reason for the difference in the distance is Gravitational Force —  the more Work is done by the same Gravitational Force during the given second, the more Distance (D) traveled by the object during the given second.
+science (errornly in my opinion) believes that the real reason for the difference in the distance is Gravitational Force —  the more Work is done by the same Gravitational Force during the given second, the more Distance (D) traveled by the object during the given second.
 
 NEW DISCOVERIES CHANGING ALL SCIENCE
 
 Discovery #1
 
-FUNDAMENTAL MISTAKES IN OFFICIAL SCIENCE
+FUNDAMENTAL ERRORS IN OFFICIAL SCIENCE
 
 1.1. First Fundamental Mistake in "Official" Science;1.2. Second Fundamental Mistake in "Official" Science;1.3. Third Fundamental Mistake in "Official" Science;1.4. Fourth Fundamental Mistake in "Official" Science;1.5. Endless Series of Fundamental Mistakes in "Official" Science.
 
@@ -672,9 +672,9 @@ __________
 
 This First Fundamental Mistake is SUFFICIENT.
 
-Even this single mistake is sufficient, it destroys the whole concept of science of understanding the Universe.
+Even this single error is sufficient, it destroys the whole concept of science of understanding the Universe.
 
-As said above, in my opinion, all the biggest basic mistakes in science occurred because people didn’t and still don’t fully understand the three Newton’s discoveries (Newton’s 1st, 2nd and 3rd Laws) which results, among other things, in misunderstanding of what in reality is Force, Work and Energy.
+As said above, in my opinion, all the biggest basic errors in science occurred because people didn’t and still don’t fully understand the three Newton’s discoveries (Newton’s 1st, 2nd and 3rd Laws) which results, among other things, in misunderstanding of what in reality is Force, Work and Energy.
 
 In particular, "official" science fails to understand the difference between how Inertia works and how Gravitational Force (Invisible Hand) works; and especially, what happens when they (Inertia and Gravitational Force) work simultaneously.
 
@@ -812,7 +812,7 @@ Since the Inertial Distance (D2 = 9.8 meters) during the 2nd second is absolutel
 
 But in this wrong "official" formula for Work and Energy:
 
-the Inertial Distance (D2) is mistakenly included in the calculation and hence mistakenly increases the wrongly calculated Work (W) of Gravitational Force (F) during the 2nd second and therefore mistakenly increases the wrongly calculated Energy (E).
+the Inertial Distance (D2) is errornly included in the calculation and hence errornly increases the wrongly calculated Work (W) of Gravitational Force (F) during the 2nd second and therefore errornly increases the wrongly calculated Energy (E).
 
 It is important to understand that the same thing happens during every single second of the falling (please study the table above carefully)!
 
@@ -852,23 +852,23 @@ The Joule, in its turn, is the absolutely wrong unit of measure for Work and Ene
 
 Always when we are calculating Work or Energy in Joules we get nonsense.
 
-Since concepts of Work and Energy are basic in science, even due to this single fundamental mistake, there is the total incorrectness of "official" science.
+Since concepts of Work and Energy are basic in science, even due to this single fundamental error, there is the total incorrectness of "official" science.
 
 CONCLUSIONS
 
-This discovered mistake (error) is absolutely sufficient proof of the total incorrectness of all the "Official" Formulas for Work and Energy, and is absolutely sufficient proof of the total wrongness to use any of these formulas for any calculations of Work or Energy.
+This discovered error (error) is absolutely sufficient proof of the total incorrectness of all the "Official" Formulas for Work and Energy, and is absolutely sufficient proof of the total wrongness to use any of these formulas for any calculations of Work or Energy.
 
-This mistake is fundamental. LITERALLY-CRYING.
+This error is fundamental. LITERALLY-CRYING.
 
-Of course, this discovered mistake (error) automatically cancels all the "Official" Formulas for Work and Energy, and also the Joule as the unit of measure for Work and Energy!
+Of course, this discovered error (error) automatically cancels all the "Official" Formulas for Work and Energy, and also the Joule as the unit of measure for Work and Energy!
 
-Importantly, even this single discovered mistake destroys all "official" science.
+Importantly, even this single discovered error destroys all "official" science.
 
 __________
 
-As said above, even this single mistake described/explained above destroys the entire concept of science of understanding the Universe.
+As said above, even this single error described/explained above destroys the entire concept of science of understanding the Universe.
 
-This mistake is sufficient.
+This error is sufficient.
 
 Please spread this information.
 
