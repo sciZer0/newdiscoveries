@@ -7,9 +7,8 @@ New Formula for Power<br>
 
 Table of contents
 * FIRST OF ALL<br>
-* BENEFITS<br>
 * THIS IS EASY TO UNDERSTAND<br>
-* BRIEF ABOUT<br>
+* ABOUT DISCOVERIES IN BRIEF<br>
 * BRIEF INTRODUCTION<br>
 * BRIEF CONTEXT<br>
 * START<br>
@@ -24,15 +23,6 @@ Some time ago, just through thinking logically about well-known facts, I made th
 The discoveries are so big that they directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
 
 Simultaneously, the discoveries are very simple and obvious.
-
-## BENEFITS
-Thanks to these discoveries, at best,<br>
-
-* the world will get access to new energy and the ability to REALLY prosper;<br>
-
-* people will become more financially secure, have more free time (less working time), and can significantly improve their lives, making them more fulfilled, happier and longer;<br>
-
-* we as civilization will improve our understanding of the Universe and, in general, our thinking.
 
 ## THIS IS EASY TO UNDERSTAND
 
@@ -53,7 +43,7 @@ Always feel free to ask me any questions about the discoveries: theOlegGor@gmail
 
 English is my second language, I started learning it by myself when I was 39 and made the discoveries when I was 45.
 
-## BRIEF ABOUT
+## ABOUT DISCOVERIES IN BRIEF
 
 Some time ago, I made scientific discoveries about Force, Work and Energy that cardinally change/improve our understanding the Universe.
 
@@ -69,6 +59,14 @@ Since Energy, as THE main resource for every event in the Universe, is the main 
 Importantly, at the start of the process, I also discovered the existence of the biggest, LITERALLY-CRYING, logical mistakes in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
 
 Remarkably, the discoveries are fully based on well-known experiments and well-known Newton’s discoveries (1st, 2nd and 3rd Newton’s Laws) which, ATTENTION, were and still are not fully understood by people.
+
+At best, thanks to these discoveries,<br>
+
+* the world will get access to new energy and the ability to REALLY prosper;<br>
+
+* people will become more financially secure, have more free time (less working time), and can significantly improve their lives, making them more fulfilled, happier and longer;<br>
+
+* we as civilization will improve our understanding of the Universe and, in general, our thinking.
 
 ## BRIEF INTRODUCTION
 
