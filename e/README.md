@@ -1,7 +1,15 @@
 # New Discoveries Changing All Science
+## New Formula for Force
+New Formula for Work
+New Formula for Energy
+New Formula for Power
+
+New Formula for Force
+New Formula for Work
+New Formula for Energy
+New Formula for Power
 
 * FIRST OF ALL<br>
-* THIS IS EASY TO UNDERSTAND<br>
 * BRIEF ABOUT<br>
 * BRIEF INTRODUCTION<br>
 * BRIEF CONTEXT<br>
@@ -26,24 +34,6 @@ Note: Thanks to these discoveries, at best,<br>
 
 * we as civilization will improve our understanding of the Universe and, in general, our thinking.
 
-## THIS IS EASY TO UNDERSTAND
-
-This article explaining the discoveries was written in such a way as to be understandable to everyone.
-
-In particular, if you know the multiplication table and can understand these simple mathematical examples:
-
-2 * 2 = 4<br>
-20 * 9.8 = 196<br>
-8 / 2 = 4<br>
-9.8 / 2 * 1 = 4.9
-
-you are fully able to easily understand every thing, even if you have no scientific background.
-
-Throughout the entire article, I practice “redundancy of understandability”, using very simple language and sometimes explaining the same things several times and in various ways.
-
-Always feel free to ask me any questions about the discoveries: theOlegGor@gmail.com
-
-English is my second language, I started learning it by myself when I was 39 and made the discoveries when I was 45.
 
 ## BRIEF ABOUT
 
@@ -64,9 +54,7 @@ Remarkably, the discoveries are fully based on well-known experiments and well-k
 
 ## BRIEF INTRODUCTION
 
-<i>This Brief Introduction is mostly for experts, so if you are a normal person you might just skip this part</i>
-
-In order for you to get an idea of how big the whole wrongness of science is, here is a description of just 2 of the fundamental mistakes that I discovered.
+In order for you to briefly get an idea of how big the whole wrongness of science is, here is a description of just 2 of the fundamental mistakes that I discovered.
 
 #### THE 1st SUFFICIENT FUNDAMENTAL MISTAKE IN SCIENCE
 
