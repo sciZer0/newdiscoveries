@@ -7,7 +7,7 @@ New Formula for Power<br>
 
 Table of Contents
 * FIRST OF ALL<br>
-* THIS IS EASY TO UNDERSTAND<br>
+* EASY TO UNDERSTAND<br>
 * ABOUT DISCOVERIES<br>
 * BENEFITS
 * INTRODUCTION<br>
@@ -25,7 +25,7 @@ The discoveries are so big that they directly affect philosophy, physics, chemis
 
 Simultaneously, the discoveries are very simple and obvious.
 
-## THIS IS EASY TO UNDERSTAND
+## EASY TO UNDERSTAND
 
 This article explaining the discoveries was written in such a way as to be understandable to everyone.
 
