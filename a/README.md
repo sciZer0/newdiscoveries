@@ -68,7 +68,7 @@ At best, thanks to the discoveries,<br>
 
 * we as civilization will improve our understanding of the Universe and, in general, our thinking.
 
-## FUNDAMENTAL ERRORS IN SCIENCE
+## FUNDAMENTAL ERRORS
 
 <i>This part is mostly for experts, so if you are a normal person you might just skip the part</i>
 
@@ -97,7 +97,7 @@ in particular, the apple is moving the shorter distance of 4.9 meters during the
 
 The difference in the distances is 9.8 meters.
 
-Unfortunately, science errornly believes that the real reason for the difference in the distances is Gravitational Force.
+Unfortunately, science mistakenly believes that the real reason for the difference in the distances is Gravitational Force.
 
 But the real reason IS NOT Gravitational Force.
 
@@ -656,7 +656,7 @@ This formula above is absolutely wrong and this is explained in Discovery #1.
 
 As we can see:
 
-science (errornly in my opinion) believes that the real reason for the difference in the distance is Gravitational Force —  the more Work is done by the same Gravitational Force during the given second, the more Distance (D) traveled by the object during the given second.
+science (mistakenly in my opinion) believes that the real reason for the difference in the distance is Gravitational Force —  the more Work is done by the same Gravitational Force during the given second, the more Distance (D) traveled by the object during the given second.
 
 NEW DISCOVERIES CHANGING ALL SCIENCE
 
@@ -812,7 +812,7 @@ Since the Inertial Distance (D2 = 9.8 meters) during the 2nd second is absolutel
 
 But in this wrong "official" formula for Work and Energy:
 
-the Inertial Distance (D2) is errornly included in the calculation and hence errornly increases the wrongly calculated Work (W) of Gravitational Force (F) during the 2nd second and therefore errornly increases the wrongly calculated Energy (E).
+the Inertial Distance (D2) is mistakenly included in the calculation and hence mistakenly increases the wrongly calculated Work (W) of Gravitational Force (F) during the 2nd second and therefore mistakenly increases the wrongly calculated Energy (E).
 
 It is important to understand that the same thing happens during every single second of the falling (please study the table above carefully)!
 
