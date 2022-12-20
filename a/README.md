@@ -9,7 +9,6 @@ Table of Contents
 * FIRST OF ALL<br>
 * EASY TO UNDERSTAND<br>
 * ABOUT DISCOVERIES<br>
-* BENEFITS
 * FUNDAMENTAL ERRORS<br>
 * CONTEXT<br>
 * START<br>
@@ -61,8 +60,7 @@ Importantly, at the start of the process, I also discovered the existence of the
 
 Remarkably, the discoveries are fully based on well-known experiments and well-known Newton’s discoveries (1st, 2nd and 3rd Newton’s Laws) which, ATTENTION, were and still are not fully understood by people.
 
-# BENEFITS
-At best, thanks to these discoveries,<br>
+At best, thanks to the discoveries,<br>
 
 * the world will get access to new energy and the ability to REALLY prosper;<br>
 
