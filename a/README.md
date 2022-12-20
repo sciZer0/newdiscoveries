@@ -315,7 +315,7 @@ Importantly, the apple starts its motion downwards ONLY BECAUSE during every mom
 
 In other words, during every moment, “something” is pushing the apple downwards and we (people) call this “something” Gravitational Force.
 
->Importantly, science does not know what is Gravitational Force.
+>Importantly, science does not know what Gravitational Force is.
 
 And, as we already know, science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
