@@ -15,7 +15,7 @@ Table of Contents
 * START<br>
 
 ## FIRST OF ALL
-Science now is a fundamentally illogical/wrong thing being taken on faith. The scientific system itself is much like a religious sect. <i>More on it a bit below.</i>
+Science now is a fundamentally illogical/wrong thing being taken on faith. The scientific system itself is much like a religious sect. <i>More on this below.</i>
 
 All I have is logic.
 
@@ -144,7 +144,7 @@ As said above, even this fundamental error alone destroys the entire concept of 
 
 <i>The Concept of Static Mechanical Work is explained in detail below in this article.</i>
 
-Also, in science, there is a lot of other fundamental errors which are obvious. <i>More on it below.</i>
+Also, in science, there is a lot of other fundamental errors which are obvious. <i>More on this below.</i>
 
 ## CONTEXT
 
