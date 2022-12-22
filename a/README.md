@@ -17,7 +17,7 @@ Table of Contents
 ## FIRST OF ALL
 Science now is a fundamentally illogical/wrong thing being taken on faith. The scientific system itself is much like a religious sect. <i>More on this below.</i>
 
-Generally, all I have is logic.
+Essentially, all I have is logic.
 
 Some time ago, just through thinking logically about well-known facts, I made the biggest ever scientific discoveries.
 
