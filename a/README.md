@@ -161,7 +161,7 @@ In my opinion, all the biggest fundamental errors in science occurred because pe
 
 What about "official" science?
 
-In my opinion, science now is a fundamentally illogical/wrong thing being taken on faith. And actually, the situation is even much worse than that, the scientific system itself is much like a religious sect.
+In my opinion, science now is a fundamentally illogical/wrong thing being taken on faith. And actually, the situation is even much worse than that, the scientific system itself is much like a religious sect, meaning is, to some cases, exactly like a religious sect.
 
 The scientific system, precisely because of being much like a religious sect, is a fully-closed one. The system's entrance for any new person is ONLY possible on recommendations of members of the religious sect. But getting the recommendations (endorsements) is absolutely impossible when the person dares to say things that are logical but different from those that have been written in the religious books (somewhy called “textbooks”).
 
