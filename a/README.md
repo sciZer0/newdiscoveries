@@ -42,7 +42,7 @@ Throughout the whole article, I practice "redundancy of understandability", usin
 
 Always feel free to ask me any questions about the discoveries: theOlegGor@gmail.com
 
-<i>English is my second language, I started learning it by myself when I was 39 and made the discoveries when I was 45.</i>
+<i>By the way, English is my second language, I started learning it by myself when I was 39 and made the discoveries when I was 45.</i>
 
 ## ABOUT DISCOVERIES
 
@@ -361,7 +361,7 @@ Here is the "official" Newton’s Formula for calculating Force,
 where,<br>
 F — Force pushing the object (measured in Newtons: N);<br>
 m — Mass of the pushed object (measured in kilograms: kg);<br>
-a — Real Acceleration of the pushed object during the given second, or — Real Increase in Velocity of the pushed object during the given second (measured in meter/second/second: m/s/s or meter/second²: m/s²).
+a — Real Acceleration of the pushed object during the given second (measured in meter/second²: m/s²), or in other words, — Real Increase in Velocity of the pushed object per the given second (measured in meter/second/second: m/s/s).
 
 In my opinion, the true Newton’s Formula for Force is different, but the "official" Newton’s formula for Force works correctly in some cases.
 
@@ -393,7 +393,7 @@ At the beginning of the 1st second of the free-falling, Velocity of this pushed 
 
 Throughout the whole falling, Velocity of the pushed object (v) is increased uniformly, incl. uniformly during any fiven second.
 
-So at the beginning of the 2nd second of the free-falling, Velocity of the pushed object (v) becomes 9.8 (m/s). We (people) know all exact numbers about “free-falling“ by well-known experiments.
+So at the beginning of the 2nd second of the free-falling, Velocity of the pushed object (v) becomes 9.8 (m/s). <i>We (people) know all exact numbers about “free-falling“ by well-known experiments.</i>
 
 Next, 
 
@@ -422,17 +422,17 @@ As we can see, during any given second Velocity of the pushed 20 kg object is ev
    calculations</i>
 </p>
 
-So Real Increase in Velocity of the pushed object during ANY given second (<b>Δv</b>) is always the same,
+So Real Increase in Velocity of the pushed object per ANY given second (<b>Δv</b>) is always the same,
 
 <b>Δv</b> = <b>9.8</b> m/s per second;
 
 or, in other words,
 
-Real Acceleration of the pushed object per any given second (<b>a</b>) is always the same,
+Real Acceleration of the pushed object during any given second (<b>a</b>) is always the same,
 
 <b>a</b> = <b>9.8</b> m/s².
 
-Gravitational Force (Invisible Hand) pushing the 20 kg object downwards while free-falling can be correctly calculated through the "official" Newton’s Formula this way:
+The Gravitational Force (Invisible Hand) pushing the 20 kg object downwards while free-falling can be correctly calculated through the "official" Newton’s Formula this way:
 
 <p align="center">
   <img src="/assets/images/19.png"/><br>
@@ -460,19 +460,19 @@ or
 
 Newton = kg * m /s /s.
 
-Now, we might say that Gravitational Force pushing downwards the 20 kg object is equal to <b>196</b> Newtons.
+Now, we might say that the Gravitational Force pushing downwards the 20 kg object is equal to <b>196</b> Newtons.
 
-Or in other words, we might also say that Effort with which Gravitational Force (Invisible Hand) is pushing downwards the 20 kg object is equal to <b>196</b> Newtons.
+Or in other words, we might also say that the Effort with which the Gravitational Force (Invisible Hand) is pushing downwards the 20 kg object is equal to <b>196</b> Newtons.
 
 In addition, we might note that during ANY given second of this pushing (during ANY given second of this free-falling) the value of Force is always the same, <b>196</b> Newtons.
 
-But if a 50 kg object is free-falling downwards during 30 seconds,
+But if there a 50 kg object is free-falling downwards during 30 seconds,
 
 <p align="center">
   <img src="/assets/images/20.png"/><br>
 </p>
 
-Gravitational Force (Invisible Hand) pushing downwards this 50 kg object is already equal to 490 Newtons:
+the Gravitational Force (Invisible Hand) pushing downwards this 50 kg object is already equal to 490 Newtons:
 
 F = 50 (kg) * 9.8 (m/s²) = 490 Newtons
 
@@ -504,11 +504,11 @@ With this all being held in mind, we go on.
 
 Now let's consider the "Official" Concept of Work and "Official" Concept of Energy.
 
-Both these concepts are easier to understand also through the  same CASE #1 familiar to us.
+Both these concepts are easier to understand also through the same CASE #1 familiar to us.
 
 CASE #1
 
-So, let’s again consider the example where the 20 kg object is free-falling during 30 seconds.
+So, let’s again consider the case where the 20 kg object is free-falling during 30 seconds.
 
 <p align="center">
   <img src="/assets/images/16.png"/><br>
@@ -526,7 +526,7 @@ Let’s take again a closer look at what is happening there — at what is g
 
 So.
 
-As we already know, during any given second Velocity of the pushed 20 kg object is evenly increased by 9.8 (m/s).
+As we already know, during any given second the Velocity of the pushed 20 kg object is evenly increased by 9.8 (m/s).
 
 <p align="center">
   <img src="/assets/images/18.png"/><br>
@@ -537,7 +537,7 @@ As we already know, during any given second Velocity of the pushed 20 kg object 
 </p>
 
 
-Importantly,during every moment Gravitational Force (Invisible Hand) is pushing the 20 kg object downwards and ONLY AS A RESULT of that pushing, the pushed object starts moving downwards and is increasing its velocity uniformly during every second.
+Importantly, during every moment Gravitational Force (Invisible Hand) is pushing the 20 kg object downwards and ONLY AS A RESULT of that pushing, the pushed object starts moving downwards and is increasing its velocity uniformly during every second.
 
 The Distance (D) moved by the pushed object during any given second is as follows:  
 
@@ -578,7 +578,7 @@ W — Work done by Force during the given second (measured in Joules: J);<br
 F — Force pushing the object during the given second (measured in Newtons: N);<br>
 D — Distance moved by the pushed object during the given second (measured in meters: m).
 
-Since while free-falling the 20 kg object during any given second Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during any given  second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
+Since while free-falling of the 20 kg object the Force (Gravitational Force) is the same, 196 Newtons (196 N) during any given second; and since during any given second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
 
 Work being done by Gravitational Force (Invisible Hand)
 
@@ -620,7 +620,7 @@ D — Distance moved by the pushed object during the given second (measured 
   
 <i>For example, as the subject this might be you (your Hand) or the Universe (Invisible Hand -- Gravitational Force).</i>
 
-Since while free-falling the 20 kg object during any given second the Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during any given second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
+Since while free-falling of the 20 kg object -- during any given second the Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during any given second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
 
 Energy (Resource) being spent by the Universe on Work
 
