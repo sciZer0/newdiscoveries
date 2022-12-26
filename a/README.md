@@ -620,9 +620,9 @@ E — Energy (Resource) being spent by the subject pushing the object during
 F — Force pushing the object during every second (measured in Newtons: N);<br>
 D — Distance moved by the pushed object during the given second (measured in meters: m).
   
-<i>For example, as the subject this might be you (your Hand) or the Universe (Invisible Hand).</i>
+<i>For example, as the subject this might be you (your Hand) or the Universe (Invisible Hand -- Gravitational Force).</i>
 
-Since while free-falling the 20 kg object during any given second Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during any given second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
+Since while free-falling the 20 kg object during any given second the Force (Gravitational Force) is the same, 196 Newtons (196 N); and since during any given second the pushed 20 kg object is moving the distance different in size, "official" science says the following:
 
 Energy (Resource) being spent by the Universe on Work
 
@@ -655,9 +655,7 @@ This formula above is absolutely wrong and this is explained in Discovery #1.
 
 >ATTENTION: In my opinion, the "Official" Formula of Work and the "Official" Formula of Energy are absolutely wrong.
 
-As we can see:
-
-science (mistakenly in my opinion) believes that the real reason for the difference in the distances is Gravitational Force — the more Distance (D) traveled by the object during the given second, the more Work is done by Gravitational Force during the given second.
+As we can see, science (mistakenly in my opinion) believes that the real reason for the difference in the distances is Gravitational Force — the more Distance (D) traveled by the object during any given second, the more Work is done by Gravitational Force during the given second.
 
 NEW DISCOVERIES CHANGING ALL SCIENCE
 
@@ -665,11 +663,11 @@ Discovery #1
 
 FUNDAMENTAL ERRORS IN SCIENCE
 
-1.1. First Fundamental Error in "Official" Science;
-1.2. Second Fundamental Error in "Official" Science;
-1.3. Third Fundamental Error in "Official" Science;
-1.4. Fourth Fundamental Error in "Official" Science;
-1.5. Endless Series of Fundamental Errors in "Official" Science.
+1.1. First Fundamental Error in Science;
+1.2. Second Fundamental Error in Science;
+1.3. Third Fundamental Error in Science;
+1.4. Fourth Fundamental Error in Science;
+1.5. Endless Series of Fundamental Errors in Science.
 
 __________
 
