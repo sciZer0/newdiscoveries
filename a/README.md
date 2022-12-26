@@ -11,13 +11,13 @@ Table of Contents
 * EASY TO UNDERSTAND<br>
 * ABOUT DISCOVERIES<br>
 * FUNDAMENTAL ERRORS IN SCIENCE<br>
-* CONTEXT<br>
+* CONTEXT IN BRIEF<br>
 * START<br>
 
 ## FIRST OF ALL
-Science now is a fundamentally illogical/wrong thing being taken on faith. The scientific system itself is much like a religious sect. <i>More on this below.</i>
+Science now is a fundamentally illogical/wrong thing being taken on faith. The scientific system itself is much like a religious sect. <i>More detail on this a bit below.</i>
 
-Essentially, all I have is logic.
+All I have is logic.
 
 Some time ago, just through thinking logically about well-known facts, I made the biggest ever scientific discoveries.
 
@@ -146,7 +146,7 @@ As said above, even this fundamental error alone destroys the entire concept of 
 
 Also, in science, there is a lot of other fundamental errors which are obvious. <i>More on this below.</i>
 
-## CONTEXT
+## CONTEXT IN BRIEF
 
 As said above, there are the biggest, LITERALLY-CRYING, logical errors in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
 
