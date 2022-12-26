@@ -38,7 +38,7 @@ In particular, if you know the multiplication table and can understand these sim
 
 you are fully able to easily understand every thing, even if you have no scientific background.
 
-Throughout the entire article, I practice "redundancy of understandability", using very simple language and sometimes explaining the same things several times.
+Throughout the whole article, I practice "redundancy of understandability", using very simple language and sometimes explaining the same things several times.
 
 Always feel free to ask me any questions about the discoveries: theOlegGor@gmail.com
 
