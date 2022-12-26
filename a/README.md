@@ -167,7 +167,7 @@ The scientific system, precisely because of being much like a religious sect, is
 
 Moreover, the religious sect’s members always desperately cast stones at everyone who dares to say things that are logical but (yes, again) different from those that have been written in their religious books, and this is always so without allowing any open public discussion.
 
-The today’s situation is that if any clever person wants to enter "official" science, first they must humiliate their own intellect, essentially they must DEGRADE their own intellect because the fundamental errors existing in "official" science are too big and obvious, it is impossible not to see them.
+The today’s situation is that if any clever person wants to enter "official" science, first the person must humiliate their own intellect, essentially they must DEGRADE their own intellect because the fundamental errors existing in "official" science are too big and obvious, it is impossible not to see them.
 
 In my Open Letter to Elon Musk, I explain why exactly all "official" physics scientists around the world (including even those who privately agreed with these discoveries) publicly are, and will likely always be against an announcement of these discoveries (Spoiler: only because they have <b>personal reasons</b> for this).
 
