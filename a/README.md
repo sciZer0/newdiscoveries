@@ -361,17 +361,15 @@ Here is the "official" Newton’s Formula for calculating Force,
 where,<br>
 F — Force pushing the object (measured in Newtons: N);<br>
 m — Mass of the pushed object (measured in kilograms: kg);<br>
-a — Real Acceleration of the pushed object during the given second (measured in meter/second²: m/s²); or, we might say, Real Increase in Velocity of the pushed object per the given second (measured in meter/second/second: m/s/s).
+a — Real Acceleration of the pushed object during the given second, or — Real Increase in Velocity of the pushed object during the given second (measured in meter/second/second: m/s/s or meter/second²: m/s²).
 
-In my opinion, the true Newton’s Formula is different. <i>More on this a bit below.</i>
+In my opinion, the true Newton’s Formula for Force is different, but the "official" Newton’s formula for Force works correctly in some cases.
 
-Only in some cases, the "official" formula for Force works correctly.
-
-The formula is easier to understand through a simple example where a 20 kg object is free-falling.
+Let's consider a case (CASE #1) where the "official" formula for Force works correctly.
 
 CASE #1
 
-So, let’s consider an example where a 20 kg object is free-falling during 30 seconds.
+Let’s consider a case where a 20 kg object (metal solid object) is free-falling during 30 seconds.
 
 <p align="center">
   <img src="/assets/images/16.png"/><br>
@@ -393,19 +391,19 @@ So.
 
 At the beginning of the 1st second of the free-falling, Velocity of this pushed 20 kg object (v) is 0 (m/s), and next the object starts free-falling.
 
-Throughout the whole falling, Velocity of the pushed object (v) is increased uniformly, incl. uniformly during every second.
+Throughout the whole falling, Velocity of the pushed object (v) is increased uniformly, incl. uniformly during any fiven second.
 
-So at the beginning of the 2nd second of the free-falling, Velocity of the pushed object (v) becomes 9.8 (m/s).
-
-We (people) know all these exact numbers about “free-falling“ by well-known experiments.
+So at the beginning of the 2nd second of the free-falling, Velocity of the pushed object (v) becomes 9.8 (m/s). We (people) know all exact numbers about “free-falling“ by well-known experiments.
 
 Next, 
 
-at the beginning of the 3rd second, Velocity of the pushed object (v) becomes — 19.6 (m/s); 
+at the beginning of the 3rd second, Velocity of the pushed object (v) becomes 19.6 (m/s), 
 
-at the beginning of the 4th second — 29.4 (m/s); 
+at the beginning of the 4th second — 29.4 (m/s),
 
-at the beginning of the 5th second — 39.2 (m/s). 
+at the beginning of the 5th second — 39.2 (m/s),
+
+an so on.
 
 <p align="center">
   <img src="/assets/images/0.png"/><br>
@@ -414,7 +412,7 @@ at the beginning of the 5th second — 39.2 (m/s).
    well-known experiments</i>
 </p>
 
-As we can see, during every second Velocity of the pushed 20 kg object is evenly increased by 9.8 (m/s).
+As we can see, during any given second Velocity of the pushed 20 kg object is evenly increased by 9.8 (m/s).
 
 <p align="center">
   <img src="/assets/images/18.png"/><br>
@@ -424,13 +422,13 @@ As we can see, during every second Velocity of the pushed 20 kg object is evenly
    calculations</i>
 </p>
 
-So Real Increase in Velocity of the pushed object per ANY given second (<b>Δv</b>) is always the same,
+So Real Increase in Velocity of the pushed object during ANY given second (<b>Δv</b>) is always the same,
 
 <b>Δv</b> = <b>9.8</b> m/s per second;
 
 or, in other words,
 
-Real Acceleration of the pushed object during any given second (<b>a</b>) is always the same,
+Real Acceleration of the pushed object per any given second (<b>a</b>) is always the same,
 
 <b>a</b> = <b>9.8</b> m/s².
 
