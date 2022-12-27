@@ -653,7 +653,9 @@ This formula above is absolutely wrong and this is explained in Discovery #1.
 
 >ATTENTION: In my opinion, the "Official" Formula of Work and the "Official" Formula of Energy are absolutely wrong.
 
-As we can see, science (mistakenly in my opinion) believes that the real reason for the difference in the distances is Gravitational Force — the more Distance (D) traveled by the object during any given second, the more Work is done by Gravitational Force during the given second.
+As we can see, science (in my opinion, wrongly) believes that the real reason for the difference in the distances is Gravitational Force — the more Distance (D) traveled by the object during any given second, the more Work is done by Gravitational Force during the given second.
+  
+In other words, science believes that that difference in the distances (9.8 m) is due to the different-in-size Work that Gravitational Force (Invisible Hand) is doing during every second — the more Distance (D) traveled by the object during any given second, the more Work is done by Gravitational Force during the given second.
 
 NEW DISCOVERIES CHANGING ALL SCIENCE
 
@@ -728,21 +730,11 @@ An object at rest remains at rest, or if in motion, remains in motion at a const
 
 For Newton, motion by Inertia is the same as being at rest.
 
-Importantly, according to Newton’s 1st Law, when an object is moved by inertia, then no Work is being done and no Energy (no resource) is being spent in this process — it is because when an object is being moved by inertia this is the same as when the object is being at rest.
+Importantly, according to Newton’s 1st Law, when an object is being moved by inertia, then no Work is being done and no Energy (no resource) is being spent in this process — it is because when an object is being moved by inertia this is the same as when the object is being at rest.
 
-In other words, according to Newton’s 1st Law, when the apple is moved by inertia, then no Work is being done and no Energy (no resource) is being spent in this process — it is because when the apple  is being moved by inertia this is the same as when the apple is being at rest.
+In other words, according to Newton’s 1st Law, when the apple is being moved by inertia, then no Work is being done and no Energy (no resource) is being spent in this process — it is because when the apple  is being moved by inertia this is the same as when the apple is being at rest.
 
 
-
-Extremely importantly, the apple can/will be moving at this accumulated Velocity (Inertial Velocity) forever ONLY because of Inertia (only thanks to Inertia, only due to Inertia, only by Inertia).
-
-In other words, this apple can be being moved ONLY by Inertia. Even solely Inertia can be moving this apple during very long time, for example, centuries.
-
-Newton's 1st law: 
-
-An object at rest remains at rest, or if in motion, remains in motion at a constant velocity unless acted on by a net external force.
-
-Importantly, for Newton, steady motion in a straight line is the same as being at rest.
 
 And now, let’s go back to our familiar CASE #1 when the 20 kg object is free-falling  during 30 seconds.
 
@@ -752,13 +744,11 @@ And now, let’s go back to our familiar CASE #1 when the 20 kg object is free-f
 
 Let’s analyze this case in detail.
 
-So, the question is what is THE REAL REASON that this free-falling 20 kg object during every second is moving the distance different in size.
+In particular, the 20 kg object is moving the shorter distance of 4.9 meters during the 1st second and the longer distance of 14.7 meters during the 2nd second.
 
 <p align="center">
   <img src="/assets/images/22.png"/><br>
 </p>
-
-In particular, the 20 kg object is moving the shorter distance of 4.9 meters during the 1st second and the longer distance of 14.7 meters during the 2nd second.
 
 The difference in the distances is 9.8 meters, — 14.7 (m) - 4.9 (m) = 9.8 m.
 
@@ -770,13 +760,15 @@ Moreover, the difference in the distances is always the same, 9.8 meters:
 44.1 (m) - 34.3 (m) = 9.8 m<br>
 and so on.
 
+So, the question is what is THE REAL REASON that this free-falling 20 kg object during every second is moving the distance different in size.
+
 "Official" science wrongly believes that this difference in the distances (9.8 m) is due to the different-in-size Work that Gravitational Force (Invisible Hand) is doing during every second.
 
 Unfortunately, "official" science is absolutely wrong.
 
 And right now I will give you the explanation of what is the real reason for this difference in the distances.
 
-Please extremely carefully study this table below describing the free-falling of an object (the 20 kg object or apple) during every second  (5 seconds in total) — especially the Inertial Distance (D2) moved by the object during every single second (red-colored column).
+Please extremely carefully study this table below describing the free-falling of an object (the 20 kg object or apple) during every second  (5 seconds in total) — especially the Inertial Distance (D2) being moved by the object during every second (red-colored column).
 
 <p align="center">
   <img src="/assets/images/table.png"/>
