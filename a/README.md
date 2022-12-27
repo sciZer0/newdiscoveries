@@ -672,7 +672,7 @@ This error is called "sufficient" because even this error alone destroys the ent
 
 As said above, in my opinion, all the biggest basic errors in science occurred because people didn’t and still don’t fully understand the three Newton’s discoveries (Newton’s 1st, 2nd and 3rd Laws) which results, among other things, in misunderstanding of what in reality is Force, Work and Energy.
 
-In particular, "official" science fails to understand the difference between how Inertia works and how Gravitational Force (Invisible Hand) works; and especially, what happens when they (Inertia and Gravitational Force) work simultaneously.
+In particular, "official" science fails to understand the difference between how Inertia works and how Gravitational Force (Invisible Hand) works, and especially, what happens when they (Inertia and Gravitational Force) work simultaneously.
 
 In this chapter, along the way, we will see the total wrongness of "official" science of understanding the Universe: 
 
@@ -700,21 +700,39 @@ On the other hand, on the Earth, as we already know, there is Gravitational Forc
 
 Now, let’ learn how Inertia works.
 
-For example, in cosmos far away from all planets, while you hold an apple in your hand, this apple has zero Velocity (v = 0 m/s) . But if you throw the apple in any certain direction (for example,  upwards vertically),
+For example, in cosmos far away from all planets, while you hold an apple in your hand, this apple has zero Velocity (v = 0 m/s). 
+
+But when you throw the apple in any certain direction (for example,  upwards vertically),
 
 <p align="center">
   <img src="/assets/images/23.png"/><br>
 </p>
 
-this apple, at the moment of separation from your hand, will have some accumulated non-zero Velocity (say, 10 m/s ); and every moment next, after the separation from your hand, this apple will be moving at this accumulated Velocity (10 m/s) (theoretically, can be moving forever).
+the apple, at the moment of separation from your hand, will have some accumulated non-zero Velocity (say, 10 m/s ); and every moment next, after the separation from your hand, the apple will be  moving at the accumulated Velocity (10 m/s).
 
 <p align="center">
   <img src="/assets/images/24.png"/><br>
 </p>
 
-The apple can be moving at this accumulated Velocity (10 m/s) FOREVER because according to Newton's 1st Law:  -- when the apple is being moved by Inertia at Inertial Velocity (10 m/s) this is the same as when the apple is being at rest!
+We might call this accumulated Velocity (which is 10 m/s) “Inertial Velocity”.
 
-We might also call this accumulated Velocity “Inertial Velocity”.
+<p align="center">
+  <img src="/assets/images/25.png"/><br>
+</p>
+
+The apple can be moving at Inertial Velocity (10 m/s) because -- according to Newton's 1st Law -- when the apple is being moved by Inertia at Inertial Velocity (10 m/s) this is the same as when the apple is being at rest!
+
+Newton's 1st law is: 
+
+An object at rest remains at rest, or if in motion, remains in motion at a constant velocity unless acted on by a net external force.
+
+For Newton, motion by Inertia is the same as being at rest.
+
+Importantly, according to Newton’s 1st Law, when an object is moved by inertia, then no Work is being done and no Energy (no resource) is being spent in this process — it is because when an object is being moved by inertia this is the same as when the object is being at rest.
+
+In other words, according to Newton’s 1st Law, when the apple is moved by inertia, then no Work is being done and no Energy (no resource) is being spent in this process — it is because when the apple  is being moved by inertia this is the same as when the apple is being at rest.
+
+
 
 Extremely importantly, the apple can/will be moving at this accumulated Velocity (Inertial Velocity) forever ONLY because of Inertia (only thanks to Inertia, only due to Inertia, only by Inertia).
 
@@ -746,7 +764,11 @@ The difference in the distances is 9.8 meters, — 14.7 (m) - 4.9 (m) = 9.8 m.
 
 Moreover, the difference in the distances is always the same, 9.8 meters:
 
-14.7 (m) - 4.9 (m) = 9.8 m24.5 (m) - 14.7 (m) = 9.8 m34.3 (m) - 24.5 (m) = 9.8 m44.1 (m) - 34.3 (m) = 9.8 mand so on.
+14.7 (m) - 4.9 (m) = 9.8 m<br>
+24.5 (m) - 14.7 (m) = 9.8 m<br>
+34.3 (m) - 24.5 (m) = 9.8 m<br>
+44.1 (m) - 34.3 (m) = 9.8 m<br>
+and so on.
 
 "Official" science wrongly believes that this difference in the distances (9.8 m) is due to the different-in-size Work that Gravitational Force (Invisible Hand) is doing during every second.
 
@@ -781,7 +803,7 @@ D2 -- the Inertial Distance being moved by the object due to Inertia  — i.e. n
 
 Here again Isaac Newton comes into play, again with his 1 Law.
 
-According to Newton’s 1st Law, when an object is moving only by inertia, then no Work is being done and no Energy (no resource) is being spent in this process — because when an object is being moved by inertia it is the same that the object is being at rest.
+According to Newton’s 1st Law, when an object is moving by inertia, then no Work is being done and no Energy (no resource) is being spent in this process — because when an object is being moved by Inertia it is the same when the object is being at rest.
 
 In particular, the wrongness of science lies in misunderstanding the fact that in every “free-falling” there is also the Inertial motion -- there is the of distance the object is moving with Inertia (i.e. not due to Work of Gravitational Force, but only due to Inertia).
 
