@@ -214,7 +214,8 @@ B. "Official" Concept of Work and "Official" Concept of Energy.
 
 3.1. Precedents of Conservation of Energy;<br>
 3.2. Energy-Isolated & Energy-Non-Isolated Systems;<br>
-3.3. Free Clean Energy;3.4. New Law of Conservation of Energy;<br>
+3.3. Free Clean Energy;<br>
+3.4. New Law of Conservation of Energy;<br>
 3.5. Various Ways of Multiplication of Force, Work, Energy ;<br>
 3.6. New Energy & New Ability of Magnets;<br>
 3.7. New-Generation Generator of Electrical Energy.<br>
