@@ -736,7 +736,7 @@ And now, let’s go back to our familiar CASE #1 where the 20 kg object is free-
 
 <p align="center">
   <img src="/assets/images/16.png"/><br>
-  <i>20 kg object is free-falling</i>
+  <i>20 kg object which is free-falling</i>
 </p>
 
 Or the same Case #1 in this image:
