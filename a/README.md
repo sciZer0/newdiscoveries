@@ -751,7 +751,10 @@ Let’s analyze this case in detail.
 In particular, the 20 kg object is moving the shorter distance of 4.9 meters during the 1st second and the longer distance of 14.7 meters during the 2nd second.
 
 <p align="center">
-  <img src="/assets/images/22.png"/><br>
+  <img src="/assets/images/1.png"/><br>
+  <i>We (people) know all these exact<br> 
+   numbers about “free-falling“ through<br>
+   well-known experiments</i>
 </p>
 
 The difference in the distances is 9.8 meters, 
