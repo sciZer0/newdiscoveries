@@ -75,9 +75,9 @@ At best, thanks to the discoveries,<br>
 
 In order for you to get an idea of how big the whole wrongness of science is, here is a description of just 2 of the fundamental errors that I discovered.
 
-#### THE 1st SUFFICIENT FUNDAMENTAL ERROR IN SCIENCE
+#### ONE OF SUFFICIENT FUNDAMENTAL ERRORS IN SCIENCE
 
-This error is called "sufficient" because even this error alone destroys the entire concept of science of understanding the Universe.
+This error is called "sufficient" because even this error alone destroys the entire concept of science of understanding the Universe. This error is sufficient.
 
 The error is based on the fact that science fails to even understand what is THE REAL REASON that a free-falling object during every second is moving the distance different in size.
 
@@ -116,13 +116,13 @@ are absolutely wrong.
 
 The Joule, in its turn, is the absolutely wrong unit of measure for Work and Energy.
 
-As said above, even this fundamental error alone destroys the entire concept of science of understanding the Universe.
+As said above, even this fundamental error alone destroys the entire concept of science of understanding the Universe. This error is sufficient.
 
 <i>The error is explained in detail below in this article.</i>
 
-####  THE 2nd SUFFICIENT FUNDAMENTAL ERROR IN SCIENCE
+#### ANOTHER SUFFICIENT FUNDAMENTAL ERROR IN SCIENCE
 
-This error is the same way called "sufficient" because it works the same way: even this error alone destroys the entire concept of science of understanding the Universe.
+This error is the same way called "sufficient" because it works the same way: even this error alone destroys the entire concept of science of understanding the Universe. This error is sufficient.
 
 The error is that in science, there the Concept of Static Mechanical Work is wrongly missing.
 
@@ -140,7 +140,7 @@ But in my opinion, the person on the right (holding the 20 kg object motionless 
 
 Due to this fundamental error — due to the Absence of the Concept of Static Mechanical Work in science — the vast majority of processes in the Universe right now are being fallen out of our sight, and hence understanding. For this reason, humanity has the absolutely wrong picture of the physical world and is losing gigantic opportunities.
 
-As said above, even this fundamental error alone destroys the entire concept of science of understanding the Universe.
+As said above, even this fundamental error alone destroys the entire concept of science of understanding the Universe. This error is sufficient.
 
 <i>The Concept of Static Mechanical Work is explained in detail below in this article.</i>
 
@@ -191,7 +191,7 @@ B. "Official" Concept of Work and "Official" Concept of Energy.
 ### DISCOVERY #1
 <i>FUNDAMENTAL ERRORS IN SCIENCE</i>
 
-1.1. The 1st Sufficient Fundamental Error in Science;<br>
+1.1. One of Sufficient Fundamental Errors in Science;<br>
 1.2. Endless Series of Fundamental Errors in Science.
 
 ### DISCOVERY #2
@@ -663,12 +663,12 @@ Discovery #1
 
 FUNDAMENTAL ERRORS IN SCIENCE
 
-1.1. The 1st Sufficient Fundamental Error in Science;<br>
+1.1. One of Sufficient Fundamental Errors in Science;<br>
 1.2. Endless Series of Fundamental Errors in Science.
 
 __________
 
-## The 1st Sufficient Fundamental Error in Science
+## One of Sufficient Fundamental Errors in Science
 
 This error is called "sufficient" because even this error alone destroys the entire concept of science of understanding the Universe.
 
