@@ -735,7 +735,7 @@ In other words, according to Newton’s 1st Law, when the apple is being moved b
 And now, let’s go back to our familiar CASE #1 where the 20 kg object is free-falling  during 30 seconds.
 
 <p align="center">
-  <img src="/assets/images/24.png"/><br>
+  <img src="/assets/images/16.png"/><br>
 </p>
 
 Let’s analyze this case in detail.
