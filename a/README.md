@@ -11,7 +11,7 @@ Table of Contents
 * EASY TO UNDERSTAND<br>
 * ABOUT DISCOVERIES<br>
 * FUNDAMENTAL ERRORS IN SCIENCE<br>
-* CONTEXT IN BRIEF<br>
+* CONTEXT<br>
 * START<br>
 
 ## FIRST OF ALL
@@ -146,7 +146,7 @@ As said above, even this fundamental error alone destroys the entire concept of 
 
 Also, in science, there is a lot of other fundamental errors which are obvious. <i>More on this below.</i>
 
-## CONTEXT IN BRIEF
+## CONTEXT
 
 As said above, there are the biggest, LITERALLY-CRYING, logical errors in the very fundamentals of science that right now are strongly hindering the progress of our civilization.
 
