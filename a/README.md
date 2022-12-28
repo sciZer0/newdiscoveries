@@ -739,11 +739,13 @@ And now, let’s go back to our familiar CASE #1 where the 20 kg object is free-
   <i>20 kg object is free-falling</i>
 </p>
 
+Or the same Case #1 in this image:
+
 <p align="center">
   <img src="/assets/images/17.png"/><br>
   <i>Gravitational Force pushing<br>
   downwards the 20 kg object<br>
-  during any given second</i>
+  during every second</i>
 </p>
 
 Let’s analyze this case in detail.
