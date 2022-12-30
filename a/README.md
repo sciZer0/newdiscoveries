@@ -710,19 +710,19 @@ But when you throw the apple in any certain direction (for example, upwards vert
   <img src="/assets/images/23.png"/><br>
 </p>
 
-the apple, at the moment of separation from your hand, will have some accumulated non-zero Velocity (say, 10 m/s ); and every moment next, after the separation from your hand, the apple will be moving at the accumulated Velocity (10 m/s).
+the apple, at the moment of separation from your hand, will have some accumulated non-zero Velocity (say, 10 m/s ); and every moment next, after the separation from your hand, the apple will be moving at this accumulated Velocity (10 m/s).
 
 <p align="center">
   <img src="/assets/images/24.png"/><br>
 </p>
 
-We might call this accumulated Velocity (which is 10 m/s) “Inertial Velocity”.
+We might call this accumulated Velocity (10 m/s) -- at which the apple is moving with Inertia -- “Inertial Velocity”.
 
 <p align="center">
   <img src="/assets/images/25.png"/><br>
 </p>
 
-The apple will be moving at Inertial Velocity (10 m/s) because -- according to Newton's 1st Law -- when the apple is moving with Inertia at Inertial Velocity (10 m/s) this is the same as when the apple is being at rest -- meaning no Work is being done and no Energy (no resource) is being spent in this process.
+Importantly, the apple will be moving at Inertial Velocity (10 m/s) because -- according to Newton's 1st Law -- when the apple is moving with Inertia at Inertial Velocity (10 m/s) this is the same as when the apple is being at rest -- meaning no Work is being done and no Energy (no resource) is being spent in this process.
 
 Newton's 1st law: 
 
@@ -730,7 +730,7 @@ An object at rest remains at rest, or if in motion, remains in motion at a const
 
 For Newton, motion by Inertia is the same as being at rest.
 
-Importantly, according to Newton’s 1st Law, when an object is moving with Inertia at Inertial Velocity, then no Work is being done and no Energy (no resource) is being spent in this process — it is exactly so because when the object is moving with Inertia at Inertial Velocity this is the same as when the object is being at rest.
+So, according to Newton’s 1st Law, when an object is moving with Inertia at Inertial Velocity, then no real Work is being done and no real Energy (no resource) is being spent in this process — it is exactly so because when an object is moving with Inertia at Inertial Velocity this is the same as when the object is being at rest.
 
 And now, let’s go back to our familiar CASE #1 where the 20 kg object is free-falling during 30 seconds.
 
@@ -779,7 +779,7 @@ Unfortunately, science is absolutely wrong.
 
 And right now I will give you the explanation of what is the real reason for this difference in the distances.
 
-Please carefully study this table below describing the free-falling of the 20 kg object (or an apple) during every second  (5 seconds in total) — especially the Inertial Distance (D2) being moved by the object during every second (red-colored column).
+Please carefully study this table below describing the free-falling of the 20 kg object during every second (5 seconds in total) — especially the Inertial Distance (D2) being moved by the object during every second (red-colored column).
 
 <p align="center">
   <img src="/assets/images/table.png"/>
@@ -791,7 +791,7 @@ Please pay attention to:
 
 * Velocity (v) accumulated by the pushed object at the beginning of any given second is precisely Inertial Velocity of the object at the beginning of the given second;
 
-* Inertial Distance (D2) is the distance being moved by the object during any given second due to Inertia  — i.e. not due to Pushing (Work) done by Gravitational Force (Invisible Hand) during the given second, but due to Inertia.
+* Inertial Distance (D2) is the distance being moved by the object during any given second due to Inertia  — i.e. not due to Pushing (real Work) done by Gravitational Force (Invisible Hand) during the given second, but due to Inertia.
 
 The whole thing is that while free-falling, the pushed object during any given second is moving Summary Distance (D) being the sum (the result of the sum) of the two absolutely different sorts of distances, D1 and D2:
 
@@ -800,23 +800,23 @@ D = D1 + D2
 where,<br>
 D  — Summary Distance the object is moving during the given second, (measured in meters: m);
 
-D1 — Non-Inertial Distance the object is moving during the given second due to the pushing (Work) done by Gravitational Force (Invisible Hand) during the given second, i.e. precisely due to Work of Gravitational Force (Invisible Hand) during the given second, (measured in meters: m);
+D1 — Non-Inertial Distance the object is moving during the given second due to the pushing (real Work) done by Gravitational Force (Invisible Hand) during the given second, i.e. precisely due to real Work of Gravitational Force (Invisible Hand) during the given second, (measured in meters: m);
 
-D2 — Inertial Distance the object is moving during the given second due to Inertia — i.e. not due to the pushing (Work) done by Gravitational Force (Invisible Hand) during the given second, but due to Inertia, (measured in meters: m).
+D2 — Inertial Distance the object is moving during the given second due to Inertia — i.e. not due to the pushing (real Work) done by Gravitational Force (Invisible Hand) during the given second, but due to Inertia, (measured in meters: m).
 
 ====
 
 Here again Isaac Newton comes into play, again with his 1st Law.
 
-According to Newton’s 1st Law, when an object is moving by inertia, then no Work is being done and no Energy (no resource) is being spent in this process — because when an object is being moved by Inertia it is the same when the object is being at rest.
+According to Newton’s 1st Law, when an object is moving with inertia, then no real Work is being done and no real Energy (no real resource) is being spent in this process — because when an object is moving with Inertia it is the same when the object is being at rest.
 
-In particular, the wrongness of science lies in misunderstanding the fact that in every “free-falling” there is also the Inertial Motion -- there is the of distance the object is moving with Inertia (i.e. not due to Work of any Force (incl. Gravitational Force), but due to Inertia).
+In particular, the wrongness of science lies in misunderstanding the fact that in every “free-falling” there is also the Inertial Motion -- there is the distance the object is moving with Inertia -- i.e. not due to real Work done by any Force, but due to Inertia.
 
-It all means that when the object is moving the Inertial Distance (D2) during any given second of free-falling, no Work is being done by the Universe and no Energy (no resource) is being spent by the Universe.
+It all means that when the object is moving the Inertial Distance (D2) during any given second of free-falling, no real Work is being done by the Universe and no real Energy (no real resource) is being spent by the Universe.
 
 =====
 
-Now, let’s consider, for example, the 1st second of this free-falling — in the table it is the “1st second of fall” line.
+Now, let’s consider, for example, the 1st second of this free-falling — in the table it is the “1st second of fall” line.
 
 <p align="center">
   <img src="/assets/images/table.png"/>
@@ -828,15 +828,15 @@ D = D1 + D2
 
 In detai,
 
-D1 is Non-Inertial Distance the object is moving during the given second due to the pushing (Work) done by Gravitational Force (Invisible Hand) during the given second, i.e. precisely due to Work of Gravitational Force (Invisible Hand) during the given second:
+D1 is Non-Inertial Distance the object is moving during the given second due to the pushing (real Work) done by Gravitational Force (Invisible Hand) during the given second:
 
 D1 = AddedVelocity/2 * t = Δv/2 * t = 9.8 (m/s) / 2 * 1 (s) = 4.9 meters
 
-Note: Non-Inertial Distance (D1) is the same (4.9 m) during any given second
+Note: Non-Inertial Distance (D1) is the same (4.9 m) during any given second.
 
-D2 is Inertial Distance the object is moving during the given second due to Inertia — i.e. not due to the pushing (Work) done by Gravitational Force (Invisible Hand) during the given second, but due to Inertia.
+D2 is Inertial Distance the object is moving during the given second due to Inertia — i.e. not due to the pushing (real Work) done by Gravitational Force (Invisible Hand) during the given second, but due to Inertia.
 
-Since at the beginning of the 1st second the object hadn’t Accumulated Velocity (v = 0 m/s), it means that during the 1st second the object wasn’t moving inertially (with Inertia, by Inertia)
+Since at the beginning of the 1st second the object hasn't the Accumulated Velocity (v = 0 m/s), it means that during the 1st second the object isn’t moving inertially (with Inertia, by Inertia):
 
 D2 = v * t = 0 (m/s) * 1 (s) = 0 meters
 
@@ -844,50 +844,55 @@ So Summary Distance (D) during the 1st second is:
 
 D = D1 + D2 = 4.9 (m) + 0 (m) = 4.9 meters
 
-And now, let’s consider the 2nd second of this free-falling — in the table it is the “2nd second of fall” line.
+And now, let’s consider the 2nd second of this free-falling — in the table it is the “2nd second of fall” line.
 
 <p align="center">
   <img src="/assets/images/table.png"/>
 </p>
 
-In detail:
-
-Importantly, during the 2nd second of the free-falling, the object is also moving Summary Distance (D) being the sum (the result of the sum) of the two absolutely different sorts of distances, D1 and D2:
+Importantly, during the 2nd second of the free-falling, the object is moving Summary Distance (D) being the sum (the result of the sum) of the two absolutely different sorts of distances, D1 and D2:
 
 D = D1 + D2
 
 In detai,
 
-D1 is Non-Inertial Distance the object is moving during the given second due to the pushing (Work) done by Gravitational Force (Invisible Hand) during the given second, i.e. precisely due to Work of Gravitational Force (Invisible Hand) during the given second:
+D1 is Non-Inertial Distance the object is moving during the given second due to the pushing (real Work) done by Gravitational Force (Invisible Hand) during the given second:
 
 D1 = AddedVelocity/2 * t = Δv/2 * t = 9.8 (m/s) / 2 * 1 (s) = 4.9 meters
 
-Note: Non-Inertial Distance (D1) is the same (4.9 m) during any given second
+Note: Non-Inertial Distance (D1) is the same (4.9 m) during any given second.
 
+D2 is Inertial Distance the object is moving during the given second due to Inertia — i.e. not due to the pushing (real Work) done by Gravitational Force (Invisible Hand) during the given second, but due to Inertia.
 
-D2 is Inertial Distance the object is moving during the given second due to Inertia — i.e. not due to the pushing (Work) done by Gravitational Force (Invisible Hand) during the given second, but due to Inertia.
-
-Since at the beginning of the 2nd second the object has Accumulated Velocity (v = 9.8 m/s), it means that during the 1st second the object is moving inertially (with Inertia, by Inertia)
+Since at the beginning of the 2nd second the object has the Accumulated Velocity (v = 9.8 m/s), it means that during the 1st second the object is moving inertially (with Inertia, by Inertia)
 
 D2 = v * t = 9.8 (m/s) * 1 (s) = 9.8 meters
 
-Importantly, if at the beginning of the 2nd second we might turn off the Gravitational Force, the object anyway would be moving at Inertial Velocity (9.8 m/s) during the entire 2nd second and further.
+Importantly, if at the beginning of the 2nd second we might turn off the Gravitational Force, the object anyway would still be moving at Inertial Velocity (9.8 m/s) during the entire 2nd second and further.
 
 So Summary Distance (D) during the 2nd second is:
 
 D = D1 + D2 = 4.9 (m) + 9.8 (m) = 14.7 meters
 
-According to Newton’s 1st Law, when an object is moving only by inertia (D2), then no Work is being done and no Energy (no resource) is being spent in this process (because when an object is moving only by inertia it is the same thing that the object is being at rest).
+According to Newton’s 1st Law, when an object is moving with inertia, then no real Work is being done and no real Energy (no real resource) is being spent in this process — because when an object is moving with Inertia it is the same when the object is being at rest.
 
-Since the Inertial Distance (D2 = 9.8 meters) during the 2nd second is absolutely irrelevant to the pushing done by Gravitational Force during the 2nd second (i.e. is irrelevant to the Work (W) of Gravitational Force during the 2nd second), then the Inertial Distance (D2 = 9.8 meters) should not increase the calculated Work (W) of Gravitational Force during the 2nd second and the calculated Energy (E) .
+Since the Inertial Distance (D2 = 9.8 meters) during the 2nd second is absolutely irrelevant to the pushing (real Work) done by Gravitational Force during the 2nd second, then the Inertial Distance (D2 = 9.8 meters) should not increase the calculated Work (W) of Gravitational Force during the 2nd second and the calculated Energy (E) .
 
 But in this wrong "official" formula for Work and Energy:
+
+<p align="center">
+  <img src="/assets/images/26.png"/>
+</p>
 
 the Inertial Distance (D2) is mistakenly included in the calculation and hence mistakenly increases the wrongly calculated Work (W) of Gravitational Force (F) during the 2nd second and therefore mistakenly increases the wrongly calculated Energy (E).
 
 It is important to understand that the same thing happens during every single second of the falling (please study the table above carefully)!
 
 And this all means that the base "official" formula for Work and Energy:
+
+<p align="center">
+  <img src="/assets/images/26.png"/>
+</p>
 
 is absolutely wrong!
 
