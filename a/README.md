@@ -958,3 +958,7 @@ LINK:
 scientistzer0.substack.com/p/new-discoveries-changing-all-science
 
 Help civilization.
+
+--
+CONTINUATION IS HERE:
+continuation is here https://github.com/sciZer0/newdiscoveries/tree/main/c
