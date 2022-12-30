@@ -77,7 +77,7 @@ In order for you to get an idea of how big the whole wrongness of science is, he
 
 #### ONE OF SUFFICIENT FUNDAMENTAL ERRORS IN SCIENCE
 
-This error is called "sufficient" because even this error alone destroys the entire concept of science of understanding the Universe. This error is sufficient.
+This error is called "sufficient" because even this error alone destroys the entire concept of science of understanding the Universe. It is sufficient.
 
 The error is based on the fact that science fails to even understand what is THE REAL REASON that a free-falling object during every second is moving the distance different in size.
 
@@ -116,13 +116,13 @@ are absolutely wrong.
 
 The Joule, in its turn, is the absolutely wrong unit of measure for Work and Energy.
 
-As said above, even this fundamental error alone destroys the entire concept of science of understanding the Universe. This error is sufficient.
+As said above, even this fundamental error alone destroys the entire concept of science of understanding the Universe. It is sufficient.
 
 <i>The error is explained in detail below in this article.</i>
 
 #### ANOTHER SUFFICIENT FUNDAMENTAL ERROR IN SCIENCE
 
-This error is the same way called "sufficient" because it works the same way: even this error alone destroys the entire concept of science of understanding the Universe. This error is sufficient.
+This error is the same way called "sufficient" because it works the same way: even this error alone destroys the entire concept of science of understanding the Universe. It is sufficient.
 
 The error is that in science, there the Concept of Static Mechanical Work is wrongly missing.
 
@@ -140,7 +140,7 @@ But in my opinion, the person on the right (holding the 20 kg object motionless 
 
 Due to this fundamental error — due to the Absence of the Concept of Static Mechanical Work in science — the vast majority of processes in the Universe right now are being fallen out of our sight, and hence understanding. For this reason, humanity has the absolutely wrong picture of the physical world and is losing gigantic opportunities.
 
-As said above, even this fundamental error alone destroys the entire concept of science of understanding the Universe. This error is sufficient.
+As said above, even this fundamental error alone destroys the entire concept of science of understanding the Universe. It is sufficient.
 
 <i>The Concept of Static Mechanical Work is explained in detail below in this article.</i>
 
@@ -671,13 +671,14 @@ __________
 
 ## One of Sufficient Fundamental Errors in Science
 
-This error is called "sufficient" because even this error alone destroys the entire concept of science of understanding the Universe. This error is sufficient.
-
-In particular, science fails to understand the difference between how Inertia works and how Gravitational Force (Invisible Hand) works, and especially, what happens when they (Inertia and Gravitational Force) work simultaneously.
+This error is called "sufficient" because even this error alone destroys the entire concept of science of understanding the Universe. It is sufficient.
 
 Through this chapter,  we will see the total wrongness of science of understanding the Universe: 
 
-the total wrongness of all the "official" formulas for calculating Work (W) and Energy (E).
+* the total wrongness of all the "official" formulas for calculating Work (W) and Energy (E);
+* the total wrongness of using such a unit as the Joule for measuring Work (W) and Energy (E).
+
+In particular, science fails to understand the difference between how Inertia works and how Gravitational Force (Invisible Hand) works, and especially, what happens when they (Inertia and Gravitational Force) work simultaneously.
 
 In order to understand this, let’s recall some familiar stuff above, adding some new points.
 
@@ -691,13 +692,13 @@ this apple starts moving downwards (closer to the ground).
 
 Importantly, this apple starts its motion downwards ONLY BECAUSE during every moment Gravitational Force (Invisible Hand) is pushing this apple downwards (closer to the ground).
 
-But, for example, in cosmos far away from all planets, there is no Gravitational Force (Invisible Hand) which could push every object downwards. So if you let an apple out of your hand, the apple won’t start moving downwards (won’t start moving anywhere).
+But, for example, in cosmos far away from all planets, there is no Gravitational Force (no Invisible Hand) which, during every momenmt, could be pushing an object downwards. So if you let an apple out of your hand, the apple won’t start moving downwards (won’t start moving anywhere).
 
 <p align="center">
   <img src="/assets/images/14.png"/><br>
 </p>
 
-On the other hand, on the Earth, as we already know, there is Gravitational Force (Invisible Hand) which pushes every object downwards. So if you let an apple out of your hand, the apple starts its motion downwards only thanks to the pushing being done — during every moment — by Gravitational Force (Invisible Hand).
+On the other hand, on the Earth, as we already know, there is Gravitational Force (Invisible Hand) which, during every momenmt, pushes an object downwards. So if you let an apple out of your hand, the apple starts its motion downwards only thanks to the pushing being done — during every moment — by Gravitational Force (Invisible Hand).
 
 Now, let’ learn how Inertia works.
 
@@ -709,7 +710,7 @@ But when you throw the apple in any certain direction (for example, upwards vert
   <img src="/assets/images/23.png"/><br>
 </p>
 
-the apple, at the moment of separation from your hand, will have some accumulated non-zero Velocity (say, 10 m/s ); and every moment next, after the separation from your hand, the apple will be  moving at the accumulated Velocity (10 m/s).
+the apple, at the moment of separation from your hand, will have some accumulated non-zero Velocity (say, 10 m/s ); and every moment next, after the separation from your hand, the apple will be moving at the accumulated Velocity (10 m/s).
 
 <p align="center">
   <img src="/assets/images/24.png"/><br>
@@ -721,19 +722,17 @@ We might call this accumulated Velocity (which is 10 m/s) “Inertial Velocity�
   <img src="/assets/images/25.png"/><br>
 </p>
 
-The apple will be moving at Inertial Velocity (10 m/s) because -- according to Newton's 1st Law -- when the apple is being moved by Inertia at Inertial Velocity (10 m/s) this is the same as when the apple is being at rest!
+The apple will be moving at Inertial Velocity (10 m/s) because -- according to Newton's 1st Law -- when the apple is moving with Inertia at Inertial Velocity (10 m/s) this is the same as when the apple is being at rest -- meaning no Work is being done and no Energy (no resource) is being spent in this process.
 
-Newton's 1st law is: 
+Newton's 1st law: 
 
 An object at rest remains at rest, or if in motion, remains in motion at a constant velocity unless acted on by a net external force.
 
 For Newton, motion by Inertia is the same as being at rest.
 
-Importantly, according to Newton’s 1st Law, when an object is being moved by inertia, then no Work is being done and no Energy (no resource) is being spent in this process — it is because when an object is being moved by inertia this is the same as when the object is being at rest.
+Importantly, according to Newton’s 1st Law, when an object is moving with Inertia at Inertial Velocity, then no Work is being done and no Energy (no resource) is being spent in this process — it is exactly so because when the object is moving with Inertia at Inertial Velocity this is the same as when the object is being at rest.
 
-In other words, according to Newton’s 1st Law, when the apple is being moved by inertia, then no Work is being done and no Energy (no resource) is being spent in this process — it is because when the apple is being moved by inertia this is the same as when the apple is being at rest.
-
-And now, let’s go back to our familiar CASE #1 where the 20 kg object is free-falling  during 30 seconds.
+And now, let’s go back to our familiar CASE #1 where the 20 kg object is free-falling during 30 seconds.
 
 <p align="center">
   <img src="/assets/images/16.png"/><br>
@@ -774,13 +773,13 @@ and so on.
 
 So, the question is what is THE REAL REASON that this free-falling 20 kg object during every second is moving the distance different in size.
 
-Science wrongly believes that this difference in the distances (9.8 m) is due to the different-in-size Work that Gravitational Force (Invisible Hand) is doing during every second.
+Science wrongly believes that this difference in the distances (9.8 m) is due to the "different-in-size" Work that Gravitational Force (Invisible Hand) is doing during any given second.
 
-Unfortunately, "official" science is absolutely wrong.
+Unfortunately, science is absolutely wrong.
 
 And right now I will give you the explanation of what is the real reason for this difference in the distances.
 
-Please extremely carefully study this table below describing the free-falling of the 20 kg object (or apple) during every second  (5 seconds in total) — especially the Inertial Distance (D2) being moved by the object during every second (red-colored column).
+Please carefully study this table below describing the free-falling of the 20 kg object (or an apple) during every second  (5 seconds in total) — especially the Inertial Distance (D2) being moved by the object during every second (red-colored column).
 
 <p align="center">
   <img src="/assets/images/table.png"/>
@@ -788,11 +787,11 @@ Please extremely carefully study this table below describing the free-falling of
 
 Please pay attention to:
 
-—  Increase in Velocity during any given second (Δv) is the same — 9.8 m/s;
+*  Increase in Velocity during any given second (Δv) is the same — 9.8 m/s;
 
-—  Velocity (v) accumulated by the pushed object at the beginning of any given second is precisely Inertial Velocity of the object at the beginning of the given second;
+* Velocity (v) accumulated by the pushed object at the beginning of any given second is precisely Inertial Velocity of the object at the beginning of the given second;
 
-— Inertial Distance (D2) is the distance being moved by the object during any given second due to Inertia  — i.e. not due to Pushing (Work) of Gravitational Force (Invisible Hand) during the given second, but due to Inertia.
+* Inertial Distance (D2) is the distance being moved by the object during any given second due to Inertia  — i.e. not due to Pushing (Work) done by Gravitational Force (Invisible Hand) during the given second, but due to Inertia.
 
 The whole thing is that while free-falling, the pushed object during any given second is moving Summary Distance (D) being the sum (the result of the sum) of the two absolutely different sorts of distances, D1 and D2:
 
