@@ -896,11 +896,7 @@ And this all means that the base "official" formula for Work and Energy:
 
 is absolutely wrong!
 
-This is extremely important to understand:
-
->During every second of “free-falling” the same Energy is required to do the same Work — to increase Velocity of the pushed object by the same value of 9.8 m/s. <i>More on this a bit below.</i>
-
-Also importantly, this wrong “official” formula for Work and Energy is base and thus strictly defines all other “official formulas“ for Work and Energy, including the “official” formula for potential Energy (Ep) and the “official” formula for kinetic Energy (Ek):
+Importantly, this wrong “official” formula for Work and Energy is base and thus strictly defines all other “official formulas“ for Work and Energy, including the “official” formula for potential Energy (Ep) and the “official” formula for kinetic Energy (Ek):
 
 <p align="center">
   <img src="/assets/images/27.png"/>
