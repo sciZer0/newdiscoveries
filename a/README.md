@@ -896,19 +896,28 @@ And this all means that the base "official" formula for Work and Energy:
 
 is absolutely wrong!
 
-And once again,
+This is extremely important to understand:
 
-it’s extremely important to understand that DURING EVERY SINGLE SECOND of “free-falling” the same Energy is required to do the same Work — to increase Velocity of the pushed object by the same value of 9.8 m/s.
+>During every second of “free-falling” the same Energy is required to do the same Work — to increase Velocity of the pushed object by the same value of 9.8 m/s. <i>More on this a bit below.</i>
 
-Also, it is very important to understand that this wrong "official" formula for Work and Energy is base and thus strictly defines all other “official formulas“, incl. the "official" formula for potential Energy (Ep) and the "official" formula for kinetic Energy (Ek):
+Also importantly, this wrong “official” formula for Work and Energy is base and thus strictly defines all other “official formulas“ for Work and Energy, including the “official” formula for potential Energy (Ep) and the “official” formula for kinetic Energy (Ek):
 
-which means that these "official" formulas for potential Energy (Ep) and kinetic Energy (Ek):
+<p align="center">
+  <img src="/assets/images/27.png"/>
+</p>
+
+which means that these “official” formulas for potential Energy (Ep) and kinetic Energy (Ek):
+
+<p align="center">
+  <img src="/assets/images/28.png"/>
+</p>
 
 are also absolutely wrong!
 
-This means that all of the "Official" Formulas for Work and Energy, while using them for calculations, literally generate nonsense.
+This means that all of the “Official” Formulas for Work and Energy, while using them for calculations, literally generate nonsense.
 
 And since all these wrong formulas also strictly define the dimensional formulas of the Joule (Joule =Newton*meter = kilogram*meter²/second²), it all means that the Joule is the absolutely wrong unit of measure for Work and Energy!
+
 
 And, of course, this all means the total wrongness to use the Joule as the unit of measure for Work and Energy!
 
@@ -918,9 +927,10 @@ The real reason for this difference in the distances IS NOT Gravitational Force.
 
 The real reason for this difference in the distances IS Inertia.
 
-Unfortunately, "official" science absolutely fails to understand this.
+Unfortunately, “official” science absolutely fails to understand this.
 
 As a consequence of this misunderstanding, for now, all scientists (all existing science textbooks) have the absolutely wrong concept of Work and hence have the absolutely wrong concept of Energy. As a result, all the existing formulas for Work (W) and Energy (E), including these basic formulas,
+
 
 are absolutely wrong and, when using them for calculations of Work or Energy, generate nonsense.
 
@@ -928,40 +938,27 @@ The Joule, in its turn, is the absolutely wrong unit of measure for Work and Ene
 
 Always when we are calculating Work or Energy in Joules we get nonsense.
 
-Since concepts of Work and Energy are basic in science, even due to this single fundamental error, there is the total incorrectness of "official" science.
+Since concepts of Work and Energy are basic in science, even due to this single fundamental mistake, there is the total incorrectness of “official” science.
 
 CONCLUSIONS
 
-This discovered error (error) is absolutely sufficient proof of the total incorrectness of all the "Official" Formulas for Work and Energy, and is absolutely sufficient proof of the total wrongness to use any of these formulas for any calculations of Work or Energy.
+This discovered mistake (error) is absolutely sufficient proof of the total incorrectness of all the “Official” Formulas for Work and Energy, and is absolutely sufficient proof of the total wrongness to use any of these formulas for any calculations of Work or Energy.
 
-This error is fundamental. LITERALLY-CRYING.
+This mistake is fundamental. LITERALLY-CRYING.
 
-Of course, this discovered error (error) automatically cancels all the "Official" Formulas for Work and Energy, and also the Joule as the unit of measure for Work and Energy!
+Of course, this discovered mistake (error) automatically cancels all the “Official” Formulas for Work and Energy, and also the Joule as the unit of measure for Work and Energy!
 
-Importantly, even this single discovered error destroys all "official" science.
+Importantly, even this single discovered mistake destroys all “official” science.
 
 __________
 
-As said above, even this single error described/explained above destroys the entire concept of science of understanding the Universe.
+As said above, even this single mistake described/explained above destroys the entire concept of modern/official science of understanding the Universe.
 
-This error is sufficient.
+This mistake is sufficient.
 
 Please spread this information.
 
-LINK: scientistzer0.substack.com/p/new-discoveries-changing-all-science
+LINK:
+scientistzer0.substack.com/p/new-discoveries-changing-all-science
 
 Help civilization.
-
-The continuation of the article is here:
-
-<p align="center">
-  <img src="/assets/images/table.png"/>
-</p>
-
-
-| Syntax      | Description | Syntax      | Description | Syntax      | Description | Syntax      | Description | 
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Header      | Title       | Header      | Title       | Header      | Title       | Header      | Title       |
-
-
-| Paragraph   | Text        | Paragraph   | Text        | Paragraph   | Text        | Paragraph   | Text        |
