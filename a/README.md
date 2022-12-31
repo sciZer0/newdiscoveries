@@ -814,9 +814,19 @@ In particular, the wrongness of science lies in misunderstanding the fact that i
 
 It all means that when the object is moving the Inertial Distance (D2) during any given second of free-falling, no real Work is being done by the Universe and no real Energy (no real resource) is being spent by the Universe.
 
+But in this wrong "official" formula for Work and Energy:
+
+<p align="center">
+  <img src="/assets/images/26.png"/>
+</p>
+
+the Inertial Distance (D2) is mistakenly included in the calculation, and hence mistakenly increases the wrongly calculated Work (W) done by Gravitational Force (Invisible Hand) during free-falling, and therefore mistakenly increases the wrongly calculated Energy (E) spent by the Universe during free-falling.
+
+Importantly, this happens during any given second of the free-falling
+
 =====
 
-Now, let’s consider, for example, the 1st second of this free-falling — in the table it is the “1st second of fall” line.
+Now, let’s consider, for example, the 1st second of free-falling — in the table it is the “1st second of fall” line.
 
 <p align="center">
   <img src="/assets/images/table.png"/>
@@ -844,7 +854,7 @@ So Summary Distance (D) during the 1st second is:
 
 D = D1 + D2 = 4.9 (m) + 0 (m) = 4.9 meters
 
-And now, let’s consider the 2nd second of this free-falling — in the table it is the “2nd second of fall” line.
+And now, let’s consider the 2nd second of free-falling — in the table it is the “2nd second of fall” line.
 
 <p align="center">
   <img src="/assets/images/table.png"/>
@@ -884,9 +894,9 @@ But in this wrong "official" formula for Work and Energy:
   <img src="/assets/images/26.png"/>
 </p>
 
-the Inertial Distance (D2) is mistakenly included in the calculation and hence mistakenly increases the wrongly calculated Work (W) of Gravitational Force (F) during the 2nd second and therefore mistakenly increases the wrongly calculated Energy (E).
+the Inertial Distance (D2) is mistakenly included in the calculation, and hence mistakenly increases the wrongly calculated Work (W) done by Gravitational Force (Invisible Hand) during the 2nd second of free-falling, and therefore mistakenly increases the wrongly calculated Energy (E) spent by the Universe during the 2nd second of free-falling.
 
-It is important to understand that the same thing happens during every single second of the falling (please study the table above carefully)!
+Importantly, this happens during any given second of the free-falling -- please carefully study the table above!
 
 And this all means that the base "official" formula for Work and Energy:
 
@@ -910,12 +920,10 @@ which means that these “official” formulas for potential Energy (Ep) and kin
 
 are also absolutely wrong!
 
-This means that all of the “Official” Formulas for Work and Energy, while using them for calculations, literally generate nonsense.
-
-And since all these wrong formulas also strictly define the dimensional formulas of the Joule (Joule =Newton*meter = kilogram*meter²/second²), it all means that the Joule is the absolutely wrong unit of measure for Work and Energy!
+Since all these wrong formulas also strictly define the dimensional formulas of the Joule (Joule =Newton*meter = kilogram*meter²/second²), it all means that the Joule is the absolutely wrong unit of measure for Work and Energy!
 
 
-And, of course, this all means the total wrongness to use the Joule as the unit of measure for Work and Energy!
+Of course, this all means the total wrongness to use the Joule as the unit of measure for Work and Energy!
 
 So.
 
@@ -925,40 +933,17 @@ The real reason for this difference in the distances IS Inertia.
 
 Unfortunately, “official” science absolutely fails to understand this.
 
-As a consequence of this misunderstanding, for now, all scientists (all existing science textbooks) have the absolutely wrong concept of Work and hence have the absolutely wrong concept of Energy. As a result, all the existing formulas for Work (W) and Energy (E), including these basic formulas,
-
-
-are absolutely wrong and, when using them for calculations of Work or Energy, generate nonsense.
-
-The Joule, in its turn, is the absolutely wrong unit of measure for Work and Energy.
-
-Always when we are calculating Work or Energy in Joules we get nonsense.
-
-Since concepts of Work and Energy are basic in science, even due to this single fundamental mistake, there is the total incorrectness of “official” science.
-
-CONCLUSIONS
-
-This discovered mistake (error) is absolutely sufficient proof of the total incorrectness of all the “Official” Formulas for Work and Energy, and is absolutely sufficient proof of the total wrongness to use any of these formulas for any calculations of Work or Energy.
-
-This mistake is fundamental. LITERALLY-CRYING.
-
-Of course, this discovered mistake (error) automatically cancels all the “Official” Formulas for Work and Energy, and also the Joule as the unit of measure for Work and Energy!
-
-Importantly, even this single discovered mistake destroys all “official” science.
+Since the concept of Energy is basic in science, even due to this single fundamental mistake, there is the fundamental incorrectness of science of understanding the Universe.
 
 __________
-
-As said above, even this single mistake described/explained above destroys the entire concept of modern/official science of understanding the Universe.
-
-This mistake is sufficient.
 
 Please spread this information.
 
 LINK:
-scientistzer0.substack.com/p/new-discoveries-changing-all-science
+https://github.com/sciZer0/newdiscoveries/tree/main/a
 
 Help civilization.
 
---
+---
 CONTINUATION IS HERE:
 continuation is here https://github.com/sciZer0/newdiscoveries/tree/main/c
