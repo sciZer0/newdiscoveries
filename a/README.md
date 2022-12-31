@@ -25,8 +25,6 @@ The discoveries are so big that they directly affect philosophy, physics, chemis
 
 Simultaneously, the discoveries are very simple and obvious.
 
----
-
 ## EASY TO UNDERSTAND
 
 This article explaining the discoveries was written in such a way as to be understandable to everyone.
@@ -45,8 +43,6 @@ Throughout the whole article, I practice "redundancy of understandability", usin
 Always feel free to ask me any questions about the discoveries: theOlegGor@gmail.com
 
 <i>By the way, English is my second language, I started learning it by myself when I was 39 and made the discoveries when I was 45.</i>
-
----
 
 ## ABOUT DISCOVERIES
 
