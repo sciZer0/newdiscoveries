@@ -939,11 +939,11 @@ __________
 
 Please spread this information.
 
-LINK:
+THE LINK:<br>
 https://github.com/sciZer0/newdiscoveries/tree/main/a
 
 Help civilization.
 
 ---
-CONTINUATION IS HERE:
-continuation is here https://github.com/sciZer0/newdiscoveries/tree/main/c
+The continuation of the article is here:<br>
+https://github.com/sciZer0/newdiscoveries/tree/main/c
