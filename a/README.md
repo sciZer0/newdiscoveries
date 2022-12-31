@@ -933,7 +933,11 @@ The real reason for this difference in the distances IS Inertia.
 
 Unfortunately, “official” science absolutely fails to understand this.
 
-Since the concept of Energy is basic in science, even due to this single fundamental mistake, there is the fundamental incorrectness of science of understanding the Universe.
+Since the concept of Energy is basic in science, even this fundamental error alone destroys the entire concept of science of understanding the Universe.
+
+There is the fundamental incorrectness of science.
+
+Right now, the biggest, LITERALLY-CRYING, logical errors in the very fundamentals of science are strongly hindering the progress of our civilization.
 
 __________
 
