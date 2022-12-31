@@ -24,6 +24,7 @@ Some time ago, just through thinking logically about well-known facts, I made th
 The discoveries are so big that they directly affect philosophy, physics, chemistry, biology, and eventually will change all science as we know it.
 
 Simultaneously, the discoveries are very simple and obvious.
+
 ---
 
 ## EASY TO UNDERSTAND
@@ -44,6 +45,7 @@ Throughout the whole article, I practice "redundancy of understandability", usin
 Always feel free to ask me any questions about the discoveries: theOlegGor@gmail.com
 
 <i>By the way, English is my second language, I started learning it by myself when I was 39 and made the discoveries when I was 45.</i>
+
 ---
 
 ## ABOUT DISCOVERIES
