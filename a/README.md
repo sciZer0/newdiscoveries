@@ -192,7 +192,7 @@ B. "Official" Concept of Work and "Official" Concept of Energy.
 <i>FUNDAMENTAL ERRORS IN SCIENCE</i>
 
 1.1. One of Sufficient Fundamental Errors in Science;<br>
-1.2. Endless Series of Fundamental Errors in Science.
+1.2. Endless Series of Errors in Science.
 
 ### DISCOVERY #2
 <i>NEW FORMULAS FOR FORCE, WORK, ENERGY, POWER</i>
@@ -667,9 +667,9 @@ FUNDAMENTAL ERRORS IN SCIENCE
 1.1. One of Sufficient Fundamental Errors in Science;<br>
 1.2. Endless Series of Fundamental Errors in Science.
 
-__________
+_______
 
-## One of Sufficient Fundamental Errors in Science
+## 1.1. One of Sufficient Fundamental Errors in Science
 
 This error is called "sufficient" because even this error alone destroys the entire concept of science of understanding the Universe. It is sufficient.
 
