@@ -6,7 +6,7 @@ New Formula for Energy<br>
 New Formula for Power<br>
 ---
 
-Table of Contents TABLE OF CONTENTS
+<b>Table of Contents</b>
 * FIRST OF ALL<br>
 * EASY TO UNDERSTAND<br>
 * ABOUT DISCOVERIES<br>
