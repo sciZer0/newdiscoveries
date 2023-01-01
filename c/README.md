@@ -18,7 +18,7 @@ As you might see, all the "official" formulas for calculating Work and Energy ar
 
 But there is THE Initial Fundamental Mistake that derives other fundamental errors.
 
-The Initial Fundamental Mistake is that in “official” science the Concept of Target Acceleration For Each Force is wrongly missing. More detail on this in 2.1.
+The Initial Fundamental Mistake is that in science, there the Concept of Target Acceleration For Each Force is wrongly missing. <i>More detail on this in 2.1.</i>
 
 The Initial Fundamental Mistake derives the wrong concept of Force, including the wrong formula of Force.
 
