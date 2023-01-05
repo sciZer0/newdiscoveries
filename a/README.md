@@ -36,7 +36,7 @@ In particular, if you know the multiplication table and can understand these sim
 8 / 2 = 4<br>
 9.8 / 2 * 1 = 4.9
 
-you are fully able to easily understand every thing, even if you have no scientific background.
+you are fully able to easily understand every thing, even having no scientific background.
 
 Throughout the whole article, I practice "redundancy of understandability", using very simple language and sometimes explaining the same things several times.
 
@@ -134,7 +134,7 @@ all scientists (all existing science textbooks), for now, CORRECTLY consider tha
   <img src="/assets/images/4.png"/>
 </p>
 
-BUT all scientists (all the existing science textbooks), for now, INCORRECTLY consider that the person on the right (holding the 20 kg object motionless in the air) is NOT DOING Mechanical Work and is NOT SPENDING their Energy (Resource) on this Work!
+BUT at the same time, all scientists (all the existing science textbooks), for now, INCORRECTLY consider that the person on the right (holding the 20 kg object motionless in the air) is NOT DOING Mechanical Work and is NOT SPENDING their Energy (Resource) on this Work!
 
 But in my opinion, the person on the right (holding the 20 kg object motionless in the air) is also doing Mechanical Work (Static Mechanical Work) and is spending their Energy (Resource) on this Work. And even moreover, the person on the right is doing a bigger amount of Mechanical Work than the person on the left is doing. Plus, the person on the right is spending a bigger amount of their Energy (Resource) on Mechanical Work than the person on the left is doing.
 
