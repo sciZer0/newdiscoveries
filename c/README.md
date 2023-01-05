@@ -142,7 +142,7 @@ The New Formula for Force is:
   <img src="/assets/images/Target.png"/><br>
 </p>
 
-where,
+where,<br>
 F — Force pushing the object (measured in Newtons: N);<br>
 m — Mass of the pushed object (measured in kilograms: kg);<br>
 Target — Target Acceleration for the given Force (measured in meter/second²: m/s²)
