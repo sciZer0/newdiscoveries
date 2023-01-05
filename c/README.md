@@ -30,7 +30,7 @@ The wrong concept of Force, in its turn, derives all other fundamental errors (i
 2.1. New Concept of Force;<br>
 2.2. New Definition of Force;<br>
 2.3. Target Acceleration for each Force;<br>
-2.3. New Formula for Force or True Newton’s Formula for Force
+2.3. New Formula for Force;<br>
 2.4. Work and Energy in the Most General Sense;<br>
 2.5. New Concept of Work and New Concept of Energy;<br>
 2.6. New Universal Formula for Work and Energy;<br>
