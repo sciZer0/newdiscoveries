@@ -170,11 +170,11 @@ IMPORTANTLY
 
 ## 2.14. New Law of Conservation of Energy
 
-Before, I postulate the New Law of Conservation of Energy, it is needed to be said that I had been loving the “old/current-official” Law of Conservation of Energy for a long time.
+Before I postulate the New Law of Conservation of Energy, it is needed to be said that I had been loving the “old/current-official” Law of Conservation of Energy for a long time.
 
 I was so loving it.
 
-The “current” Law is so beautiful and so easily-understandable: 
+The “old” Law is so beautiful and so easily-understandable: 
 
 Energy can neither be created nor destroyed — only converted from one form of Energy to another.
 
@@ -186,8 +186,7 @@ But “wishful thinking” isn’t useful in science.
 
 Truth is not what we should love a lot but what is in reality, what we can watch in reality.
 
-
-Whether you like it or not, but the New Law of Conservation of Energy -- which is a true Law of Conservation of Energy -- is following:
+Now, whether you like it or not, but the New Law of Conservation of Energy -- which is a true Law of Conservation of Energy -- is following:
 
 In some cases, Energy can neither be created nor destroyed — only converted from one form of Energy to another, but in some other cases, Energy can be destroyed or created for free.
 
