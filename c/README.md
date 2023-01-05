@@ -22,6 +22,8 @@ The Initial Fundamental Error is the wrong concept of Force, including the wrong
 
 The wrong concept of Force, in its turn, derives other fundamental errors (including the wrong concept of Work and the wrong concept of Energy) which all together are resulting in the endless series of errors in science.
 
+---
+
 ### DISCOVERY #2
 <i>NEW FORMULAS FOR FORCE, WORK, ENERGY, POWER</i>
 
