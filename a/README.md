@@ -36,7 +36,7 @@ In particular, if you know the multiplication table and can understand these sim
 8 / 2 = 4<br>
 9.8 / 2 * 1 = 4.9
 
-you are fully able to easily understand every thing, even having no scientific background.
+you are fully able to easily understand every thing, even if you have no scientific background.
 
 Throughout the whole article, I practice "redundancy of understandability", using very simple language and sometimes explaining the same things several times.
 
