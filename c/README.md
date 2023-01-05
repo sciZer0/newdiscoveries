@@ -47,13 +47,13 @@ The wrong concept of Force, in its turn, derives all other fundamental errors (i
 
 ## 2.1. New Concept of Force
 
-In modern science the whole logic about Energy is absolutely wrong so we need to start from almost the very beginning, from Force.
+In modern science the whole logic about Energy is absolutely wrong, so we need to start from almost the very beginning, from Force.
 
 The New Concept of Force includes the following:
 
 * New Definition of Force
 
-* Target Acceleration for each Force (It is a new concept)
+* Target Acceleration as a feature of each Force (a new concept)
 
 * New Formula for Force
 
@@ -97,7 +97,7 @@ But simultaneously,
 
 In other words:
 
-<b>Force is a process of pushing an object in a certain direction, and this pushing is trying/striving to accelerate the object.</b>
+<b>Force is a process of pushing an object in a certain direction, striving (by the pushing) to accelerate the object.</b>
 
 For example, when your organism (in particular, your hand) is pushing a strong wall with some great effort,
 
@@ -106,23 +106,25 @@ For example, when your organism (in particular, your hand) is pushing a strong w
   <i>Your hand creates Force</i>
 </p>
 
-your hand is trying/striving to accelerate the pushed object, the wall.
+your hand is striving to accelerate the pushed object, the wall.
 
-In reality, what happens is that your hand is trying/striving to increase the velocity of the pushed object (the wall) in a certain direction (shown by the green arrow). Importantly, it is so even when the velocity of the pushed object (the wall) remains zero during the pushing.
+In reality, what happens is that 
+
+your hand, while pushing the wall, is striving to increase the velocity of the pushed object (the wall) in a certain direction (shown by the green arrow). Importantly, it is so even when the velocity of the pushed object (the wall) remains zero during the pushing.
 
 Let’s take, for example, Gravitational Force.
 
-During any moment, all that Gravitational Force (Invisible Hand) can be doing is to be pushing (or also we might say “pulling/attracting" ) an object downwards (closer to Earth), trying (by this pushing) to increase the velocity of the pushed object.
+All that Gravitational Force (Invisible Hand) can be doing during any moment is to be pushing (or also we might say “pulling/attracting" ) an object downwards (closer to Earth), trying (by this pushing) to increase the velocity of the pushed object.
 
-In some cases, Gravitational Force (Invisible Hand) can increase the velocity of the pushed object (for example, in the case when “free falling of an object downwards from some height”),
+In some cases, Gravitational Force (Invisible Hand) can be increasing the velocity of the pushed object (for example, in the case when the pushed object is free-falling”),
 
 
 
-But, in some other cases, Gravitational Force (Invisible Hand) cannot increase the velocity of the pushed object (for example, in the case when the pushed object is sitting on a table --  and in this case, the result of this pushing is that the pushed object is being pressed to the table surface).
+But, in some other cases, Gravitational Force (Invisible Hand) cannot increase the velocity of the pushed object (for example, in the case when the pushed object is sitting on a table --  and in this case, the result of the pushing is that the pushed object is being pressed to the table surface).
 
-As we can see, in some cases, the increase the velocity of the pushed object is possible for Gravitational Force, but in some other cases, impossible for Gravitational Force.
+As we can see, in some cases, the increase of the velocity of the pushed object is possible for Gravitational Force, but in some other cases, it is impossible for Gravitational Force.
 
-Importantly, in  both (or we might say "in each") of these 2 cases above, during every moment, Gravitational Force (Invisible Hand) is pushing the pushed object downwards, trying (by the pushing) to increase the velocity of the pushed object.
+Importantly, in  both (or we might say "in each") of these 2 cases above, during every moment, Gravitational Force (Invisible Hand) is pushing the 20 kg object downwards, trying (by the pushing) to increase the velocity of the pushed object.
 
 
 The New Definition of Force:
