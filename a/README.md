@@ -269,7 +269,7 @@ Here is the most simple and simultaneously exact definition of Force:
 
 In other words:
 
-<b>Force is the process of pushing an object in a certain direction.</b>
+<b>Force is a process of pushing an object in a certain direction.</b>
 
 <p align="center">
   <img src="/assets/images/9.png"/><br>
