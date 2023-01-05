@@ -132,7 +132,9 @@ The concept fundamentally improves our understanding of the Universe, opening up
 ## 2.2. New Formula for Force or True Newton’s Formula for Force
 
 In my opinion, the True Newton’s Formula for calculating Force is:
-
+<p align="center">
+  <img src="/assets/images/Target.png"/><br>
+</p>
 
 where,
 F — Force pushing the object (Newton: N);
