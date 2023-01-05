@@ -168,4 +168,44 @@ Energy is the ability (resource) of System to do Work.
 
 IMPORTANTLY
 
+## 2.14. New Law of Conservation of Energy
+
+Before, I postulate the New Law of Conservation of Energy, it is needed to be said that I had been loving the “old/current-official” Law of Conservation of Energy for a long time.
+
+I was so loving it.
+
+The “current” Law is so beautiful and so easily-understandable: 
+
+Energy can neither be created nor destroyed — only converted from one form of Energy to another.
+
+It seemed so ideal and true, I was loving it a lot.
+
+Although, this all is just “wishful thinking”.
+
+But “wishful thinking” isn’t useful in science.
+
+Truth is not what we should love a lot but what is in reality, what we can watch in reality.
+
+
+Whether you like it or not, but the New Law of Conservation of Energy -- which is a true Law of Conservation of Energy -- is following:
+
+In some cases, Energy can neither be created nor destroyed — only converted from one form of Energy to another, but in some other cases, Energy can be destroyed or created for free.
+
+
+The New Law of Conservation of Energy consists of 2 parts.
+
+Also, before postulating The New Law of Conservation of Energy it is needed to say about Energy-Isolated Systems and Energy-Non-Isolated Systems.
+
+Energy-Isolated Systems and Energy-Non-Isolated Systems
+Energy-Isolated System is a system which is energy-closed in relation to all other systems — is energy-closed in relation to the rest the universe.
+
+Energy-Non-Isolated System is a system which is energy-non-closed in relation to some other systems — is energy-non-closed in relation to the rest the universe. Another term for it might be the energy-semi-closed system.
+
+Very often, people think about some specific systems as Energy-Isolated but they indeed are Energy-Non-Isolated.
+
+For example, let’s take a simple solid iron table.
+
+— — —
+II___II
+
 
