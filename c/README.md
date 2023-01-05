@@ -129,15 +129,13 @@ Importantly, in  both (or we might say "in each") of these 2 cases above, during
 
 The New Definition of Force:
 
-><b>Force is anything that is trying/striving to accelerate an object up to Target Acceleration.</b>
+><b>Force is anything that is pushing an object, striving (by the pushing) to accelerate the object to Target Acceleration.</b>
 
 
 
-## 2.1. Target Acceleration for each Force
+## 2.1. Target Acceleration
 
-Target Acceleration for each Force is the most important concept.
-
-
+Target Acceleration is the most important concept.
 
 In my opinion, each Force has its target.
 
@@ -145,25 +143,25 @@ For example, the target for Gravitational Force (Invisible Hand) -- while pushin
 
 Therefore, we can call this Acceleration of 9.8 (m/s²) “Target Acceleration” for Gravitational Force.
 
-Also, if wanted, we might call this downward Acceleration of 9.8 (m/s²) “Target Acceleration” for “this” Force, or “Target Acceleration” for “this” Push.
+Or also, if wanted, we might call this Acceleration of 9.8 (m/s²) “Target Acceleration” for “this” Force, or “Target Acceleration” for “this” Push.
 
-Importantly, Gravitational Force (Invisible Hand), pushing an object with some specific mass, always has its Target Acceleration. Target Acceleration of Gravitational Force is always 9.8 (m/s²).
+Importantly, Gravitational Force (Invisible Hand), while pushing an object, always has its Target Acceleration. Target Acceleration for Gravitational Force is always 9.8 (m/s²).
 
-Moreover, in reality, each Force, pushing an object with some specific mass, has its Target Acceleration.
+Moreover, in reality, each Force, while pushing an object, has its Target Acceleration.
 
 In other words, Target Acceleration is THE feature/attribute/characteristic of each Force.
 
-The concept of Target Acceleration works like the “Butterfly Effect”, this new concept changes everything.
+The concept of Target Acceleration works like the “Butterfly Effect”, this new concept changes everything in science.
 
-The concept fundamentally improves our understanding of the Universe, opening to us the other fundamental concepts: 
+The concept fundamentally improves our understanding of the Universe, opening to us new doors -- other fundamental things, including: 
 
-* New Concept of Force,incl. New Formula for Force
+* New Formula for Force
 
-* New Concept of Work, incl. New Formula for Work
+* New Formula for Work
 
-* New Concept of Energy, incl. New Formula for Energy
+* New Formula for Energy
 
-* New Concept of Mechanical Work: Static Mechanical Work and 
+* New Sort of Mechanical Work: Static Mechanical Work
 
 
 ## 2.2. New Formula for Force
