@@ -83,15 +83,15 @@ For example, when your organism (in particular, your hand) is pushing a strong w
 
 your hand creates a push (process of pushing), and it means your hand creates Force.
 
-Of course, it is.
+Of course, it all is.
 
 But simultaneously,
 
-<b>Force is anything that is striving to acelerate an object.</b>
+<b>Force is anything that is trying/striving to accelerate an object.</b>
 
 In other words:
 
-<b>Force is the process of pushing an object in a certain direction, trying to accelerate the object.</b>
+<b>Force is a process of pushing an object in a certain direction, and this pushing is trying/striving to accelerate the object.</b>
 
 For example, when your organism (in particular, your hand) is pushing a strong wall with some great effort,
 
@@ -100,11 +100,13 @@ For example, when your organism (in particular, your hand) is pushing a strong w
   <i>Your hand creates Force</i>
 </p>
 
-your hand is trying (striving) to accelerate the pushed object, the wall.
+your hand is trying/striving to accelerate the pushed object, the wall.
 
-In reality, your hand is trying (striving) to accelerate the pushed object from the 
+In reality, what happens is that your hand is trying/striving to increase the velocity of the pushed object (the wall) in a certain direction (shown by the green arrow). Importantly, it is so even when the velocity of the pushed object (the wall) remains zero during the pushing.
 
-Your hand is trying to increase the velocity of the pushed object (the wall) in a certain direction (shown by the green arrow), although in this case the velocity of the pushed object (the wall) can remain zero during the pushing.
+The New Definition of Force:
+
+<b>Force is anything that is trying/striving to accelerate an object up to Target Acceleration.</b>
 
 
 
