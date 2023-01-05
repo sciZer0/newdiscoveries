@@ -135,17 +135,17 @@ The concept of Target Acceleration For Each Force works like the “Butterfly Ef
 The concept fundamentally improves our understanding of the Universe, opening up the other two most important new concepts: New Concept of Force and New Concept of Mechanical Work: Static Mechanical Work.
 
 
-## 2.2. New Formula for Force or True Newton’s Formula for Force
+## 2.2. New Formula for Force
 
-In my opinion, the True Newton’s Formula for calculating Force is:
+The New Formula for Force is:
 <p align="center">
   <img src="/assets/images/Target.png"/><br>
 </p>
 
 where,
-F — Force pushing the object (Newton: N);
-m — Mass of the pushed object (kilogram: kg);
-Target — Target Acceleration for the given Force (meter/second²: m/s²)
+F — Force pushing the object (measured in Newtons: N);
+m — Mass of the pushed object (measured in kilograms: kg);
+Target — Target Acceleration for the given Force (measured in meter/second²: m/s²)
 
 Please pay attention that
 
