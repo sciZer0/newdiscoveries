@@ -36,9 +36,10 @@ The wrong concept of Force, in its turn, derives all other fundamental errors (i
 2.6. New Universal Formula for Work and Energy;<br>
 2.7. New Unit of Measure for Work and Energy;<br>
 2.8. Static Mechanical Work;<br>
-2.9. New Formula for Kinetic Energy;<br>
+2.9. New Formula for Kinetic Energy and and explanation of the well-known Kinetic Energy Paradox;<br>
 2.10. New Formula for Potential Energy;<br>
 2.11. New Formula for Power.<br>
+2.12. New Law of Conservation of Energy
 
 
 ## 2.1. New Concept of Force
