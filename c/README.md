@@ -20,7 +20,7 @@ But there is THE Initial Fundamental Error that derives all other fundamental er
 
 The Initial Fundamental Error is the wrong concept of Force, including the wrong formula of Force.
 
-The wrong concept of Force, in its turn, derives other fundamental errors (including the wrong concept of Work and the wrong concept of Energy) which all together are resulting in the endless series of errors in science.
+The wrong concept of Force, in its turn, derives other fundamental errors (including but not limited to the wrong concept of Work and the wrong concept of Energy) which all together are resulting in the endless series of errors in science.
 
 ---
 
