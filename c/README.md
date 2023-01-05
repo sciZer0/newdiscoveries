@@ -30,16 +30,17 @@ The wrong concept of Force, in its turn, derives all other fundamental errors (i
 2.1. New Concept of Force;<br>
 2.2. New Definition of Force;<br>
 2.3. Target Acceleration for each Force;<br>
-2.3. New Formula for Force;<br>
-2.4. Work and Energy in the Most General Sense;<br>
-2.5. New Concept of Work and New Concept of Energy;<br>
-2.6. New Universal Formula for Work and Energy;<br>
-2.7. New Unit of Measure for Work and Energy;<br>
-2.8. Static Mechanical Work;<br>
-2.9. New Formula for Kinetic Energy and and explanation of the well-known Kinetic Energy Paradox;<br>
-2.10. New Formula for Potential Energy;<br>
-2.11. New Formula for Power.<br>
-2.12. New Law of Conservation of Energy
+2.4. New Formula for Force;<br>
+2.4. New Understanding of the magnitude of Force;<br>
+2.6. Work and Energy in the Most General Sense;<br>
+2.7. New Concept of Work and New Concept of Energy;<br>
+2.8. New Universal Formula for Work and Energy;<br>
+2.9. New Unit of Measure for Work and Energy;<br>
+2.10. Static Mechanical Work;<br>
+2.11. New Formula for Kinetic Energy and explanation of the well-known Kinetic Energy Paradox;<br>
+2.12. New Formula for Potential Energy;<br>
+2.13. New Formula for Power.<br>
+2.14. New Law of Conservation of Energy
 
 
 ## 2.1. New Concept of Force
@@ -53,6 +54,8 @@ The New Concept of Force includes the following:
 * Target Acceleration for each Force (It is a new concept)
 
 * New Formula for Force
+
+* New Understanding of the magnitude of Force
 
 
 ## 2.1. New Definition of Force
