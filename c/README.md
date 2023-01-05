@@ -147,7 +147,14 @@ F — Force pushing the object (Newton: N);
 m — Mass of the pushed object (kilogram: kg);
 Target — Target Acceleration for the given Force (meter/second²: m/s²)
 
-Please pay attention that the “Target” there is namely Target Acceleration for the given Force, but not Real Acceleration of the pushed object.
+Please pay attention that 
+
+
+the “Target” is namely Target Acceleration for the given Force, but not Real Acceleration of the pushed object
+
+and that
+
+each Force has its target -- Target Acceleration for the given Force.
 
 ---
 
