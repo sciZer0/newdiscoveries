@@ -37,10 +37,12 @@ The wrong concept of Force, in its turn, derives all other fundamental errors (i
 2.8. New Universal Formula for Work and Energy;<br>
 2.9. New Unit of Measure for Work and Energy;<br>
 2.10. Static Mechanical Work;<br>
-2.11. New Formula for Kinetic Energy and explanation of the well-known Kinetic Energy Paradox;<br>
-2.12. New Formula for Potential Energy;<br>
-2.13. New Formula for Power.<br>
-2.14. New Law of Conservation of Energy
+2.11. Calculations with New Formulas
+2.12. New Formula for Kinetic Energy and explanation of the well-known Kinetic Energy Paradox;<br>
+2.13. New Formula for Potential Energy;<br>
+2.14. New Formula for Power.<br>
+
+2.15. New Law of Conservation of Energy
 
 
 ## 2.1. New Concept of Force
@@ -108,6 +110,21 @@ your hand is trying/striving to accelerate the pushed object, the wall.
 
 In reality, what happens is that your hand is trying/striving to increase the velocity of the pushed object (the wall) in a certain direction (shown by the green arrow). Importantly, it is so even when the velocity of the pushed object (the wall) remains zero during the pushing.
 
+Let’s take, for example, Gravitational Force.
+
+During any moment, all that Gravitational Force (Invisible Hand) can be doing is to be pushing (or also we might say “pulling/attracting" ) an object downwards (closer to Earth), trying (by this pushing) to increase the velocity of the pushed object.
+
+In some cases, Gravitational Force (Invisible Hand) can increase the velocity of the pushed object (for example, in the case when “free falling of an object downwards from some height”),
+
+
+
+But, in some other cases, Gravitational Force (Invisible Hand) cannot increase the velocity of the pushed object (for example, in the case when the pushed object is sitting on a table --  and in this case, the result of this pushing is that the pushed object is being pressed to the table surface).
+
+As we can see, in some cases, the increase the velocity of the pushed object is possible for Gravitational Force, but in some other cases, impossible for Gravitational Force.
+
+Importantly, in  both (or we might say "in each") of these 2 cases above, during every moment, Gravitational Force (Invisible Hand) is pushing the pushed object downwards, trying (by the pushing) to increase the velocity of the pushed object.
+
+
 The New Definition of Force:
 
 ><b>Force is anything that is trying/striving to accelerate an object up to Target Acceleration.</b>
@@ -118,21 +135,33 @@ The New Definition of Force:
 
 Target Acceleration for each Force is the most important concept.
 
+
+
 In my opinion, each Force has its target.
 
-For example, the target for Gravitational Force (Invisible Hand) while pushing an object is to give the object the Acceleration of 9.8 (m/s²). Therefore, we can call this Acceleration of 9.8 (m/s²) “Target Acceleration” for Gravitational Force.
+For example, the target for Gravitational Force (Invisible Hand) -- while pushing an object -- is to give the object the downward Acceleration of 9.8 (m/s²). 
 
-Or, we might call this downward Acceleration of 9.8 (m/s²) the “Target Acceleration” for “this” Force, or “Target Acceleration” for “this” Push.
+Therefore, we can call this Acceleration of 9.8 (m/s²) “Target Acceleration” for Gravitational Force.
+
+Also, if wanted, we might call this downward Acceleration of 9.8 (m/s²) “Target Acceleration” for “this” Force, or “Target Acceleration” for “this” Push.
 
 Importantly, Gravitational Force (Invisible Hand), pushing an object with some specific mass, always has its Target Acceleration. Target Acceleration of Gravitational Force is always 9.8 (m/s²).
 
 Moreover, in reality, each Force, pushing an object with some specific mass, has its Target Acceleration.
 
-In other words, Target Acceleration is THE feature (attribute) of each Force.
+In other words, Target Acceleration is THE feature/attribute/characteristic of each Force.
 
-The concept of Target Acceleration For Each Force works like the “Butterfly Effect”, this new concept changes everything.
+The concept of Target Acceleration works like the “Butterfly Effect”, this new concept changes everything.
 
-The concept fundamentally improves our understanding of the Universe, opening up the other two most important new concepts: New Concept of Force and New Concept of Mechanical Work: Static Mechanical Work.
+The concept fundamentally improves our understanding of the Universe, opening to us the other fundamental concepts: 
+
+* New Concept of Force,incl. New Formula for Force
+
+* New Concept of Work, incl. New Formula for Work
+
+* New Concept of Energy, incl. New Formula for Energy
+
+* New Concept of Mechanical Work: Static Mechanical Work and 
 
 
 ## 2.2. New Formula for Force
@@ -151,9 +180,9 @@ Please pay attention that
 
 the “Target” (in the formula) is namely Target Acceleration for the given Force, but not Real Acceleration of the pushed object
 
-and that
+and also that
 
-each Force has its target, meaning that each Force has such a feature/characteristic as Target Acceleration.
+each Force has its target, meaning that each Force has such a feature/attribute/characteristic as Target Acceleration.
 
 ---
 
