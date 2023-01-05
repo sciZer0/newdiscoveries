@@ -106,7 +106,7 @@ In reality, what happens is that your hand is trying/striving to increase the ve
 
 The New Definition of Force:
 
-<b>Force is anything that is trying/striving to accelerate an object up to Target Acceleration.</b>
+><b>Force is anything that is trying/striving to accelerate an object up to Target Acceleration.</b>
 
 
 
