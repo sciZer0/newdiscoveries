@@ -149,7 +149,10 @@ Target — Target Acceleration for the given Force (meter/second²: m/s²)
 
 Please pay attention that the “Target” there is namely Target Acceleration for the given Force, but not Real Acceleration of the pushed object.
 
-2.3. Work and Energy in the Most General Sense
+---
+
+## 2.3. Work and Energy in the Most General Sense
+
 The Universe at large is a big organism which is much similar to your organism; and just like your organism, this big organism can do Work and always, just like your organism, must spend Energy (resource) of the organism on this Work.
 
 We can call each of both your organism and the Universe (Big Organism) “System” which can do Work.
