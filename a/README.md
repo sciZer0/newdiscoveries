@@ -335,7 +335,7 @@ So, for the sake of simplicity, Gravitational Force (F) might be imagined by us 
 <p align="center">
   <img src="/assets/images/12.png"/><br>
   <i>The apple being pushed by<br>
-     Invisible Hand (Gravitational Force)</i>
+     Gravitational Force (Invisible Hand)</i>
 </p>
 
 Metaphorically saying, Big Organism (the Universe) has its Invisible Hand and this Invisible Hand during every moment is pushing the apple downwards.
