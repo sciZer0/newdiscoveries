@@ -59,6 +59,7 @@ The New Concept of Force includes the following:
 
 * New Understanding of the magnitude of Force
 
+--
 
 ## 2.1. New Definition of Force
 
