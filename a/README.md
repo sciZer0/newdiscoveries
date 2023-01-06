@@ -915,13 +915,13 @@ And this all means that the base "official" formula for Work and Energy:
 
 is absolutely wrong!
 
-Importantly, this wrong “official” formula for Work and Energy is base and thus strictly defines all other “official formulas“ for Work and Energy, including the “official” formula for potential Energy (Ep) and the “official” formula for kinetic Energy (Ek):
+Importantly, this wrong official formula for Work and Energy is base and thus strictly defines all other “official formulas“ for Work and Energy, including the official formula for potential Energy (Ep) and the official formula for kinetic Energy (Ek):
 
 <p align="center">
   <img src="/assets/images/27.png"/>
 </p>
 
-which means that these “official” formulas for potential Energy (Ep) and kinetic Energy (Ek):
+which means that these official formulas for potential Energy (Ep) and kinetic Energy (Ek):
 
 <p align="center">
   <img src="/assets/images/28.png"/>
@@ -929,8 +929,11 @@ which means that these “official” formulas for potential Energy (Ep) and kin
 
 are also absolutely wrong!
 
-Since all these wrong formulas also strictly define the dimensional formulas of the Joule (Joule =Newton*meter = kilogram*meter²/second²), it all means that the Joule is the absolutely wrong unit of measure for Work and Energy!
+So, all the "official" formulas for calculating Work and Energy -- importantly, being fundamental -- are absolutely wrong. Now, the wrongness of all these "official" formulas is a proven fact.
 
+>The wrongness of all the "official" formulas for calculating Work and Energy is a proven fact.
+
+And since all these wrong formulas also strictly define the dimensional formulas of the Joule (Joule = Newton * meter = kilogram * meter² / second²), it all means that the Joule is the absolutely wrong unit of measure for Work and Energy!
 
 Of course, this all means the total wrongness to use the Joule as the unit of measure for Work and Energy!
 
@@ -940,7 +943,7 @@ The real reason for this difference in the distances IS NOT Gravitational Force.
 
 The real reason for this difference in the distances IS Inertia.
 
-Unfortunately, “official” science absolutely fails to understand this.
+Unfortunately, official science absolutely fails to understand this.
 
 Since the concept of Energy is basic in science, even this fundamental error alone destroys the entire concept of science of understanding the Universe.
 
