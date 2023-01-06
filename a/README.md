@@ -104,7 +104,7 @@ Unfortunately, science mistakenly believes that the real reason for the differen
 
 But the real reason IS NOT Gravitational Force.
 
-The real reason is Inertia. 
+The real reason is another thing. 
 
 But science absolutely fails to understand this.
 
