@@ -155,14 +155,10 @@ As we can see, in some cases, the increase of Velocity of the pushed object is p
 Importantly, in both (or we might say "in each") of these 2 cases above, during every moment, 
 
 <p align="center">
-  <img src="/assets/images/blind.png"/><br>
+  <img src="/assets/images/196.png"/><br>
 </p>
 
 Gravitational Force (Invisible Hand) is doing the same thing -- it is pushing the 20 kg object downwards with the same Force, striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing.
-
-<p align="center">
-  <img src="/assets/images/196.png"/><br>
-</p>
 
 Note: strive means to make an effort to accomplish a target
 
