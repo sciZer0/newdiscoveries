@@ -160,6 +160,10 @@ Importantly, in both (or we might say "in each") of these 2 cases above, during 
 
 Gravitational Force (Invisible Hand) is doing the same thing -- it is pushing the 20 kg object downwards with the same Force, striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing.
 
+<p align="center">
+  <img src="/assets/images/196.png"/><br>
+</p>
+
 Note: strive means to make an effort to accomplish a target
 
 The New Definition of Force is:
