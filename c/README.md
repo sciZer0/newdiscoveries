@@ -28,6 +28,7 @@ In its turn, the official concept of Force, being wrong, derives all other funda
 ### DISCOVERY #2
 <i>NEW FORMULAS FOR FORCE, WORK, ENERGY, POWER</i>
 
+2.1. Work and Energy in the Most General Sense;<br>
 2.1. New Concept of Force;<br>
 2.2. New Definition of Force;<br>
 2.3. Target Acceleration as the feature of each Force;<br>
@@ -43,14 +44,46 @@ In its turn, the official concept of Force, being wrong, derives all other funda
 2.14. explanation of the well-known Kinetic Energy Paradox;<br>
 2.15. New Formula for Potential Energy;<br>
 2.16. New Formula for Power.<br>
-
 2.17. New Law of Conservation of Energy
 
----
 
-## 2.1. New Concept of Force
+## 2.1. Work and Energy in the Most General Sense
 
-In modern science the whole logic about Energy is absolutely wrong, so we need to start from almost the very beginning, from Force.
+In modern science the whole logic about Energy is absolutely wrong, so we need to start from the very beginning, from defining Work and Energy in the Most General Sense.
+
+So.
+
+Even official science consider that The Universe in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
+
+I absolutely agree with this.
+
+Let’s call anything (anyone) that can do Work “System”.
+
+In my opinion, in the most general sense,
+
+> ### Work is any activity of System that spends Energy.
+
+In other words, 
+
+Work is any activity of System that requires Energy (resource).
+
+On the other hand, 
+
+> ### Energy is the resource for System to do Work.
+
+Importantly, there are Target Works and Non-Target Works.
+
+Target Work is a work that is the target for System to do.
+
+Non-Target Work is Work that isn't the target but is unavoidable for System to do while doing Target Work-- meaning is additional but unavoidable.
+
+Of course, not all of Energies are spent on (are converted into) the Target Works. Those Energies that are spent on Non-Target Works, we consider our losses. *More on it a bit below.*
+
+--
+
+## 2.2. New Concept of Force
+
+As said above, the Initial Fundamental Error deriving all other fundamental errors is the official concept of Force (including the official formula of Force) being wrong.
 
 The New Concept of Force includes the following:
 
@@ -65,12 +98,6 @@ The New Concept of Force includes the following:
 --
 
 ## 2.2. New Definition of Force
-
-Keep in mind that
-
-the Universe at large is a big organism which is much similar to your organism; and just like your organism, this big organism can do Work and always, just like your organism, must spend Energy (resource) of the organism on this Work.
-
-Now about Force
 
 Of course,
 
@@ -103,7 +130,11 @@ Of course, it all is so.
 
 But simultaneously,
 
-<b>Force is a push striving, during every moment, to be increasing Velocity of the pushed object.</b>
+Force is the process when a System is pushing an object, striving (during every moment) to be increasing Velocity of the pushed object.</b>
+
+In other words,
+
+Each Force is striving (by the pushing) to be (during every moment) increasing Velocity of the pushed object</b>
 
 Let’s take, for example, Gravitational Force.
 
@@ -131,14 +162,19 @@ Importantly, in both (or we might say "in each") of these 2 cases above, during 
 
 Gravitational Force (Invisible Hand) is doing the same thing -- it is pushing the 20 kg object downwards, striving (by the pushing) to increase the velocity of the pushed object.
 
+So,
 
-Gravitational Force (Invisible Hand) during every moment is pushing the 20 kg object downwards, striving (by the pushing) to increase the velocity of the pushed object.
+Gravitational Force (Invisible Hand) during every moment of pushing is pushing the 20 kg object downwards, striving (by the pushing) to increase the velocity of the pushed object.
 
 Note: strive means to make an effort to accomplish a target
 
+<b>Force is anything that is pushing an object, striving (by this pushing) to be (during every moment) increasing Velocity of the pushed object at the rate equal to **Target Acceleration**.</b>
+
 The New Definition of Force is:
 
-> ### <b>Force is a push striving, during every moment, to be increasing Velocity of the pushed object at the rate equal to Target Acceleration.</b>
+> ### <b>Force is the process when a System is pushing an object, putting, for every moment, the absolutely enough effort into pushing to inrease Velocity of the pushed object at the rate equal to Target Acceleration.</b>
+
+
 
 --
 
@@ -185,30 +221,7 @@ each Force has its target, meaning that each Force has such a feature/attribute/
 
 ---
 
-## 2.3. Work and Energy in the Most General Sense
 
-The Universe at large is a big organism which is much similar to your organism; and just like your organism, this big organism can do Work and always, just like your organism, must spend Energy (resource) of the organism on this Work.
-
-We can call each of both your organism and the Universe (Big Organism) “System” which can do Work.
-
-Let’s call any organism or device which can do Work “System”.
-
-In my opinion, in the most general sense,
-
-Work is any of the following:
-
-· any activity of System that requires Energy (resource) of System<br>
-· any activity of System that spends Energy (resource) of System<br>
-· any activity of System that reduces Energy (resource) of System<br>
-
-Energy is the resource of System to do Work.
-
-Importantly, there are Target Works and Non-Target Works.
-
-
-Non-Target Works are Works that are additional but unavoidable.
-
-Not all of Energies are spent on (are converted into) Target Works. Those Energies that are spent on Non-Target Works, we regard as our losses. **More on this a bit below.**
 
 
 
