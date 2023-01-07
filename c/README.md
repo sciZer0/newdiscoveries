@@ -21,7 +21,7 @@ But there is THE Initial Fundamental Error that derives all other fundamental er
 
 The Initial Fundamental Error is the official concept of Force (including the official formula of Force) being wrong. <i>More on this below.</i>
 
-In its turn, this official concept of Force, being wrong, derives all other fundamental errors (including the official concept of Work and the official concept of Energy -- also being wrong) which all together results in the endless series of errors in science.
+In its turn, the official concept of Force, being wrong, derives all other fundamental errors (including the official concept of Work and the official concept of Energy -- also being wrong) which all together results in the endless series of errors in science.
 
 ---
 
@@ -65,6 +65,12 @@ The New Concept of Force includes the following:
 --
 
 ## 2.2. New Definition of Force
+
+Keep in mind that
+
+the Universe at large is a big organism which is much similar to your organism; and just like your organism, this big organism can do Work and always, just like your organism, must spend Energy (resource) of the organism on this Work.
+
+Now about Force
 
 Of course,
 
@@ -123,21 +129,20 @@ Importantly, in both (or we might say "in each") of these 2 cases above, during 
   <img src="/assets/images/blind.png"/><br>
 </p>
 
-Gravitational Force (Invisible Hand) is doing the same thing -- Gravitational Force (Invisible Hand) is pushing the 20 kg object downwards, striving (by the pushing) to increase the velocity of the pushed object.
+Gravitational Force (Invisible Hand) is doing the same thing -- it is pushing the 20 kg object downwards, striving (by the pushing) to increase the velocity of the pushed object.
+
+
+Gravitational Force (Invisible Hand) during every moment is pushing the 20 kg object downwards, striving (by the pushing) to increase the velocity of the pushed object.
 
 Note: strive means to make an effort to accomplish a target
 
 The New Definition of Force is:
 
-<b>Force is a push striving, during every moment, to be increasing Velocity of the pushed object at the rate equal to Target Acceleration.</b>
+> ### <b>Force is a push striving, during every moment, to be increasing Velocity of the pushed object at the rate equal to Target Acceleration.</b>
 
 --
 
 ## 2.3. Target Acceleration as the feature of each Force
-
-So, the New Definition of Force is:
-
-<b>Force is a push striving, during every moment, to be increasing Velocity of the pushed object at the rate equal to Target Acceleration.</b>
 
 Target Acceleration is the most important concept.
 
@@ -145,15 +150,17 @@ In my opinion, each Force has its target.
 
 For example, the target for Gravitational Force (Invisible Hand) -- while pushing an object -- is to give the object the downward Acceleration of 9.8 (m/s²). 
 
-Therefore, we can call this Acceleration of 9.8 (m/s²) “Target Acceleration” associated with Gravitational Force (Invisible Hand).
+Therefore, we can call this Acceleration of 9.8 (m/s²) “Target Acceleration” associated with Gravitational Force.
 
 Target Acceleration associated with Gravitational Force is always 9.8 (m/s²).
 
-Moreover, in reality, each Force, while pushing an object, has such a characteristic as Target Acceleration.
+Moreover, in reality, each Force, while pushing an object, has its target, meaning has such a characteristic as Target Acceleration.
 
 In other words, Target Acceleration is THE feature/attribute/characteristic of each Force.
 
-The concept of Target Acceleration works like the “Butterfly Effect”, this new concept changes everything in science.
+> ### Target Acceleration is the acceleration that Force, while pushing an object, is striving to give to the pushed object.
+
+The concept of Target Acceleration works like the Butterfly Effect, this new concept changes everything in science.
 
 
 ## 2.2. New Formula for Force
@@ -170,7 +177,7 @@ Target — the Target Acceleration associated with the given Force (measured in 
 
 Please pay attention that
 
-the “Target” (in the formula) is namely Target Acceleration associated with the given Force, but not Real Acceleration of the pushed object
+the “Target” (in the formula) is namely Target Acceleration associated with the given Force, but not Real Acceleration of the pushed object,
 
 and also that
 
@@ -196,6 +203,12 @@ Work is any of the following:
 
 Energy is the resource of System to do Work.
 
+Importantly, there are Target Works and Non-Target Works.
+
+
+Non-Target Works are Works that are additional but unavoidable.
+
+Not all of Energies are spent on (are converted into) Target Works. Those Energies that are spent on Non-Target Works, we regard as our losses. **More on this a bit below.**
 
 
 
