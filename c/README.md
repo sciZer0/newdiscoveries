@@ -15,7 +15,7 @@ _______
 
 As you might [see](https://github.com/sciZer0/newdiscoveries/tree/main/a), all the official formulas for calculating Work and Energy -- importantly, being fundamental -- are absolutely wrong. Now, the wrongness of all these official formulas is a proven fact.
 
-> ## The wrongness of all the official formulas for calculating Work and Energy is a proven fact.
+> ### The wrongness of all the official formulas for calculating Work and Energy is a proven fact.
 
 But there is THE Initial Fundamental Error that derives all other fundamental errors.
 
@@ -46,6 +46,7 @@ In its turn, this official concept of Force, being wrong, derives all other fund
 
 2.17. New Law of Conservation of Energy
 
+---
 
 ## 2.1. New Concept of Force
 
@@ -96,40 +97,27 @@ Of course, it all is so.
 
 But simultaneously,
 
-<b>Force is anything that is striving (by the pushing) to accelerate an object.</b>
-
-In other words:
-
-<b>Force is a process of pushing an object in a certain direction, striving (by the pushing) to accelerate the object.</b>
-
-For example, when your organism (in particular, your hand) is pushing a strong wall with some great effort,
-
-<p align="center">
-  <img src="/assets/images/10.png"/><br>
-  <i>Your hand creates Force</i>
-</p>
-
-your hand is striving to increase the velocity of some pushed object in a certain direction (shown by the green arrow).
+<b>Force is a push striving, during every moment, to be increasing Velocity of the pushed object.</b>
 
 Let’s take, for example, Gravitational Force.
 
-All that Gravitational Force (Invisible Hand) can be doing during any moment is to be pushing (or also we might say “pulling/attracting" ) an object downwards (closer to Earth), trying (by the pushing) to increase the velocity of the pushed object -- to accelerate the pushed object.
+All that Gravitational Force (Invisible Hand) can be doing during any moment is to be pushing (or also we might say “pulling/attracting" ) an object downwards (closer to Earth), striving (by the pushing) to increase Velocity of the pushed object -- to accelerate the pushed object.
 
-Importantly, in some cases, Gravitational Force (Invisible Hand) can be increasing the velocity of the pushed object (for example, in the case when the pushed object is free-falling”),
+Importantly, in some cases, Gravitational Force (Invisible Hand) can be increasing Velocity of the pushed object (for example, in the case when the pushed object is free-falling”),
 
 <p align="center">
   <img src="/assets/images/17.png"/><br>
 </p>
 
-but, in some other cases, Gravitational Force (Invisible Hand) cannot increase the velocity of the pushed object (for example, in the case when the pushed object is sitting on a table --  and in this case, the result of the pushing is that the pushed object is being pressed to the table surface).
+but, in some other cases, Gravitational Force (Invisible Hand) cannot increase Velocity of the pushed object (for example, in the case when the pushed object is sitting on a table --  and in this case, the result of the pushing is that the pushed object is being pressed to the table surface).
 
 <p align="center">
   <img src="/assets/images/sitting.png"/><br>
 </p>
 
-As we can see, in some cases, the increase of the velocity of the pushed object is possible for Gravitational Force, but in some other cases, it is impossible for Gravitational Force.
+As we can see, in some cases, the increase of Velocity of the pushed object is possible for Gravitational Force, but in some other cases, it is impossible for Gravitational Force.
 
-Importantly, in  both (or we might say "in each") of these 2 cases above, during every moment, 
+Importantly, in both (or we might say "in each") of these 2 cases above, during every moment, 
 
 <p align="center">
   <img src="/assets/images/blind.png"/><br>
@@ -137,14 +125,15 @@ Importantly, in  both (or we might say "in each") of these 2 cases above, during
 
 Gravitational Force (Invisible Hand) is doing the same thing -- Gravitational Force (Invisible Hand) is pushing the 20 kg object downwards, striving (by the pushing) to increase the velocity of the pushed object.
 
-Note: strive means to make an effort to accomplish an target
+Note: strive means to make an effort to accomplish a target
 
 The New Definition of Force is:
 
 <b>Force is a push striving, during every moment, to be increasing Velocity of the pushed object at the rate equal to Target Acceleration.</b>
 
+--
 
-## 2.2. Target Acceleration
+## 2.3. Target Acceleration as the feature of each Force
 
 So, the New Definition of Force is:
 
@@ -156,27 +145,15 @@ In my opinion, each Force has its target.
 
 For example, the target for Gravitational Force (Invisible Hand) -- while pushing an object -- is to give the object the downward Acceleration of 9.8 (m/s²). 
 
-Therefore, we can call this Acceleration of 9.8 (m/s²) “Target Acceleration” for Gravitational Force.
+Therefore, we can call this Acceleration of 9.8 (m/s²) “Target Acceleration” associated with Gravitational Force (Invisible Hand).
 
-Or also, if wanted, we might call this Acceleration of 9.8 (m/s²) “Target Acceleration” for “this” Force, or “Target Acceleration” for “this” Push.
+Target Acceleration associated with Gravitational Force is always 9.8 (m/s²).
 
-Importantly, Gravitational Force (Invisible Hand), while pushing an object, always has its Target Acceleration. Target Acceleration for Gravitational Force is always 9.8 (m/s²).
-
-Moreover, in reality, each Force, while pushing an object, has such a characteristic as its Target Acceleration.
+Moreover, in reality, each Force, while pushing an object, has such a characteristic as Target Acceleration.
 
 In other words, Target Acceleration is THE feature/attribute/characteristic of each Force.
 
 The concept of Target Acceleration works like the “Butterfly Effect”, this new concept changes everything in science.
-
-The concept fundamentally improves our understanding of the Universe, opening to us new doors -- other fundamental things, including: 
-
-* New Formula for Force
-
-* New Formula for Work
-
-* New Formula for Energy
-
-* New Sort of Mechanical Work: Static Mechanical Work
 
 
 ## 2.2. New Formula for Force
@@ -189,11 +166,11 @@ The New Formula for Force is:
 where,<br>
 F — the Force pushing an object (measured in Newtons: N);<br>
 m — the mass of the pushed object (measured in kilograms: kg);<br>
-Target — the Target Acceleration for the given Force (measured in meter/second²: m/s²)
+Target — the Target Acceleration associated with the given Force (measured in meter/second²: m/s²)
 
 Please pay attention that
 
-the “Target” (in the formula) is namely Target Acceleration for the given Force, but not Real Acceleration of the pushed object
+the “Target” (in the formula) is namely Target Acceleration associated with the given Force, but not Real Acceleration of the pushed object
 
 and also that
 
@@ -211,15 +188,27 @@ Let’s call any organism or device which can do Work “System”.
 
 In my opinion, in the most general sense,
 
-Work is
+Work is any of the following:
 
-· any activity of System that requires Energy (resource) of System, or
-· any activity of System that spends Energy (resource) of System, or
-· any activity of System that reduces Energy (resource) of System, or
+· any activity of System that requires Energy (resource) of System<br>
+· any activity of System that spends Energy (resource) of System<br>
+· any activity of System that reduces Energy (resource) of System<br>
 
-Energy is the ability (resource) of System to do Work.
+Energy is the resource of System to do Work.
 
-IMPORTANTLY
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 2.14. New Law of Conservation of Energy
 
