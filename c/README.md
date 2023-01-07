@@ -158,13 +158,13 @@ Importantly, in both (or we might say "in each") of these 2 cases above, during 
   <img src="/assets/images/196.png"/><br>
 </p>
 
-Gravitational Force (Invisible Hand) is doing the same thing -- it is pushing the 20 kg object downwards with the same Force, striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing.
+Gravitational Force (Invisible Hand) is doing the same thing -- it is pushing the 20 kg object downwards with the same Force (effort), striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing.
 
 Note: strive means to make an effort to accomplish a target
 
 The New Definition of Force is:
 
-> ### Force is the process when a System is pushing an object, spending, for every moment, the absolutely enough resource/energy to increase Velocity of the pushed object at the rate equal to Target Acceleration.
+> ### Force is the process when a System is pushing an object, spending, for every moment, the absolutely enough resource/energy/effort to increase Velocity of the pushed object at the rate equal to Target Acceleration.
 
 
 --
