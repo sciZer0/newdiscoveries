@@ -85,6 +85,8 @@ Of course, not all of Energies are spent on (are converted into) the Target Work
 
 As said above, the Initial Fundamental Error deriving all other fundamental errors is the official concept of Force (including the official formula of Force) being wrong.
 
+In its turn, the official concept of Force, being wrong, derives all other fundamental errors (including the official concept of Work and the official concept of Energy -- also being wrong) which all together results in the endless series of errors in science.
+
 The New Concept of Force includes the following:
 
 * New Definition of Force
@@ -168,11 +170,15 @@ Gravitational Force (Invisible Hand) during every moment of pushing is pushing t
 
 Note: strive means to make an effort to accomplish a target
 
-<b>Force is anything that is pushing an object, striving (by this pushing) to be (during every moment) increasing Velocity of the pushed object at the rate equal to **Target Acceleration**.</b>
+The New Definition of Force is any of the following:
 
-The New Definition of Force is:
+* <b>Force is is the process when a System is pushing an object, striving (by the pushing) to be (during every moment) increasing Velocity of the pushed object at the rate equal to Target Acceleration.</b>
 
-> ### <b>Force is the process when a System is pushing an object, putting, for every moment, the absolutely enough effort into pushing to inrease Velocity of the pushed object at the rate equal to Target Acceleration.</b>
+* <b>Force is the process when a System is pushing an object, putting, for every moment, the absolutely enough effort into pushing to inrease Velocity of the pushed object at the rate equal to Target Acceleration.</b>
+
+* <b>Force is the process when a System is pushing an object, spending, for every moment, the absolutely enough resource/energy to inrease Velocity of the pushed object at the rate equal to Target Acceleration.</b>
+
+> ### Force is the process when a System is pushing an object, spending, for every moment, the absolutely enough resource/energy to inrease Velocity of the pushed object at the rate equal to Target Acceleration.
 
 
 
