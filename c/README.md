@@ -62,22 +62,25 @@ Let’s call anything (anyone) that can do Work “System”.
 
 In my opinion, in the most general sense,
 
-> **Work is any activity of System that spends Energy.**
+> **Work is any activity of System that is spending Energy (some resource).**
 
 In other words, 
 
-Work is any activity of System that requires Energy (resource).
+Work is any activity of System that requires Energy (some resource).
 
 On the other hand, 
 
 > **Energy is the resource for System to do Work.**
+
 --
 
 ## 2.2. New Concept of Work and New Concept of Energy
 
+Importantly, when a System using its resources is pushing an object in a certain direction, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent.
+
 In my opinion,
 
-> **Work is the process when System using its resources is pushing an object with a certain Force during some certain time.**
+> **Work is the process when a System using its resources is pushing an object with a certain Force during some certain time.**
 
 On the other hand,
 
@@ -85,11 +88,38 @@ On the other hand,
 
 --
 
+
+
+## 2.14. New Law of Conservation of Energy
+
+Importantly, Energy is not the thing you think it is. *More on this a bit below.*
+
+Before I postulate the New Law of Conservation of Energy, it is needed to be said that I had been loving the “old” Law of Conservation of Energy for a long time.
+
+I was really so loving it.
+
+The “old” Law is so beautiful and easily-understandable: 
+
+*Energy can neither be created nor destroyed — only converted from one form of Energy to another.*
+
+It seemed ideal and true, I was loving it a lot.
+
+But, this all is just “wishful thinking”.
+
+And “wishful thinking” isn’t useful in science.
+
+Truth is not what we should love a lot but what is in reality, what we can watch in reality.
+
+Official science mistakenly considers that Energy is only the thing that can always convert into another form Energy, but in reality Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be converted back into Energy.
+
+Now, whether you like it or not, but the New Law of Conservation of Energy -- which is a true Law of Conservation of Energy -- is following:
+
+> **In some cases, Energy can neither be created nor destroyed — only converted from one form of Energy to another, but in another cases, Energy can be taken for free or can be destroyed**
+
+
+--
+
 ## 2.2. New Concept of Force
-
-As said above, the Initial Fundamental Error deriving all other fundamental errors is the official concept of Force (including the official formula of Force) being wrong.
-
-In its turn, the official concept of Force, being wrong, derives all other fundamental errors (including the official concept of Work and the official concept of Energy -- also being wrong) which all together results in the endless series of errors in science.
 
 The New Concept of Force includes the following:
 
@@ -136,41 +166,15 @@ Of course, it all is so.
 
 But simultaneously,
 
-Force is the process of pushing an object, striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing.</b>
-
-Of course, the increase is possible if there isn't the same in magnitude Force being counter.
-
-Let’s take, for example, Gravitational Force.
-
-All that Gravitational Force (Invisible Hand) can be doing during any moment is to be pushing (or also we might say “pulling/attracting" ) an object downwards (closer to Earth), striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing.
-
-Importantly, in some cases, Gravitational Force (Invisible Hand) can be increasing Velocity of the pushed object (for example, in the case when the pushed object is free-falling”),
-
-<p align="center">
-  <img src="/assets/images/17.png"/><br>
-</p>
-
-but, in some other cases, Gravitational Force (Invisible Hand) cannot be increasing Velocity of the pushed object (for example, in the case when the pushed object is sitting on a table --  and in this case, the result of the pushing is that the pushed object is being pressed to the table surface).
-
-<p align="center">
-  <img src="/assets/images/sitting.png"/><br>
-</p>
-
-As we can see, in some cases, the increase of Velocity of the pushed object is possible for Gravitational Force, but in some other cases, it is impossible for Gravitational Force.
-
-Importantly, in both (or we might say "in each") of these 2 cases above, during every moment, 
-
-<p align="center">
-  <img src="/assets/images/196.png"/><br>
-</p>
-
-Gravitational Force (Invisible Hand) is doing the same thing -- it is pushing the 20 kg object downwards with the same Force/Effort (196 Newtons), striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing.
+Force is the process when a System using its resources is pushing an object, striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing. Of course, the increase is possible if there isn't the same in magnitude Force being counter.
 
 Note: strive means to make an effort to accomplish a target
 
+Importantly, when a System using its resources is pushing an object in a certain direction, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent.
+
 The New Definition of Force is:
 
-> **Force is the process when a System using its resources is pushing an object, spending, for every moment, the absolutely enough resource/energy to increase Velocity of the pushed object at the rate equal to Target Acceleration associated with given Force.**
+> **Force is the process when a System using its resources is pushing an object, spending, for every moment, the absolutely enough resource/energy to increase Velocity of the pushed object at the rate equal to Target Acceleration.**
 
 --
 
@@ -222,29 +226,6 @@ each Force has its target, meaning that each Force has such a feature/attribute/
 
 
 
-## 2.14. New Law of Conservation of Energy
-
-Importantly, Energy is not the thing you think it is. *More on this a bit below.*
-
-Before I postulate the New Law of Conservation of Energy, it is needed to be said that I had been loving the “old” Law of Conservation of Energy for a long time.
-
-I was really so loving it.
-
-The “old” Law is so beautiful and easily-understandable: 
-
-*Energy can neither be created nor destroyed — only converted from one form of Energy to another.*
-
-It seemed ideal and true, I was loving it a lot.
-
-But, this all is just “wishful thinking”.
-
-And “wishful thinking” isn’t useful in science.
-
-Truth is not what we should love a lot but what is in reality, what we can watch in reality.
-
-Now, whether you like it or not, but the New Law of Conservation of Energy -- which is a true Law of Conservation of Energy -- is following:
-
-> **In some cases, Energy can neither be created nor destroyed — only converted from one form of Energy to another, but in some other cases, Energy can be taken for free or can be destroyed**
 
 
 
