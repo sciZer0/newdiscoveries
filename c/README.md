@@ -17,11 +17,14 @@ As you might [see](https://github.com/sciZer0/newdiscoveries/tree/main/a), all t
 
 > ### The wrongness of all the official formulas for calculating Work and Energy is a proven fact.
 
-But there is THE Initial Fundamental Error that derives all other fundamental errors.
+But there is another fundamental errors:
 
-The Initial Fundamental Error is the official concept of Force (including the official formula of Force) being wrong. <i>More on this below.</i>
+* the official concept of Work, being wrong
+* the official concept of Energy, being wrong
+* the official Law of conservation of Energy, being wrong
+* the official concept of Force, being wrong
 
-In its turn, the official concept of Force, being wrong, derives all other fundamental errors (including the official concept of Work and the official concept of Energy -- also being wrong) which all together results in the endless series of errors in science.
+All these fundamental errors together results in the endless series of errors in science.
 
 ---
 
