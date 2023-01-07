@@ -29,15 +29,15 @@ In its turn, the official concept of Force, being wrong, derives all other funda
 <i>NEW FORMULAS FOR FORCE, WORK, ENERGY, POWER</i>
 
 2.1. Work and Energy in the Most General Sense;<br>
-2.1. New Concept of Force;<br>
-2.2. New Definition of Force;<br>
-2.3. Target Acceleration as the feature of each Force;<br>
-2.4. New Formula for Force;<br>
-2.5. New Understanding of the magnitude of Force;<br>
-2.6. Work and Energy in the Most General Sense;<br>
-2.7. New Concept of Work and New Concept of Energy;<br>
-2.8. New Universal Formula for Work and Energy;<br>
-2.9. New Unit of Measure for Work and Energy;<br>
+2.2. New Concept of Force;<br>
+2.3. New Definition of Force;<br>
+2.4. Target Acceleration as the feature of each Force;<br>
+2.5. New Formula for Force;<br>
+2.6. New Understanding of the magnitude of Force;<br>
+2.7. Work and Energy in the Most General Sense;<br>
+2.8. New Concept of Work and New Concept of Energy;<br>
+2.9. New Universal Formula for Work and Energy;<br>
+2.10. New Unit of Measure for Work and Energy;<br>
 2.10. Static Mechanical Work;<br>
 2.11. Calculations with New Formulas and Explanations;<br>
 2.12. New Formula for Kinetic Energy<br>
@@ -46,6 +46,7 @@ In its turn, the official concept of Force, being wrong, derives all other funda
 2.16. New Formula for Power.<br>
 2.17. New Law of Conservation of Energy
 
+--
 
 ## 2.1. Work and Energy in the Most General Sense
 
@@ -61,7 +62,7 @@ Let’s call anything (anyone) that can do Work “System”.
 
 In my opinion, in the most general sense,
 
-> ### Work is any activity of System that spends Energy.
+> **Work is any activity of System that spends Energy.**
 
 In other words, 
 
@@ -69,15 +70,18 @@ Work is any activity of System that requires Energy (resource).
 
 On the other hand, 
 
-> ### Energy is the resource for System to do Work.
+> **Energy is the resource for System to do Work.**
+--
 
-Importantly, there are Target Works and Non-Target Works.
+## 2.2. New Concept of Work and New Concept of Energy
 
-Target Work is a work that is the target for System to do.
+In my opinion,
 
-Non-Target Work is Work that isn't the target but is unavoidable for System to do while doing Target Work-- meaning is additional but unavoidable.
+> **Work is the process when System using its resources is pushing an object with a certain Force during some certain time.**
 
-Of course, not all of Energies are spent on (are converted into) the Target Works. Those Energies that are spent on Non-Target Works, we consider our losses. *More on it a bit below.*
+On the other hand,
+
+> **Energy is the resource for System to do Work**
 
 --
 
@@ -132,7 +136,9 @@ Of course, it all is so.
 
 But simultaneously,
 
-Force is the process when a System, using its resources is pushing an object, striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing.</b>
+Force is the process of pushing an object, striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing.</b>
+
+Of course, the increase is possible if there isn't the same in magnitude Force being counter.
 
 Let’s take, for example, Gravitational Force.
 
@@ -158,14 +164,13 @@ Importantly, in both (or we might say "in each") of these 2 cases above, during 
   <img src="/assets/images/196.png"/><br>
 </p>
 
-Gravitational Force (Invisible Hand) is doing the same thing -- it is pushing the 20 kg object downwards with the same Force (effort), striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing.
+Gravitational Force (Invisible Hand) is doing the same thing -- it is pushing the 20 kg object downwards with the same Force/Effort (196 Newtons), striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing.
 
 Note: strive means to make an effort to accomplish a target
 
 The New Definition of Force is:
 
-> ### Force is the process when a System is pushing an object, spending, for every moment, the absolutely enough resource/energy/effort to increase Velocity of the pushed object at the rate equal to Target Acceleration.
-
+> **Force is the process when a System using its resources is pushing an object, spending, for every moment, the absolutely enough resource/energy to increase Velocity of the pushed object at the rate equal to Target Acceleration associated with given Force.**
 
 --
 
@@ -217,53 +222,34 @@ each Force has its target, meaning that each Force has such a feature/attribute/
 
 
 
-
-
-
-
-
-
-
-
-
-
 ## 2.14. New Law of Conservation of Energy
 
-Before I postulate the New Law of Conservation of Energy, it is needed to be said that I had been loving the “old/current-official” Law of Conservation of Energy for a long time.
+Importantly, Energy is not the thing you think it is. *More on this a bit below.*
 
-I was so loving it.
+Before I postulate the New Law of Conservation of Energy, it is needed to be said that I had been loving the “old” Law of Conservation of Energy for a long time.
 
-The “old” Law is so beautiful and so easily-understandable: 
+I was really so loving it.
 
-Energy can neither be created nor destroyed — only converted from one form of Energy to another.
+The “old” Law is so beautiful and easily-understandable: 
 
-It seemed so ideal and true, I was loving it a lot.
+*Energy can neither be created nor destroyed — only converted from one form of Energy to another.*
 
-Although, this all is just “wishful thinking”.
+It seemed ideal and true, I was loving it a lot.
 
-But “wishful thinking” isn’t useful in science.
+But, this all is just “wishful thinking”.
+
+And “wishful thinking” isn’t useful in science.
 
 Truth is not what we should love a lot but what is in reality, what we can watch in reality.
 
 Now, whether you like it or not, but the New Law of Conservation of Energy -- which is a true Law of Conservation of Energy -- is following:
 
-In some cases, Energy can neither be created nor destroyed — only converted from one form of Energy to another, but in some other cases, Energy can be destroyed or created for free.
+> **In some cases, Energy can neither be created nor destroyed — only converted from one form of Energy to another, but in some other cases, Energy can be taken for free or can be destroyed**
 
 
-The New Law of Conservation of Energy consists of 2 parts.
 
-Also, before postulating The New Law of Conservation of Energy it is needed to say about Energy-Isolated Systems and Energy-Non-Isolated Systems.
 
-Energy-Isolated Systems and Energy-Non-Isolated Systems
-Energy-Isolated System is a system which is energy-closed in relation to all other systems — is energy-closed in relation to the rest the universe.
 
-Energy-Non-Isolated System is a system which is energy-non-closed in relation to some other systems — is energy-non-closed in relation to the rest the universe. Another term for it might be the energy-semi-closed system.
 
-Very often, people think about some specific systems as Energy-Isolated but they indeed are Energy-Non-Isolated.
-
-For example, let’s take a simple solid iron table.
-
-— — —
-II___II
 
 
