@@ -1,11 +1,11 @@
 This is the continuation of this article:
 
-Fundamental Errors in Science and New Discoveries Changing All Science:<br>
+**Fundamental Errors in Science and New Discoveries Changing All Science:<br>
 <br>
 New Formula for Force<br>
 New Formula for Work<br>
 New Formula for Energy<br>
-New Formula for Power<br>
+New Formula for Power<br>**
 
 https://github.com/sciZer0/newdiscoveries/tree/main/a
 
@@ -13,11 +13,13 @@ _______
 
 ## 1.2. Endless Series of Errors in Science
 
-As you might see, all the official formulas for calculating Work and Energy -- importantly, being fundamental -- are absolutely wrong.
+As you might [see](https://github.com/sciZer0/newdiscoveries/tree/main/a), all the official formulas for calculating Work and Energy -- importantly, being fundamental -- are absolutely wrong. Now, the wrongness of all these official formulas is a proven fact.
+
+> ## The wrongness of all the official formulas for calculating Work and Energy is a proven fact.
 
 But there is THE Initial Fundamental Error that derives all other fundamental errors.
 
-The Initial Fundamental Error is the official concept of Force (including the official formula of Force) being wrong.
+The Initial Fundamental Error is the official concept of Force (including the official formula of Force) being wrong. <i>More on this below.</i>
 
 In its turn, this official concept of Force, being wrong, derives all other fundamental errors (including the official concept of Work and the official concept of Energy -- also being wrong) which all together results in the endless series of errors in science.
 
@@ -53,7 +55,7 @@ The New Concept of Force includes the following:
 
 * New Definition of Force
 
-* Target Acceleration as a feature of each Force (a new concept)
+* Target Acceleration as the feature of each Force -- a new concept
 
 * New Formula for Force
 
@@ -90,11 +92,11 @@ For example, when your organism (in particular, your hand) is pushing a strong w
 
 your hand creates a push (process of pushing), and it means your hand creates Force.
 
-Of course, it all is.
+Of course, it all is so.
 
 But simultaneously,
 
-<b>Force is anything that is trying/striving to accelerate an object.</b>
+<b>Force is anything that is striving (by the pushing) to accelerate an object.</b>
 
 In other words:
 
@@ -107,39 +109,46 @@ For example, when your organism (in particular, your hand) is pushing a strong w
   <i>Your hand creates Force</i>
 </p>
 
-your hand is striving to accelerate the pushed object, the wall.
-
-In reality, what happens is that 
-
-your hand, while pushing the wall, is striving to increase the velocity of the pushed object (the wall) in a certain direction (shown by the green arrow). Importantly, it is so even when the velocity of the pushed object (the wall) remains zero during the pushing.
+your hand is striving to increase the velocity of some pushed object in a certain direction (shown by the green arrow).
 
 Let’s take, for example, Gravitational Force.
 
-All that Gravitational Force (Invisible Hand) can be doing during any moment is to be pushing (or also we might say “pulling/attracting" ) an object downwards (closer to Earth), trying (by this pushing) to increase the velocity of the pushed object.
+All that Gravitational Force (Invisible Hand) can be doing during any moment is to be pushing (or also we might say “pulling/attracting" ) an object downwards (closer to Earth), trying (by the pushing) to increase the velocity of the pushed object -- to accelerate the pushed object.
 
-In some cases, Gravitational Force (Invisible Hand) can be increasing the velocity of the pushed object (for example, in the case when the pushed object is free-falling”),
+Importantly, in some cases, Gravitational Force (Invisible Hand) can be increasing the velocity of the pushed object (for example, in the case when the pushed object is free-falling”),
 
+<p align="center">
+  <img src="/assets/images/17.png"/><br>
+</p>
 
+but, in some other cases, Gravitational Force (Invisible Hand) cannot increase the velocity of the pushed object (for example, in the case when the pushed object is sitting on a table --  and in this case, the result of the pushing is that the pushed object is being pressed to the table surface).
 
-But, in some other cases, Gravitational Force (Invisible Hand) cannot increase the velocity of the pushed object (for example, in the case when the pushed object is sitting on a table --  and in this case, the result of the pushing is that the pushed object is being pressed to the table surface).
+<p align="center">
+  <img src="/assets/images/sitting.png"/><br>
+</p>
 
 As we can see, in some cases, the increase of the velocity of the pushed object is possible for Gravitational Force, but in some other cases, it is impossible for Gravitational Force.
 
-Importantly, in  both (or we might say "in each") of these 2 cases above, during every moment, Gravitational Force (Invisible Hand) is pushing the 20 kg object downwards, trying (by the pushing) to increase the velocity of the pushed object.
+Importantly, in  both (or we might say "in each") of these 2 cases above, during every moment, 
 
-The New Definition of Force is any of the following:
+<p align="center">
+  <img src="/assets/images/blind.png"/><br>
+</p>
 
-* <b>Force is anything that is pushing an object, striving (by the pushing) to increase Velocity of the object with Target Acceleration.</b>
+Gravitational Force (Invisible Hand) is doing the same thing -- Gravitational Force (Invisible Hand) is pushing the 20 kg object downwards, striving (by the pushing) to increase the velocity of the pushed object.
 
-* <b>Force is anything that is pushing an object, striving (by the pushing) to accelerate the object to Target Acceleration.</b>
+Note: strive means to make an effort to accomplish an target
 
+The New Definition of Force is:
+
+<b>Force is a push striving, during every moment, to be increasing Velocity of the pushed object at the rate equal to Target Acceleration.</b>
 
 
 ## 2.2. Target Acceleration
 
 So, the New Definition of Force is:
 
-<b>Force is anything that is pushing an object, striving (by the pushing) to accelerate the object to Target Acceleration.</b>
+<b>Force is a push striving, during every moment, to be increasing Velocity of the pushed object at the rate equal to Target Acceleration.</b>
 
 Target Acceleration is the most important concept.
 
