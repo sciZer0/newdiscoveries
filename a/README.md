@@ -931,7 +931,7 @@ are also absolutely wrong!
 
 So, all the official formulas for calculating Work and Energy -- importantly, being fundamental -- are absolutely wrong. Now, the wrongness of all these official formulas is a proven fact.
 
->The wrongness of all the official formulas for calculating Work and Energy is a proven fact.
+> ## The wrongness of all the official formulas for calculating Work and Energy is a proven fact.
 
 And since all these wrong formulas also strictly define the dimensional formulas of the Joule (Joule = Newton * meter = kilogram * meter² / second²), it all means that the Joule is the absolutely wrong unit of measure for Work and Energy!
 
