@@ -13,13 +13,13 @@ _______
 
 ## 1.2. Endless Series of Errors in Science
 
-As you might see, all the "official" formulas for calculating Work and Energy -- importantly, being fundamental -- are absolutely wrong.
+As you might see, all the official formulas for calculating Work and Energy -- importantly, being fundamental -- are absolutely wrong.
 
 But there is THE Initial Fundamental Error that derives all other fundamental errors.
 
-The Initial Fundamental Error is the wrong concept of Force, including the wrong formula of Force.
+The Initial Fundamental Error is the official concept of Force (including the official formula of Force) being wrong.
 
-The wrong concept of Force, in its turn, derives all other fundamental errors (including but not limited to the wrong concept of Work and the wrong concept of Energy) which all together are resulting in the endless series of errors in science.
+In its turn, this official concept of Force, being wrong, derives all other fundamental errors (including the official concept of Work and the official concept of Energy -- also being wrong) which all together results in the endless series of errors in science.
 
 ---
 
@@ -28,20 +28,21 @@ The wrong concept of Force, in its turn, derives all other fundamental errors (i
 
 2.1. New Concept of Force;<br>
 2.2. New Definition of Force;<br>
-2.3. Target Acceleration for each Force;<br>
+2.3. Target Acceleration as the feature of each Force;<br>
 2.4. New Formula for Force;<br>
-2.4. New Understanding of the magnitude of Force;<br>
+2.5. New Understanding of the magnitude of Force;<br>
 2.6. Work and Energy in the Most General Sense;<br>
 2.7. New Concept of Work and New Concept of Energy;<br>
 2.8. New Universal Formula for Work and Energy;<br>
 2.9. New Unit of Measure for Work and Energy;<br>
 2.10. Static Mechanical Work;<br>
-2.11. Calculations with New Formulas
-2.12. New Formula for Kinetic Energy and explanation of the well-known Kinetic Energy Paradox;<br>
-2.13. New Formula for Potential Energy;<br>
-2.14. New Formula for Power.<br>
+2.11. Calculations with New Formulas and Explanations;<br>
+2.12. New Formula for Kinetic Energy<br>
+2.14. explanation of the well-known Kinetic Energy Paradox;<br>
+2.15. New Formula for Potential Energy;<br>
+2.16. New Formula for Power.<br>
 
-2.15. New Law of Conservation of Energy
+2.17. New Law of Conservation of Energy
 
 
 ## 2.1. New Concept of Force
@@ -60,7 +61,7 @@ The New Concept of Force includes the following:
 
 --
 
-## 2.1. New Definition of Force
+## 2.2. New Definition of Force
 
 Of course,
 
@@ -126,14 +127,19 @@ As we can see, in some cases, the increase of the velocity of the pushed object 
 
 Importantly, in  both (or we might say "in each") of these 2 cases above, during every moment, Gravitational Force (Invisible Hand) is pushing the 20 kg object downwards, trying (by the pushing) to increase the velocity of the pushed object.
 
+The New Definition of Force is any of the following:
 
-The New Definition of Force:
+* <b>Force is anything that is pushing an object, striving (by the pushing) to increase Velocity of the object with Target Acceleration.</b>
 
-><b>Force is anything that is pushing an object, striving (by the pushing) to accelerate the object to Target Acceleration.</b>
+* <b>Force is anything that is pushing an object, striving (by the pushing) to accelerate the object to Target Acceleration.</b>
 
 
 
-## 2.1. Target Acceleration
+## 2.2. Target Acceleration
+
+So, the New Definition of Force is:
+
+<b>Force is anything that is pushing an object, striving (by the pushing) to accelerate the object to Target Acceleration.</b>
 
 Target Acceleration is the most important concept.
 
@@ -147,7 +153,7 @@ Or also, if wanted, we might call this Acceleration of 9.8 (m/s²) “Target Acc
 
 Importantly, Gravitational Force (Invisible Hand), while pushing an object, always has its Target Acceleration. Target Acceleration for Gravitational Force is always 9.8 (m/s²).
 
-Moreover, in reality, each Force, while pushing an object, has its Target Acceleration.
+Moreover, in reality, each Force, while pushing an object, has such a characteristic as its Target Acceleration.
 
 In other words, Target Acceleration is THE feature/attribute/characteristic of each Force.
 
