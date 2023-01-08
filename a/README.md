@@ -199,18 +199,19 @@ B. Official Concept of Work and Official Concept of Energy
 
 2.1. Work and Energy in the Most General Sense<br>
 2.2. New Concept of Work and New Concept of Energy<br>
-2.3. New Law of Conservation of Energy<br>
-2.4. New Concept of Force<br>
-2.5. Target Acceleration as the feature of each Force<br>
-2.6. New Formula for Force<br>
-2.7. New Understanding of the magnitude of Force<br>
-2.8. New Universal Formula for Work and Energy<br>
-2.9. New Unit of Measure for Work and Energy<br>
-2.10. Static Mechanical Work<br>
-2.11. Calculations with New Formulas<br>
-2.12. New Formula for Kinetic Energy, canceling Kinetic Energy Paradox<br>
-2.13. New Formula for Potential Energy<br>
-2.14. New Formula for Power
+2.3. Target Works & Non-Target Works<br>
+2.4. New Law of Conservation of Energy<br>
+2.5. New Concept of Force<br>
+2.6. Target Acceleration as the feature of each Force<br>
+2.7. New Formula for Force<br>
+2.8. New Understanding of the magnitude of Force<br>
+2.9. New Universal Formula for Work and Energy<br>
+2.10. New Unit of Measure for Work and Energy<br>
+2.11. Static Mechanical Work<br>
+2.12. Calculations with New Formulas<br>
+2.13. New Formula for Kinetic Energy, canceling Kinetic Energy Paradox<br>
+2.14. New Formula for Potential Energy<br>
+2.15. New Formula for Power<br>
 
 ### DISCOVERY #3
 <i>WAYS OF MULTIPLICATION OF ENERGY</i>
