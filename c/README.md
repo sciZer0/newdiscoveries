@@ -13,6 +13,9 @@ https://github.com/sciZer0/newdiscoveries/tree/main/a
 
 <h1 align="center">_________</h1>
 
+<h1 align="center">
+  The continuation itself:
+</h1>
 
 ## 1.2. Endless Series of Errors in Science
 
