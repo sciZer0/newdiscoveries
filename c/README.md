@@ -80,7 +80,7 @@ In my opinion, in the most general sense,
 
 > ### Work is any activity of Organism that is spending Energy (some resource).
 
-In other words,
+Or in other words,
 
 * Work is any activity of Organism that requires Energy (some resource)
 * Work is any activity of Organism that is reducing Energy (some resource)
