@@ -36,7 +36,7 @@ All these fundamental errors together result in the endless series of errors in 
 
 2.1. Work and Energy in the Most General Sense<br>
 2.2. New Concept of Work and New Concept of Energy<br>
-2.3. Target Works & Non-Target Works<br>
+2.3. Target Works and Non-Target Works<br>
 2.4. New Law of Conservation of Energy<br>
 2.5. New Concept of Force<br>
 2.6. Target Acceleration as the feature of each Force<br>
@@ -110,7 +110,7 @@ The New Concept of Energy is:
 
 --
 
-## 2.3. Target Works & Non-Target Works
+## 2.3. Target Works and Non-Target Works
 
 Importantly, there are Target Works and Non-Target Works.
 
