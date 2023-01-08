@@ -89,7 +89,7 @@ importantly, when System using its resources is pushing an object in a certain d
 
 The New Concept of Work is:
 
-> **Work is the process when a System using its resources is pushing an object with a certain effort during some time.**
+> ### Work is the process when a System using its resources is pushing an object with a certain effort during some time.
 
 In other words,
 
@@ -107,7 +107,7 @@ Energy is the resource for System to be doing Work.
 
 The New Concept of Energy is:
 
-> **Energy is the resource for System to be pushing an object with a certain effort during some time.**
+> ### Energy is the resource for System to be pushing an object with a certain effort during some time.
 
 --
 
