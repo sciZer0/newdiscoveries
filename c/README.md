@@ -57,9 +57,9 @@ In modern science the whole logic about Energy is absolutely wrong, so we need t
 
 So.
 
-Even official science consider that The Universe in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
+Even official science considers that The Universe in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
-I absolutely agree with this above.
+Importantly, I absolutely agree with this above.
 
 Let’s call anything (anyone) that can do Work “System”.
 
@@ -83,13 +83,11 @@ And of course,
 
 ## 2.2. New Concept of Work and New Concept of Energy
 
-In my opinion,
-
-importantly, when System using its resources is pushing an object in a certain direction during some time, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
+Importantly, when System using its resources is pushing an object in a certain direction during some time, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
 
 The New Concept of Work is:
 
-> ### Work is the process when a System using its resources is pushing an object with a certain effort during some time.
+> ### Work is the process when a System using its resources is pushing an object during some time with a certain effort (Force).
 
 In other words,
 
@@ -107,7 +105,7 @@ Energy is the resource for System to be doing Work.
 
 The New Concept of Energy is:
 
-> ### Energy is the resource for System to be pushing an object with a certain effort during some time.
+> ### Energy is the resource for System to be pushing an object during some time with a certain effort (Force).
 
 --
 
