@@ -115,7 +115,7 @@ The New Concept of Energy is:
 
 Importantly, there are Target Works and Non-Target Works.
 
-Target Work is a work that is the target for System to be doing while working.
+Target Work is Work that is the target for System to be doing while working.
 
 Non-Target Work is Work that isn't the target for System but is unavoidable for System to be doing while doing Target Work-- meaning is additional but unavoidable.
 
