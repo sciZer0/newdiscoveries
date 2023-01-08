@@ -65,7 +65,7 @@ Importantly, I absolutely agree with this above.
 
 Let’s call anyone (anything) that can do Work “Organism”.
 
-Of course, we might use the System word instead of the "Organism" word but the reason of our choice will be clear a bit below.
+Of course, we might use the "System" word instead of the "Organism" word but the reason of the choice will be clear a bit below.
 
 So, 
 
