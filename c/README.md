@@ -248,6 +248,8 @@ Now, whether you like it or not, but the New Law of Conservation of Energy -- wh
 
 > **In some cases, Energy can neither be created nor destroyed — only converted from one form of Energy to another, but in another cases, Energy can be taken for free or can be destroyed**
 
+And below we will see confirmation of this New Law of Conservation of Energy.
+
 --
 
 ## 2.7. New Concept of Force
