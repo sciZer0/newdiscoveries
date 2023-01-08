@@ -36,7 +36,7 @@ All these fundamental errors together result in the endless series of errors in 
 
 2.1. Work and Energy in the Most General Sense<br>
 2.2. Concept of Organism and its Hand<br>
-2.3. Undersdanding the process of pushing, Force<br>
+2.3. Undersdanding the Process of Pushing, Force<br>
 2.4. New Concept of Work and New Concept of Energy<br>
 2.5. Target Works and Non-Target Works<br>
 2.6. New Law of Conservation of Energy<br>
@@ -127,7 +127,7 @@ In Case #3 and Case #4, Hand is Gravitational Force (Invisible Hand).
 
 
 
-## 2.3. Undersdanding the process of pushing, Force
+## 2.3. Undersdanding the Process of Pushing, Force
 
 Let's consider again the 4 cases simultaneously:
 
