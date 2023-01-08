@@ -35,21 +35,22 @@ All these fundamental errors together result in the endless series of errors in 
 <i>NEW FORMULAS FOR FORCE, WORK, ENERGY, POWER</i>
 
 2.1. Work and Energy in the Most General Sense<br>
-2.2. Undersdanding the process of pushing
-2.2. New Concept of Work and New Concept of Energy<br>
-2.3. Target Works and Non-Target Works<br>
-2.4. New Law of Conservation of Energy<br>
-2.5. New Concept of Force<br>
-2.6. Target Acceleration as the feature of each Force<br>
-2.7. New Formula for Force<br>
-2.8. New Understanding of the magnitude of Force<br>
-2.9. New Universal Formula for Work and Energy<br>
-2.10. New Unit of Measure for Work and Energy<br>
-2.11. Static Mechanical Work<br>
-2.12. Calculations with New Formulas<br>
-2.13. New Formula for Kinetic Energy, canceling Kinetic Energy Paradox<br>
-2.14. New Formula for Potential Energy<br>
-2.15. New Formula for Power<br>
+2.2. Concept of Organism and its Hand<br>
+2.3. Undersdanding the process of pushing, Force<br>
+2.4. New Concept of Work and New Concept of Energy<br>
+2.5. Target Works and Non-Target Works<br>
+2.6. New Law of Conservation of Energy<br>
+2.7. New Concept of Force<br>
+2.8. Target Acceleration as the feature of each Force<br>
+2.9. New Formula for Force<br>
+2.10. New Understanding of the magnitude of Force<br>
+2.11. New Universal Formula for Work and Energy<br>
+2.12. New Unit of Measure for Work and Energy<br>
+2.13. Static Mechanical Work<br>
+2.14. Calculations with New Formulas<br>
+2.15. New Formula for Kinetic Energy, canceling Kinetic Energy Paradox<br>
+2.16. New Formula for Potential Energy<br>
+2.17. New Formula for Power<br>
 
 --
 
@@ -76,9 +77,10 @@ In my opinion, in the most general sense,
 
 > ### Work is any activity of Organism that is spending Energy (some resource).
 
-In other words,
+In other words, Work is any of the following:
 
-Work is any activity of Organism that requires Energy (some resource).
+* any activity of Organism that requires Energy (some resource)
+* any activity of Organism that is reducing Energy (some resource)
 
 On the other hand, 
 
@@ -91,7 +93,7 @@ And of course,
 --
 
 
-## 2.2. Organism and its Hand
+## 2.2. Concept of Organism and its Hand
 
 Let's consider the 4 cases simultaneously:
 
@@ -99,13 +101,19 @@ Let's consider the 4 cases simultaneously:
   <img src="/assets/images/cases.png"/><br>
 </p>
 
-Importantly, in each of the 4 cases,
 
-> ### Organism is pushing the 20 kg object.
+In Case #1, a human is very slowly lifting the 20 kg object.<br>
+In Case #2, a human is holding the 20 kg object motionless in the air.<br>
+In Case #3, the Universe is pushing the 20 kg object downwards.<br>
+In Case #4, the Universe is pushing the 20 kg object downwards.<br>
 
 In Case #1 and Case #2, Sytem is a human (say, you).
 
 In Case #3 and Case #4, Organism is the Universe/Nature.
+
+Importantly, in each of the 4 cases,
+
+> ### Organism is pushing the 20 kg object.
 
 More importantly, in each of the 4 cases, 
 
@@ -119,7 +127,7 @@ In Case #3 and Case #4, Hand is Gravitational Force (Invisible Hand).
 
 
 
-## 2.3. Undersdanding the process of pushing
+## 2.3. Undersdanding the process of pushing, Force
 
 Let's consider the 4 cases simultaneously:
 
