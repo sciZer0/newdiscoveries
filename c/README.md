@@ -36,18 +36,19 @@ All these fundamental errors together result in the endless series of errors in 
 
 2.1. Work and Energy in the Most General Sense<br>
 2.2. New Concept of Work and New Concept of Energy<br>
-2.3. New Law of Conservation of Energy<br>
-2.4. New Concept of Force<br>
-2.5. Target Acceleration as the feature of each Force<br>
-2.6. New Formula for Force<br>
-2.7. New Understanding of the magnitude of Force<br>
-2.8. New Universal Formula for Work and Energy<br>
-2.9. New Unit of Measure for Work and Energy<br>
-2.10. Static Mechanical Work<br>
-2.11. Calculations with New Formulas<br>
-2.12. New Formula for Kinetic Energy, canceling Kinetic Energy Paradox<br>
-2.13. New Formula for Potential Energy<br>
-2.14. New Formula for Power<br>
+2.3. Target Works & Non-Target Works<br>
+2.4. New Law of Conservation of Energy<br>
+2.5. New Concept of Force<br>
+2.6. Target Acceleration as the feature of each Force<br>
+2.7. New Formula for Force<br>
+2.8. New Understanding of the magnitude of Force<br>
+2.9. New Universal Formula for Work and Energy<br>
+2.10. New Unit of Measure for Work and Energy<br>
+2.11. Static Mechanical Work<br>
+2.12. Calculations with New Formulas<br>
+2.13. New Formula for Kinetic Energy, canceling Kinetic Energy Paradox<br>
+2.14. New Formula for Potential Energy<br>
+2.15. New Formula for Power<br>
 
 --
 
@@ -109,7 +110,7 @@ The New Concept of Energy is:
 
 --
 
-## Target Works and Non-Target Works
+## 2.3. Target Works & Non-Target Works
 
 Importantly, there are Target Works and Non-Target Works.
 
@@ -139,7 +140,7 @@ Of course, not all of Energies are spent on (are converted into) the Target Work
 
 --
 
-## 2.3. New Law of Conservation of Energy
+## 2.4. New Law of Conservation of Energy
 
 Importantly, Energy is not the thing official science says it is. *More on this a bit below.*
 
@@ -167,7 +168,7 @@ Now, whether you like it or not, but the New Law of Conservation of Energy -- wh
 
 --
 
-## 2.2. New Concept of Force
+## 2.5. New Concept of Force
 
 Of course,
 
@@ -212,7 +213,7 @@ The New Concept of Force is:
 
 --
 
-## 2.3. Target Acceleration as the feature of each Force
+## 2.6. Target Acceleration as the feature of each Force
 
 Target Acceleration as the feature of each Force is an important concept.
 
@@ -233,7 +234,7 @@ In other words, Target Acceleration is THE feature/attribute/characteristic of e
 The concept of Target Acceleration works like the Butterfly Effect, this new concept changes everything in science.
 
 
-## 2.2. New Formula for Force
+## 2.7. New Formula for Force
 
 The New Formula for Force is:
 <p align="center">
