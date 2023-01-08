@@ -63,23 +63,26 @@ Even official science considers that The Universe in general is a big organism w
 
 Importantly, I absolutely agree with this above.
 
-Let’s call anything (anyone) that can do Work “System”.
+Let’s call anyone (anything) that can do Work “Organism”.
+
+Of course, we might use the System word instead of the "Organism" word but the reason of our choice will be clear a bit below.
 
 So, 
 
-> ### System is anything (anyone) that can be doing Work 
+> ### Organism is anyone (anything) that can be doing Work
+
 
 In my opinion, in the most general sense,
 
-> ### Work is any activity of System that is spending Energy (some resource).
+> ### Work is any activity of Organism that is spending Energy (some resource).
 
 In other words,
 
-Work is any activity of System that requires Energy (some resource).
+Work is any activity of Organism that requires Energy (some resource).
 
 On the other hand, 
 
-> ### Energy is the resource for System to be doing Work.
+> ### Energy is the resource for Organism to be doing Work.
 
 And of course, 
 
@@ -88,7 +91,7 @@ And of course,
 --
 
 
-## 2.2. System and its Hand
+## 2.2. Organism and its Hand
 
 Let's consider the 4 cases simultaneously:
 
@@ -98,15 +101,15 @@ Let's consider the 4 cases simultaneously:
 
 Importantly, in each of the 4 cases,
 
-> ### System is pushing the 20 kg object.
+> ### Organism is pushing the 20 kg object.
 
 In Case #1 and Case #2, Sytem is a human (say, you).
 
-In Case #3 and Case #4, System is the Universe/Nature.
+In Case #3 and Case #4, Organism is the Universe/Nature.
 
 More importantly, in each of the 4 cases, 
 
-> ### System is pushing the 20 kg object by its Hand.
+> ### Organism is pushing the 20 kg object by its Hand.
 
 In Case #1 and Case #2, Hand is the human hand (say, your hand).
 
@@ -124,43 +127,43 @@ Let's consider the 4 cases simultaneously:
   <img src="/assets/images/cases.png"/><br>
 </p>
 
-Importantly, in each of the 4 cases, System is doing the same thing:
+Importantly, in each of the 4 cases, Organism is doing the same thing:
 
-> ### During every moment System is pushing the 20 kg object.
+> ### During every moment Organism is pushing the 20 kg object.
 
 More importantly, in each of the 4 cases, 
 
-> ### During every moment System is pushing the 20 kg object with the same effort (Force) equal 196 Newtons.
+> ### During every moment Organism is pushing the 20 kg object with the same effort (Force) equal 196 Newtons.
 
-*More on how to calculate the effort (Force) with which System is pushing the 20 kg object a bit below.*
+*More on how to calculate the effort (Force) with which Organism is pushing the 20 kg object a bit below.*
 
 --
 
 ## 2.4. New Concept of Work and New Concept of Energy
 
-Importantly, when System using its resources is pushing an object in a certain direction during some time, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
+Importantly, when Organism using its resources is pushing an object in a certain direction during some time, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
 
 The New Concept of Work is:
 
-> ### Work is the process when a System using its resources is pushing an object during some time with a certain effort (Force).
+> ### Work is the process when a Organism using its resources is pushing an object during some time with a certain effort (Force).
 
 In other words,
 
-Work is the pushing done by System.
+Work is the pushing done by Organism.
 
 The truth is each of the following:
 
-* Each pusshing done by System requires Energy (some resource).
+* Each pusshing done by Organism requires Energy (some resource).
 
-* Each pusshing done by System is spending Energy (some resource).
+* Each pusshing done by Organism is spending Energy (some resource).
 
 As we already know::
 
-Energy is the resource for System to be doing Work.
+Energy is the resource for Organism to be doing Work.
 
 The New Concept of Energy is:
 
-> ### Energy is the resource for System to be pushing an object during some time with a certain effort (Force).
+> ### Energy is the resource for Organism to be pushing an object during some time with a certain effort (Force).
 
 --
 
@@ -168,15 +171,15 @@ The New Concept of Energy is:
 
 Importantly, there are Target Works and Non-Target Works.
 
-Target Work is Work that is the target for System to be doing while working.
+Target Work is Work that is the target for Organism to be doing while working.
 
-Non-Target Work is Work that isn't the target for System but is unavoidable for System to be doing while doing Target Work-- meaning is additional but unavoidable.
+Non-Target Work is Work that isn't the target for Organism but is unavoidable for Organism to be doing while doing Target Work-- meaning is additional but unavoidable.
 
-Target Work of System is the outside Work of System in relation of some object.
+Target Work of Organism is the outside Work of Organism in relation of some object.
 
-Non-Target Work is the inside Work of System that System must unavoidably be doing inside itself while doing Target Work.
+Non-Target Work is the inside Work of Organism that Organism must unavoidably be doing inside itself while doing Target Work.
 
-For example, for an Electric Motor (as an example of System):
+For example, for an Electric Motor (as an example of Organism):
 
 * Target Work is to be pushing the shaft.
 
@@ -184,11 +187,11 @@ For example, for an Electric Motor (as an example of System):
 
 In other words,
 
-Non-Target Work is the inside Work of System that System must unavoidably be doing inside itself in order to have the possibility of doing its Target Work.
+Non-Target Work is the inside Work of Organism that Organism must unavoidably be doing inside itself in order to have the possibility of doing its Target Work.
 
 Summarizing,
 
-Non-Target Work is unavoidable for System and the amount of Energy which is being spent on Non-Target Work is just the "additional energy-price" that System is unavoidably "paying" in order to have the possibility of doing its Target Work.
+Non-Target Work is unavoidable for Organism and the amount of Energy which is being spent on Non-Target Work is just the "additional energy-price" that Organism is unavoidably "paying" in order to have the possibility of doing its Target Work.
 
 Of course, not all of Energies are spent on (are converted into) the Target Works. Those Energies that are spent on Non-Target Works, we consider our losses.
 
@@ -255,15 +258,15 @@ Of course, it all is so.
 
 But simultaneously,
 
-Force is the process when a System using its resources is pushing an object, striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing. Of course, the increase is possible if there isn't the same in magnitude Force being counter.
+Force is the process when a Organism using its resources is pushing an object, striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing. Of course, the increase is possible if there isn't the same in magnitude Force being counter.
 
 Note: strive means to make an effort to accomplish a target
 
-Importantly, when a System using its resources is pushing an object in a certain direction, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent.
+Importantly, when a Organism using its resources is pushing an object in a certain direction, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent.
 
 The New Concept of Force is:
 
-> **Force is the process when a System using its resources is pushing an object, spending, for every moment, the absolutely enough resource/energy to increase Velocity of the pushed object at the rate equal to Target Acceleration.**
+> **Force is the process when a Organism using its resources is pushing an object, spending, for every moment, the absolutely enough resource/energy to increase Velocity of the pushed object at the rate equal to Target Acceleration.**
 
 --
 
@@ -283,7 +286,7 @@ Moreover, in reality, each Force, while pushing an object, has its target, meani
 
 In other words, Target Acceleration is THE feature/attribute/characteristic of each Force.
 
-> ### Target Acceleration is the acceleration that Force (System), while pushing an object, is striving to give to the pushed object.
+> ### Target Acceleration is the acceleration that Force (Organism), while pushing an object, is striving to give to the pushed object.
 
 The concept of Target Acceleration works like the Butterfly Effect, this new concept changes everything in science.
 
