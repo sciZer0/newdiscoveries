@@ -73,7 +73,7 @@ Work is any activity of System that requires Energy (some resource).
 
 On the other hand, 
 
-> ### Energy is the resource for System to do Work.
+> ### Energy is the resource for System to be doing Work.
 
 And of course, 
 
@@ -83,13 +83,9 @@ And of course,
 
 ## 2.2. New Concept of Work and New Concept of Energy
 
-Importantly, when System using its resources is pushing an object in a certain direction during some time, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
+In my opinion,
 
-The truth is each of the following:
-
-* Each pusshing done by System requires Energy (some resource).
-
-* Each pusshing done by System is spending Energy (some resource).
+importantly, when System using its resources is pushing an object in a certain direction during some time, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
 
 The New Concept of Work is:
 
@@ -99,10 +95,23 @@ In other words,
 
 Work is the pushing done by System.
 
+The truth is each of the following:
+
+* Each pusshing done by System requires Energy (some resource).
+
+* Each pusshing done by System is spending Energy (some resource).
+
+As we already know::
+
+Energy is the resource for System to be doing Work.
+
 The New Concept of Energy is:
 
-> **Energy is the resource for System to do Work -- to be pushing an object**
+> **Energy is the resource for System to be pushing an object with a certain effort during some time.**
 
+--
+
+## Target Works and Non-Target Works
 
 Importantly, there are Target Works and Non-Target Works.
 
