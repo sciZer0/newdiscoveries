@@ -183,59 +183,62 @@ ATTENTION: This whole work is strictly based on well-known experiments and consi
 ____
 
 ### Compulsory Part
-<i>“OFFICIAL” CONCEPTS & FORMULAS</i>
+<i>OFFICIAL CONCEPTS</i>
 
-A. "Official" Concept of Force ("Official" Newton’s Formula for Force);<br>
-B. "Official" Concept of Work and "Official" Concept of Energy.
+A. Official Concept of Force<br>
+B. Official Concept of Work and Official Concept of Energy
 
 ### NEW DISCOVERIES CHANGING ALL SCIENCE
 
 ### DISCOVERY #1
 <i>FUNDAMENTAL ERRORS IN SCIENCE</i>
 
-1.1. One of Sufficient Fundamental Errors in Science;<br>
-1.2. Endless Series of Errors in Science.
+1.1. One of Sufficient Fundamental Errors in Science<br>
+1.2. Endless Series of Errors in Science
 
 ### DISCOVERY #2
 <i>NEW FORMULAS FOR FORCE, WORK, ENERGY, POWER</i>
 
-2.1. Target Acceleration for each Force;<br>
-2.2. New Concept of Force;<br>
-2.3. New Formula for Force or True Newton’s Formula for Force;<br>
-2.4. Work and Energy in the Most General Sense;<br>
-2.5. New Concept of Work and New Concept of Energy;<br>
-2.6. New Universal Formula for Work and Energy;<br>
-2.7. New Unit of Measure for Work and Energy;<br>
-2.8. Static Mechanical Work;<br>
-2.9. New Formula for Kinetic Energy;<br>
-2.10. New Formula for Potential Energy;<br>
-2.11. New Formula for Power.<br>
+2.1. Work and Energy in the Most General Sense<br>
+2.2. New Concept of Work and New Concept of Energy<br>
+2.3. New Law of Conservation of Energy<br>
+2.4. New Concept of Force<br>
+2.5. Target Acceleration as the feature of each Force<br>
+2.6. New Formula for Force<br>
+2.7. New Understanding of the magnitude of Force<br>
+2.8. New Universal Formula for Work and Energy<br>
+2.9. New Unit of Measure for Work and Energy<br>
+2.10. Static Mechanical Work<br>
+2.11. Calculations with New Formulas<br>
+2.12. New Formula for Kinetic Energy, canceling Kinetic Energy Paradox<br>
+2.13. New Formula for Potential Energy<br>
+2.14. New Formula for Power
 
 ### DISCOVERY #3
 <i>WAYS OF MULTIPLICATION OF ENERGY</i>
 
-3.1. Precedents of Conservation of Energy;<br>
-3.2. Energy-Isolated & Energy-Non-Isolated Systems;<br>
-3.3. Free Clean Energy;<br>
+3.1. Precedents of Conservation of Energy<br>
+3.2. Energy-Isolated & Energy-Non-Isolated Systems<br>
+3.3. Free Clean Energy<br>
 3.4. New Law of Conservation of Energy;<br>
-3.5. Various Ways of Multiplication of Force, Work, Energy ;<br>
-3.6. New Energy & New Ability of Magnets;<br>
-3.7. New-Generation Generator of Electrical Energy.<br>
+3.5. Various Ways of Multiplication of Force, Work, Energy<br>
+3.6. New Energy & New Ability of Magnets<br>
+3.7. New-Generation Generator of Electrical Energy
 
 
 ### DISCOVERY #4
 <i>DISCOVERING ENERGY OF A NEW SORT THAT WE CAN TAKE OUT</i>
 
 4.1. Discovering of Energy Disbalance
-4.2. Discovering of New Energy & New Ability of Magnets;<br>
-4.3. Electrical Energy New-Generation Generator.<br>
+4.2. Discovering of New Energy & New Ability of Magnets<br>
+4.3. Electrical Energy New-Generation Generator<br>
 
 ### DISCOVERY #5
 
-5.1. First Correct Explanation of Bernoulli’s Equation;<br>
-5.2. New Concept of Charge;<br>
-5.3. New Concept of Mass;<br>
-5.4. New Concept of Electric Current.
+5.1. First Correct Explanation of Bernoulli’s Equation<br>
+5.2. New Concept of Charge<br>
+5.3. New Concept of Mass<br>
+5.4. New Concept of Electric Current
 
 
 <p align="center">
@@ -250,18 +253,16 @@ Really, Truth can be more surprising than Fiction
 
 ___
 
-## COMPULSORY PART
+### Compulsory Part
+<i>OFFICIAL CONCEPTS</i>
 
-“OFFICIAL” CONCEPTS & FORMULAS
-
-A. "Official" Concept of Force ("Official" Newton’s Formula for Force);<br>
-B. "Official" Concept of Work and "Official" Concept of Energy.
-
+A. Official Concept of Force<br>
+B. Official Concept of Work and Official Concept of Energy
 
 
-## A. "Official" Concept of Force ("Official" Newton’s Formula for Force)
+## A. Official Concept of Force
 
-Foremost, before we start, it is important to understand that science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
+Foremost, before we start, it is important to understand that official science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
 Importantly, I absolutely agree with this above.
 
