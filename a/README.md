@@ -40,9 +40,7 @@ you are fully able to easily understand every thing, even if you have no scienti
 
 Throughout the whole article, I practice "redundancy of understandability", using very simple language and sometimes explaining the same things several times.
 
-Always feel free to ask me any questions about the discoveries: 
-
-theOlegGor@gmail.com
+Always feel free to ask me any questions about the discoveries: theOlegGor@gmail.com.
 
 <i>By the way, English is my second language, I started learning it by myself when I was 39 and made the discoveries when I was 45.</i>
 
