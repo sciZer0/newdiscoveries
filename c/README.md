@@ -154,7 +154,7 @@ The heating-up is also a result of pushes, because any process of heating up an 
 
 In my opinion,
 
-when Organism using its resources is pushing an object in a certain direction during some time, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
+when Organism using its resources is pushing an object in a certain direction during some time by its Hand with same effort, even if the object is being motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
 
 Let's consider again the 4 cases simultaneously:
 
@@ -164,7 +164,7 @@ Let's consider again the 4 cases simultaneously:
 
 Importantly, in each of the 4 cases, 
 
-Organism using its resources is pushing an object in a certain direction during 30 seconds with same effort (Force) equal to 196 Newtons, and even when the object is staying motionless while the pushing (Case #2 and Case #4), it cannot be for free --  some resource is being spent on the pushing.
+Organism using its resources is pushing an object in a certain direction during 30 seconds by its Hand with same effort (Force) equal to 196 Newtons, and even when the object is being motionless while the pushing (Case #2 and Case #4), it cannot be for free --  some resource is being spent on the pushing.
 
 The New Concept of Work is:
 
