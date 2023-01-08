@@ -24,7 +24,7 @@ But there is another fundamental errors:
 * the official Law of conservation of Energy, being wrong
 * the official concept of Force, being wrong
 
-All these fundamental errors together results in the endless series of errors in science.
+All these fundamental errors together result in the endless series of errors in science.
 
 ---
 
@@ -59,7 +59,7 @@ So.
 
 Even official science consider that The Universe in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
-I absolutely agree with this.
+I absolutely agree with this above.
 
 Let’s call anything (anyone) that can do Work “System”.
 
@@ -79,7 +79,7 @@ On the other hand,
 
 ## 2.2. New Concept of Work and New Concept of Energy
 
-Importantly, when a System using its resources is pushing an object in a certain direction, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent on pushing.
+Importantly, when a System using its resources is pushing an object in a certain direction during some time, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
 
 In my opinion,
 
@@ -91,7 +91,7 @@ On the other hand,
 
 --
 
-## 2.14. New Law of Conservation of Energy
+## 2.3. New Law of Conservation of Energy
 
 Importantly, Energy is not the thing official science says it is. *More on this a bit below.*
 
@@ -119,7 +119,7 @@ Now, whether you like it or not, but the New Law of Conservation of Energy -- wh
 
 --
 
-## 2.2. New Concept of Force
+## 2.4. New Concept of Force
 
 The New Concept of Force includes the following:
 
