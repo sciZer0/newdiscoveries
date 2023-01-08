@@ -149,7 +149,27 @@ More importantly, in each of the 4 cases,
 
 ## 2.4. New Concept of Work and New Concept of Energy
 
-Importantly, when Organism using its resources is pushing an object in a certain direction during some time, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
+In my opinion, any Work is the pushing done during some time with some effort (Force).
+
+In other words, any Work is a push or combination of pushes.
+
+At first glance, some of Works might probably not seem to someone that these are the pushings. But in reality, any Work is a push or combination of pushes. I will give you just one example below.
+
+The heating-up is also a result of pushes, because any process of heating up an object is due to the increase in the velocities of particles inside the object. And the increase in the velocities of the particles occurs only because these particles are being pushed by some things. Therefore, any heating-up is the result of a lot of pushes. And this means that the heating-up is Work and that Energy (some resource) is always being spent on this Work.
+
+In my opinion,
+
+when Organism using its resources is pushing an object in a certain direction during some time, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
+
+Let's consider again the 4 cases simultaneously:
+
+<p align="center">
+  <img src="/assets/images/cases.png"/><br>
+</p>
+
+Importantly, in each of the 4 cases, 
+
+Organism using its resources is pushing an object in a certain direction during 30 seconds with same effort (Force) equal to 196 Newtons, and even when the object is staying motionless while the pushing (Case #2 and Case #4), it cannot be for free --  some resource is being spent on the pushing.
 
 The New Concept of Work is:
 
@@ -161,17 +181,19 @@ Work is the pushing done by Organism.
 
 The truth is each of the following:
 
-* Each pusshing done by Organism requires Energy (some resource).
+* Each pusshing done by Organism requires Energy (some resource);
 
-* Each pusshing done by Organism is spending Energy (some resource).
+* Each pusshing done by Organism is spending Energy (some resource);
 
-As we already know::
+
+On the other hand, as we already know:
 
 Energy is the resource for Organism to be doing Work.
 
 The New Concept of Energy is:
 
 > ### Energy is the resource for Organism to be pushing an object during some time with a certain effort (Force).
+
 
 --
 
@@ -201,7 +223,7 @@ Summarizing,
 
 Non-Target Work is unavoidable for Organism and the amount of Energy which is being spent on Non-Target Work is just the "additional energy-price" that Organism is unavoidably "paying" in order to have the possibility of doing its Target Work.
 
-Of course, not all of Energies are spent on (are converted into) the Target Works. Those Energies that are spent on Non-Target Works, we consider our losses.
+Of course, not all of Energies are spent on (are converted to) the Target Works. Those Energies that are spent on Non-Target Works, we consider our losses.
 
 --
 
