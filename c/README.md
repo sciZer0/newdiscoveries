@@ -65,27 +65,53 @@ Let’s call anything (anyone) that can do Work “System”.
 
 In my opinion, in the most general sense,
 
-> **Work is any activity of System that is spending Energy (some resource).**
+> ### Work is any activity of System that is spending Energy (some resource).
 
-In other words, 
+In other words,
 
 Work is any activity of System that requires Energy (some resource).
 
 On the other hand, 
 
-> **Energy is the resource for System to do Work.**
+> ### Energy is the resource for System to do Work.
 
-Of course, Work and Energy have the same unit of measure.
+And of course, 
+
+> ### Work and Energy have the same unit of measure.
+
+Importantly, there are Target Works and Non-Target Works.
+
+Target Work is a work that is the target for System to be doing while working.
+
+Non-Target Work is Work that isn't the target for System but is unavoidable for System to be doing while doing Target Work-- meaning is additional but unavoidable.
+
+Target Work of System is the outside Work of System in relation of some object.
+
+Non-Target Work is the inside Work of System that System must unavoidably be doing inside itself while doing Target Work.
+
+In other words,
+
+Non-Target Work is the inside Work of System that System must unavoidably be doing inside itself in order to have the possibility of doing its Target Work.
+
+Summarizing,
+
+Non-Target Work is unavoidable for System and the amount of Energy which is being spent on Non-Target Work is just the "additional energy-price" that System is unavoidably "paying" in order to have the possibility of doing its Target Work.
+
+Of course, not all of Energies are spent on (are converted into) the Target Works. Those Energies that are spent on Non-Target Works, we consider our losses.
 
 --
 
 ## 2.2. New Concept of Work and New Concept of Energy
 
-Importantly, when a System using its resources is pushing an object in a certain direction during some time, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
+Importantly, when System using its resources is pushing an object in a certain direction during some time, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
+
+Each pusshing done by System requires Energy (some resource).
+
+Each pusshing done by System is spending Energy (some resource).
 
 In my opinion,
 
-> **Work is the process when a System using its resources is pushing an object with a certain Force during some time.**
+> **Work is the process when a System using its resources is pushing an object with a certain effort during some time.**
 
 On the other hand,
 
@@ -222,6 +248,10 @@ and also that
 each Force has its target, meaning that each Force has such a feature/attribute/characteristic as Target Acceleration.
 
 ---
+
+
+
+
 
 
 
