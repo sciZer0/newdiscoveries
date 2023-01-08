@@ -79,11 +79,11 @@ On the other hand,
 
 ## 2.2. New Concept of Work and New Concept of Energy
 
-Importantly, when a System using its resources is pushing an object in a certain direction, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent.
+Importantly, when a System using its resources is pushing an object in a certain direction, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent on pushing.
 
 In my opinion,
 
-> **Work is the process when a System using its resources is pushing an object with a certain Force during some certain time.**
+> **Work is the process when a System using its resources is pushing an object with a certain Force during some time.**
 
 On the other hand,
 
@@ -91,13 +91,11 @@ On the other hand,
 
 --
 
-
-
 ## 2.14. New Law of Conservation of Energy
 
-Importantly, Energy is not the thing you think it is. *More on this a bit below.*
+Importantly, Energy is not the thing official science says it is. *More on this a bit below.*
 
-Before I postulate the New Law of Conservation of Energy, it is needed to be said that I had been loving the “old” Law of Conservation of Energy for a long time.
+Before I postulate the New Law of Conservation of Energy, it is needed to say that I had been loving the “old” Law of Conservation of Energy for a long time.
 
 I was really so loving it.
 
@@ -111,14 +109,13 @@ But, this all is just “wishful thinking”.
 
 And “wishful thinking” isn’t useful in science.
 
-Truth is not what we should love a lot but what is in reality, what we can watch in reality.
+Truth is not what we should love a lot but what is in reality.
 
-Official science mistakenly considers that Energy is only the thing that can always convert into another form Energy, but in reality Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be converted back into Energy.
+Official science mistakenly considers that Energy is only the thing that can always be converted to another form Energy, but in reality Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be converted back to Energy.
 
 Now, whether you like it or not, but the New Law of Conservation of Energy -- which is a true Law of Conservation of Energy -- is following:
 
 > **In some cases, Energy can neither be created nor destroyed — only converted from one form of Energy to another, but in another cases, Energy can be taken for free or can be destroyed**
-
 
 --
 
@@ -183,7 +180,7 @@ The New Definition of Force is:
 
 ## 2.3. Target Acceleration as the feature of each Force
 
-Target Acceleration is an important concept.
+Target Acceleration as the feature of each Force is an important concept.
 
 In my opinion, each Force has its target.
 
