@@ -104,9 +104,15 @@ Let's consider the 4 cases simultaneously:
   <img src="/assets/images/cases.png"/><br>
 </p>
 
-
 In Case #1, a human is very very slowly lifting the 20 kg object during 30 seconds.<br>
 In Case #2, a human is holding the 20 kg object motionless in the air during 30 seconds.<br>
+In Case #3, the 20 kg object is free-falling during 30 seconds.<br>
+In Case #4, the 20 kg object is sitting motionless on the table during 30 seconds.<br>
+
+What is happening in reality is:
+
+In Case #1, a human is pushing upwards the 20 kg object during 30 seconds.<br>
+In Case #2, a human is pushing upwards the 20 kg object during 30 seconds.<br>
 In Case #3, the Universe is pushing downwards the 20 kg object during 30 seconds.<br>
 In Case #4, the Universe is pushing downwards the 20 kg object during 30 seconds.<br>
 
@@ -128,23 +134,9 @@ In Case #3 and Case #4, Hand is Gravitational Force (Invisible Hand).
 
 *More on Gravitational Force (Invisible Hand) is [here](https://github.com/sciZer0/newdiscoveries/tree/main/a).*
 
+Exremely importantly, in each of the 4 cases, 
 
-
-## 2.3. Undersdanding the Process of Pushing, Force
-
-Let's consider again the 4 cases simultaneously:
-
-<p align="center">
-  <img src="/assets/images/cases.png"/><br>
-</p>
-
-Importantly, in each of the 4 cases, Organism is doing the same thing:
-
-> ### During every moment Organism by its Hand is pushing the 20 kg object.
-
-More importantly, in each of the 4 cases, 
-
-> ### During every moment Organism by its Hand is pushing the 20 kg object with the same effort (Force) equal 196 Newtons.
+> ### During every moment of 30 seconds Organism by its Hand is pushing the 20 kg object with the same effort (Force) equal 196 Newtons.
 
 *More on how to calculate the effort (Force) with which Organism is pushing the 20 kg object a bit below.*
 
