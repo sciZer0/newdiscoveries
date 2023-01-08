@@ -1,4 +1,6 @@
-This is the continuation of this article:
+<h1 align="center">
+  This is the continuation of this article:
+</h1>
 
 **Fundamental Errors in Science and New Discoveries Changing All Science:<br>
 <br>
@@ -9,7 +11,8 @@ New Formula for Power<br>**
 
 https://github.com/sciZer0/newdiscoveries/tree/main/a
 
-_______
+<h1 align="center">_________</h1>
+
 
 ## 1.2. Endless Series of Errors in Science
 
