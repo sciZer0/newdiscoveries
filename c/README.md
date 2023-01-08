@@ -87,7 +87,36 @@ And of course,
 
 --
 
-## 2.2. Undersdanding the process of pushing
+
+## 2.2. System and its Hand
+
+Let's consider the 4 cases simultaneously:
+
+<p align="center">
+  <img src="/assets/images/cases.png"/><br>
+</p>
+
+Importantly, in each of the 4 cases,
+
+> ### System is pushing the 20 kg object.
+
+In Case #1 and Case #2, Sytem is a human (say, you).
+
+In Case #3 and Case #4, System is the Universe/Nature.
+
+More importantly, in each of the 4 cases, 
+
+> ### System is pushing the 20 kg object by its Hand.
+
+In Case #1 and Case #2, Hand is the human hand (say, your hand).
+
+In Case #3 and Case #4, Hand is Gravitational Force (Invisible Hand). 
+
+*More on Gravitational Force (Invisible Hand) is [here](https://github.com/sciZer0/newdiscoveries/tree/main/a).*
+
+
+
+## 2.3. Undersdanding the process of pushing
 
 Let's consider the 4 cases simultaneously:
 
@@ -107,7 +136,7 @@ More importantly, in each of the 4 cases,
 
 --
 
-## 2.2. New Concept of Work and New Concept of Energy
+## 2.4. New Concept of Work and New Concept of Energy
 
 Importantly, when System using its resources is pushing an object in a certain direction during some time, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
 
@@ -135,7 +164,7 @@ The New Concept of Energy is:
 
 --
 
-## 2.3. Target Works and Non-Target Works
+## 2.5. Target Works and Non-Target Works
 
 Importantly, there are Target Works and Non-Target Works.
 
@@ -165,7 +194,7 @@ Of course, not all of Energies are spent on (are converted into) the Target Work
 
 --
 
-## 2.4. New Law of Conservation of Energy
+## 2.6. New Law of Conservation of Energy
 
 Importantly, Energy is not the thing official science says it is. *More on this a bit below.*
 
@@ -193,7 +222,7 @@ Now, whether you like it or not, but the New Law of Conservation of Energy -- wh
 
 --
 
-## 2.5. New Concept of Force
+## 2.7. New Concept of Force
 
 Of course,
 
@@ -238,7 +267,7 @@ The New Concept of Force is:
 
 --
 
-## 2.6. Target Acceleration as the feature of each Force
+## 2.8. Target Acceleration as the feature of each Force
 
 Target Acceleration as the feature of each Force is an important concept.
 
@@ -259,7 +288,7 @@ In other words, Target Acceleration is THE feature/attribute/characteristic of e
 The concept of Target Acceleration works like the Butterfly Effect, this new concept changes everything in science.
 
 
-## 2.7. New Formula for Force
+## 2.9. New Formula for Force
 
 The New Formula for Force is:
 <p align="center">
