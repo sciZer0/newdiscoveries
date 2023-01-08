@@ -109,7 +109,7 @@ In Case #2, a human is holding the 20 kg object motionless in the air during 30 
 In Case #3, the 20 kg object is free-falling during 30 seconds.<br>
 In Case #4, the 20 kg object is sitting motionless on the table during 30 seconds.<br>
 
-What is happening in reality is:
+What is happening in reality is the following:
 
 In Case #1, a human is pushing upwards the 20 kg object during 30 seconds.<br>
 In Case #2, a human is pushing upwards the 20 kg object during 30 seconds.<br>
