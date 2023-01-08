@@ -35,6 +35,7 @@ All these fundamental errors together result in the endless series of errors in 
 <i>NEW FORMULAS FOR FORCE, WORK, ENERGY, POWER</i>
 
 2.1. Work and Energy in the Most General Sense<br>
+2.2. Undersdanding the process of pushing
 2.2. New Concept of Work and New Concept of Energy<br>
 2.3. Target Works and Non-Target Works<br>
 2.4. New Law of Conservation of Energy<br>
@@ -64,6 +65,10 @@ Importantly, I absolutely agree with this above.
 
 Let’s call anything (anyone) that can do Work “System”.
 
+So, 
+
+> ### System is anything (anyone) that can be doing Work 
+
 In my opinion, in the most general sense,
 
 > ### Work is any activity of System that is spending Energy (some resource).
@@ -79,6 +84,26 @@ On the other hand,
 And of course, 
 
 > ### Work and Energy have the same unit of measure.
+
+--
+
+## 2.2. Undersdanding the process of pushing
+
+Let's consider the 4 cases simultaneously:
+
+<p align="center">
+  <img src="/assets/images/cases.png"/><br>
+</p>
+
+Importantly, in each of the 4 cases, System is doing the same thing:
+
+> ### During every moment System is pushing the 20 kg object.
+
+More importantly, in each of the 4 cases, 
+
+> ### During every moment System is pushing the 20 kg object with the same effort (Force) equal 196 Newtons.
+
+*More on how to calculate the effort (Force) with which System is pushing the 20 kg object a bit below.*
 
 --
 
