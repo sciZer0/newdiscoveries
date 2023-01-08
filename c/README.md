@@ -102,12 +102,12 @@ Let's consider the 4 cases simultaneously:
 </p>
 
 
-In Case #1, a human is very slowly lifting the 20 kg object.<br>
-In Case #2, a human is holding the 20 kg object motionless in the air.<br>
-In Case #3, the Universe is pushing the 20 kg object downwards.<br>
-In Case #4, the Universe is pushing the 20 kg object downwards.<br>
+In Case #1, a human is very very slowly lifting the 20 kg object during 30 seconds.<br>
+In Case #2, a human is holding the 20 kg object motionless in the air during 30 seconds.<br>
+In Case #3, the Universe is pushing downwards the 20 kg object during 30 seconds.<br>
+In Case #4, the Universe is pushing downwards the 20 kg object during 30 seconds.<br>
 
-In Case #1 and Case #2, Sytem is a human (say, you).
+In Case #1 and Case #2, Organism is a human (say, you).
 
 In Case #3 and Case #4, Organism is the Universe/Nature.
 
@@ -119,7 +119,7 @@ More importantly, in each of the 4 cases,
 
 > ### Organism is pushing the 20 kg object by its Hand.
 
-In Case #1 and Case #2, Hand is the human hand (say, your hand).
+In Case #1 and Case #2, Hand is the human's hand (say, your hand).
 
 In Case #3 and Case #4, Hand is Gravitational Force (Invisible Hand). 
 
@@ -129,7 +129,7 @@ In Case #3 and Case #4, Hand is Gravitational Force (Invisible Hand).
 
 ## 2.3. Undersdanding the process of pushing, Force
 
-Let's consider the 4 cases simultaneously:
+Let's consider again the 4 cases simultaneously:
 
 <p align="center">
   <img src="/assets/images/cases.png"/><br>
@@ -137,11 +137,11 @@ Let's consider the 4 cases simultaneously:
 
 Importantly, in each of the 4 cases, Organism is doing the same thing:
 
-> ### During every moment Organism is pushing the 20 kg object.
+> ### During every moment Organism by its Hand is pushing the 20 kg object.
 
 More importantly, in each of the 4 cases, 
 
-> ### During every moment Organism is pushing the 20 kg object with the same effort (Force) equal 196 Newtons.
+> ### During every moment Organism by its Hand is pushing the 20 kg object with the same effort (Force) equal 196 Newtons.
 
 *More on how to calculate the effort (Force) with which Organism is pushing the 20 kg object a bit below.*
 
