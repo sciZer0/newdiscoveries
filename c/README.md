@@ -154,7 +154,7 @@ The heating-up is also a result of pushes, because any process of heating up an 
 
 In my opinion,
 
-when Organism using its resources is pushing an object in a certain direction during some time by its Hand with same effort, even if the object is being motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
+when Organism using its resources is pushing an object in a certain direction during some time by its Hand with some effort, even if the object is being motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
 
 Let's consider again the 4 cases simultaneously:
 
@@ -168,7 +168,7 @@ Organism using its resources is pushing an object in a certain direction during 
 
 The New Concept of Work is:
 
-> ### Work is the process when a Organism using its resources is pushing an object during some time with a certain effort (Force).
+> ### Work is the process when a Organism using its resources is pushing an object during some time by its Hand with a certain effort (Force).
 
 In other words,
 
@@ -187,7 +187,7 @@ Energy is the resource for Organism to be doing Work.
 
 The New Concept of Energy is:
 
-> ### Energy is the resource for Organism to be pushing an object during some time with a certain effort (Force).
+> ### Energy is the resource for Organism to be pushing an object during some time by its Hand with some effort (Force).
 
 
 --
