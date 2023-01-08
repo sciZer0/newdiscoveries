@@ -80,10 +80,10 @@ In my opinion, in the most general sense,
 
 > ### Work is any activity of Organism that is spending Energy (some resource).
 
-In other words, Work is any of the following:
+In other words,
 
-* any activity of Organism that requires Energy (some resource)
-* any activity of Organism that is reducing Energy (some resource)
+* Work is any activity of Organism that requires Energy (some resource)
+* Work is any activity of Organism that is reducing Energy (some resource)
 
 On the other hand, 
 
@@ -136,7 +136,7 @@ In Case #3 and Case #4, Hand is Gravitational Force (Invisible Hand).
 
 Exremely importantly, in each of the 4 cases, 
 
-> ### During every moment of 30 seconds Organism by its Hand is pushing the 20 kg object with the same effort (Force) equal 196 Newtons.
+> ### During every moment of 30 seconds, Organism by its Hand is pushing the 20 kg object with the same effort (Force) equal 196 Newtons.
 
 *More on how to calculate the effort (Force) with which Organism is pushing the 20 kg object a bit below.*
 
