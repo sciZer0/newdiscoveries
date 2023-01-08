@@ -212,14 +212,7 @@ B. "Official" Concept of Work and "Official" Concept of Energy.
 2.11. New Formula for Power.<br>
 
 ### DISCOVERY #3
-<i>NEW SORT OF ENERGY THAT WE CAN TAKE OUT</i>
-
-3.1. Discovering of Energy Disbalance
-3.2. Discovering of New Energy & New Ability of Magnets;<br>
-3.3. New-Generation Generator of Electrical Energy.<br>
-
-### DISCOVERY #3
-<i>NEW LAW OF CONSEVATION OF ENERGY & FREE CLEAN ENERGY</i>
+<i>WAYS OF MULTIPLICATION OF ENERGY</i>
 
 3.1. Precedents of Conservation of Energy;<br>
 3.2. Energy-Isolated & Energy-Non-Isolated Systems;<br>
@@ -229,12 +222,20 @@ B. "Official" Concept of Work and "Official" Concept of Energy.
 3.6. New Energy & New Ability of Magnets;<br>
 3.7. New-Generation Generator of Electrical Energy.<br>
 
-### DISCOVERY #4
 
-4.1. First Correct Explanation of Bernoulli’s Equation;<br>
-4.2. New Concept of Charge;<br>
-4.3. New Concept of Mass;<br>
-4.4. New Concept of Electric Current.
+### DISCOVERY #4
+<i>DISCOVERING ENERGY OF A NEW SORT THAT WE CAN TAKE OUT</i>
+
+4.1. Discovering of Energy Disbalance
+4.2. Discovering of New Energy & New Ability of Magnets;<br>
+4.3. Electrical Energy New-Generation Generator.<br>
+
+### DISCOVERY #5
+
+5.1. First Correct Explanation of Bernoulli’s Equation;<br>
+5.2. New Concept of Charge;<br>
+5.3. New Concept of Mass;<br>
+5.4. New Concept of Electric Current.
 
 
 <p align="center">
