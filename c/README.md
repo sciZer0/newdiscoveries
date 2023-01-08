@@ -144,7 +144,7 @@ Exremely importantly, in each of the 4 cases,
 
 ## 2.4. New Concept of Work and New Concept of Energy
 
-In my opinion, any Work is the pushing done during some time with some effort (Force).
+In my opinion, any Work is the pushing that Organism is doing during some time by its Hand with some effort (Force).
 
 In other words, any Work is a push or combination of pushes.
 
