@@ -377,11 +377,17 @@ a — Real Acceleration of the pushed object during the given second (measur
 
 In my opinion, the true Newton’s Formula for Force is different, but the official Newton’s formula for Force works correctly in some cases.
 
-Let's consider a case (CASE #1) where the official formula for Force works correctly.
+Throughout this article, we will consider each of these cases:
 
-CASE #1
+<p align="center">
+  <img src="/assets/images/cases.png"/><br>
+</p>
 
-Let’s consider a case where a 20 kg object (metal solid object) is free-falling during 30 seconds.
+For now, let's consider CASE #3 where the official formula for Force works correctly.
+
+CASE #3
+
+A 20 kg object (metal solid object) is free-falling during 30 seconds.
 
 <p align="center">
   <img src="/assets/images/16.png"/><br>
