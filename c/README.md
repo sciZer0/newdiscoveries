@@ -126,7 +126,7 @@ Importantly, in each of the 4 cases,
 
 More importantly, in each of the 4 cases, 
 
-> ### Organism is pushing the 20 kg object by its Hand.
+> ### Organism is pushing the 20 kg object by its "Hand".
 
 In Case #1 and Case #2, Hand is the human's hand (say, your hand).
 
