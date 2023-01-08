@@ -79,26 +79,6 @@ And of course,
 
 > ### Work and Energy have the same unit of measure.
 
-Importantly, there are Target Works and Non-Target Works.
-
-Target Work is a work that is the target for System to be doing while working.
-
-Non-Target Work is Work that isn't the target for System but is unavoidable for System to be doing while doing Target Work-- meaning is additional but unavoidable.
-
-Target Work of System is the outside Work of System in relation of some object.
-
-Non-Target Work is the inside Work of System that System must unavoidably be doing inside itself while doing Target Work.
-
-In other words,
-
-Non-Target Work is the inside Work of System that System must unavoidably be doing inside itself in order to have the possibility of doing its Target Work.
-
-Summarizing,
-
-Non-Target Work is unavoidable for System and the amount of Energy which is being spent on Non-Target Work is just the "additional energy-price" that System is unavoidably "paying" in order to have the possibility of doing its Target Work.
-
-Of course, not all of Energies are spent on (are converted into) the Target Works. Those Energies that are spent on Non-Target Works, we consider our losses.
-
 --
 
 ## 2.2. New Concept of Work and New Concept of Energy
@@ -113,9 +93,43 @@ In my opinion,
 
 > **Work is the process when a System using its resources is pushing an object with a certain effort during some time.**
 
+
+Simply put, Work is the pushing done by System.
+
+Some of Works, at first glance, probably might not seem like they are the pushes. But this might only be just at first glance. In reality, any Work Work is a push or a combination of pushes. I will give you just one example.
+
+The heating-up is also a result of pushes, because any process of heating up an object is due to the increase in the velocities of particles inside the object. And the increase in the velocities of the particles occurs only because these particles are being pushed by some things. Therefore, any heating-up is the result of a lot of pushes. And this means that the heating-up is Work and that Energy (some resource) is always being spent on this Work.
+
 On the other hand,
 
 > **Energy is the resource for System to do Work**
+
+
+Importantly, there are Target Works and Non-Target Works.
+
+Target Work is a work that is the target for System to be doing while working.
+
+Non-Target Work is Work that isn't the target for System but is unavoidable for System to be doing while doing Target Work-- meaning is additional but unavoidable.
+
+Target Work of System is the outside Work of System in relation of some object.
+
+Non-Target Work is the inside Work of System that System must unavoidably be doing inside itself while doing Target Work.
+
+For example, for an Electric Motor (as an example of System):
+
+* Target Work is to be pushing the shaft.
+
+* Non-Target Work is to be heating up while doing Target Work
+
+In other words,
+
+Non-Target Work is the inside Work of System that System must unavoidably be doing inside itself in order to have the possibility of doing its Target Work.
+
+Summarizing,
+
+Non-Target Work is unavoidable for System and the amount of Energy which is being spent on Non-Target Work is just the "additional energy-price" that System is unavoidably "paying" in order to have the possibility of doing its Target Work.
+
+Of course, not all of Energies are spent on (are converted into) the Target Works. Those Energies that are spent on Non-Target Works, we consider our losses.
 
 --
 
