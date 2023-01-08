@@ -188,7 +188,7 @@ ____
 A. Official Concept of Force<br>
 B. Official Concept of Work and Official Concept of Energy
 
-### NEW DISCOVERIES CHANGING ALL SCIENCE
+### New Discoveries Changing All Science
 
 ### DISCOVERY #1
 <i>FUNDAMENTAL ERRORS IN SCIENCE</i>
@@ -668,15 +668,16 @@ This formula above is absolutely wrong and this is explained in Discovery #1.
 As we can see, science (in my opinion, wrongly) believes that the real reason for the difference in the distances is Gravitational Force — the more Distance (D) traveled by the object during any given second, the more Work is done by Gravitational Force during the given second.
   
 In other words, science believes that that difference in the distances (9.8 m) is due to the different-in-size Work that Gravitational Force (Invisible Hand) is doing during every second — the more Distance (D) traveled by the object during any given second, the more Work is done by Gravitational Force during the given second.
+  
+___
 
-NEW DISCOVERIES CHANGING ALL SCIENCE
+### New Discoveries Changing All Science
 
-Discovery #1
+### DISCOVERY #1
+<i>FUNDAMENTAL ERRORS IN SCIENCE</i>
 
-FUNDAMENTAL ERRORS IN SCIENCE
-
-1.1. One of Sufficient Fundamental Errors in Science;<br>
-1.2. Endless Series of Fundamental Errors in Science.
+1.1. One of Sufficient Fundamental Errors in Science<br>
+1.2. Endless Series of Errors in Science
 
 _______
 
