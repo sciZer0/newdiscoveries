@@ -75,6 +75,8 @@ On the other hand,
 
 > **Energy is the resource for System to do Work.**
 
+Of course, Work and Energy have the same unit of measure.
+
 --
 
 ## 2.2. New Concept of Work and New Concept of Energy
