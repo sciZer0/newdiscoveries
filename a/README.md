@@ -259,6 +259,7 @@ ___
 A. Official Concept of Force<br>
 B. Official Concept of Work and Official Concept of Energy
 
+--
 
 ## A. Official Concept of Force
 
@@ -500,15 +501,15 @@ Now, we might say that while free-falling during every moment:
 
 · the 50 kg object is being pushed by Force equal to 490 Newtons.
 
----
+--
 
-### B. "Official" Concept of Work and "Official" Concept of Energy
+## B. Official Concept of Work and Official Concept of Energy
 
-We already know that science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
+We already know that that official science considers that the Universe/Nature in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
-Plus, official science thinks that the Universe (Big Organism) can do its work by Gravitational Force (Invisible Hand).
+Plus, we already know that official science thinks that the Universe (Big Organism) can do its work by Gravitational Force (Invisible Hand).
 
-Also, we know that in the vision of official science all that Gravitational Force (Invisible Hand) can EVER be doing during ANY given moment of time is to only be pushing an object downwards.
+Also, we already know that in the vision of official science all that Gravitational Force (Invisible Hand) can EVER be doing during ANY given moment of time is to only be pushing an object downwards.
 
 I absolutely agree with everything above.
 
@@ -679,7 +680,7 @@ ___
 1.1. One of Sufficient Fundamental Errors in Science<br>
 1.2. Endless Series of Errors in Science
 
-_______
+--
 
 ## 1.1. One of Sufficient Fundamental Errors in Science
 
