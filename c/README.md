@@ -31,23 +31,20 @@ All these fundamental errors together result in the endless series of errors in 
 ### DISCOVERY #2
 <i>NEW FORMULAS FOR FORCE, WORK, ENERGY, POWER</i>
 
-2.1. Work and Energy in the Most General Sense;<br>
-2.2. New Concept of Force;<br>
-2.3. New Definition of Force;<br>
-2.4. Target Acceleration as the feature of each Force;<br>
-2.5. New Formula for Force;<br>
-2.6. New Understanding of the magnitude of Force;<br>
-2.7. Work and Energy in the Most General Sense;<br>
-2.8. New Concept of Work and New Concept of Energy;<br>
-2.9. New Universal Formula for Work and Energy;<br>
-2.10. New Unit of Measure for Work and Energy;<br>
-2.10. Static Mechanical Work;<br>
-2.11. Calculations with New Formulas and Explanations;<br>
-2.12. New Formula for Kinetic Energy<br>
-2.14. explanation of the well-known Kinetic Energy Paradox;<br>
-2.15. New Formula for Potential Energy;<br>
-2.16. New Formula for Power.<br>
-2.17. New Law of Conservation of Energy
+2.1. Work and Energy in the Most General Sense<br>
+2.2. New Concept of Work and New Concept of Energy<br>
+2.3. New Law of Conservation of Energy<br>
+2.4. New Concept of Force<br>
+2.5. Target Acceleration as the feature of each Force<br>
+2.6. New Formula for Force<br>
+2.7. New Understanding of the magnitude of Force<br>
+2.8. New Universal Formula for Work and Energy<br>
+2.9. New Unit of Measure for Work and Energy<br>
+2.10. Static Mechanical Work<br>
+2.11. Calculations with New Formulas<br>
+2.12. New Formula for Kinetic Energy, canceling Kinetic Energy Paradox<br>
+2.13. New Formula for Potential Energy;<br>
+2.14. New Formula for Power.<br>
 
 --
 
@@ -85,24 +82,23 @@ And of course,
 
 Importantly, when System using its resources is pushing an object in a certain direction during some time, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
 
-Each pusshing done by System requires Energy (some resource).
+The truth is each of the following:
 
-Each pusshing done by System is spending Energy (some resource).
+* Each pusshing done by System requires Energy (some resource).
 
-In my opinion,
+* Each pusshing done by System is spending Energy (some resource).
+
+The New Concept of Work is:
 
 > **Work is the process when a System using its resources is pushing an object with a certain effort during some time.**
 
+In other words,
 
-Simply put, Work is the pushing done by System.
+Work is the pushing done by System.
 
-Some of Works, at first glance, probably might not seem like they are the pushes. But this might only be just at first glance. In reality, any Work Work is a push or a combination of pushes. I will give you just one example.
+The New Concept of Energy is:
 
-The heating-up is also a result of pushes, because any process of heating up an object is due to the increase in the velocities of particles inside the object. And the increase in the velocities of the particles occurs only because these particles are being pushed by some things. Therefore, any heating-up is the result of a lot of pushes. And this means that the heating-up is Work and that Energy (some resource) is always being spent on this Work.
-
-On the other hand,
-
-> **Energy is the resource for System to do Work**
+> **Energy is the resource for System to do Work -- to be pushing an object**
 
 
 Importantly, there are Target Works and Non-Target Works.
@@ -161,21 +157,7 @@ Now, whether you like it or not, but the New Law of Conservation of Energy -- wh
 
 --
 
-## 2.4. New Concept of Force
-
-The New Concept of Force includes the following:
-
-* New Definition of Force
-
-* Target Acceleration as the feature of each Force -- a new concept
-
-* New Formula for Force
-
-* New Understanding of the magnitude of Force
-
---
-
-## 2.2. New Definition of Force
+## 2.2. New Concept of Force
 
 Of course,
 
@@ -214,7 +196,7 @@ Note: strive means to make an effort to accomplish a target
 
 Importantly, when a System using its resources is pushing an object in a certain direction, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent.
 
-The New Definition of Force is:
+The New Concept of Force is:
 
 > **Force is the process when a System using its resources is pushing an object, spending, for every moment, the absolutely enough resource/energy to increase Velocity of the pushed object at the rate equal to Target Acceleration.**
 
