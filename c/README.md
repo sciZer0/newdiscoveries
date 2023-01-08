@@ -43,8 +43,8 @@ All these fundamental errors together result in the endless series of errors in 
 2.10. Static Mechanical Work<br>
 2.11. Calculations with New Formulas<br>
 2.12. New Formula for Kinetic Energy, canceling Kinetic Energy Paradox<br>
-2.13. New Formula for Potential Energy;<br>
-2.14. New Formula for Power.<br>
+2.13. New Formula for Potential Energy<br>
+2.14. New Formula for Power<br>
 
 --
 
