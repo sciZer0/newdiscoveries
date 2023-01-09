@@ -98,43 +98,41 @@ And of course,
 
 ## 2.2. Concept of Organism and its Hand
 
-Let's consider the 4 cases simultaneously:
+Let's consider the 3 cases simultaneously:
 
 <p align="center">
   <img src="/assets/images/cases.png"/><br>
 </p>
 
-In Case #1, a human is very very slowly lifting the 20 kg object during 30 seconds.<br>
-In Case #2, a human is holding the 20 kg object motionless in the air during 30 seconds.<br>
-In Case #3, the 20 kg object is free-falling during 30 seconds.<br>
-In Case #4, the 20 kg object is sitting motionless on the table during 30 seconds.<br>
+In Case #1, a human is holding the 20 kg object motionless in the air during 30 seconds.<br>
+In Case #2, the 20 kg object is free-falling during 30 seconds.<br>
+In Case #3, the 20 kg object is sitting motionless on the table during 30 seconds.<br>
+
 
 What is happening in reality is the following:
 
 In Case #1, a human is pushing upwards the 20 kg object during 30 seconds.<br>
-In Case #2, a human is pushing upwards the 20 kg object during 30 seconds.<br>
+In Case #2, the Universe is pushing downwards the 20 kg object during 30 seconds.<br>
 In Case #3, the Universe is pushing downwards the 20 kg object during 30 seconds.<br>
-In Case #4, the Universe is pushing downwards the 20 kg object during 30 seconds.<br>
 
-In Case #1 and Case #2, Organism is a human (say, you).
+In Case #1, Organism is a human (say, you).
+In Case #2 and Case #3, Organism is the Universe/Nature.
 
-In Case #3 and Case #4, Organism is the Universe/Nature.
-
-Importantly, in each of the 4 cases,
+Importantly, in each of the 3 cases,
 
 > ### Organism is pushing the 20 kg object.
 
-More importantly, in each of the 4 cases, 
+More importantly, in each of the 3 cases, 
 
 > ### Organism is pushing the 20 kg object by its "Hand".
 
-In Case #1 and Case #2, Hand is the human's hand (say, your hand).
+In Case #1, Hand is the human's hand (say, your hand).
 
-In Case #3 and Case #4, Hand is Gravitational Force (Invisible Hand). 
+In Case #2 and Case #3, Hand is Gravitational Force (Invisible Hand). 
 
 *More on Gravitational Force (Invisible Hand) is [here](https://github.com/sciZer0/newdiscoveries/tree/main/a).*
 
-Extremely importantly, in each of the 4 cases, 
+Extremely importantly, in each of the 3 cases, 
 
 > ### During every moment of 30 seconds, Organism by its Hand is pushing the 20 kg object with the same effort (Force) equal 196 Newtons.
 
