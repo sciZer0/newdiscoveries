@@ -134,29 +134,21 @@ In Case #3 and Case #4, Hand is Gravitational Force (Invisible Hand).
 
 *More on Gravitational Force (Invisible Hand) is [here](https://github.com/sciZer0/newdiscoveries/tree/main/a).*
 
-Exremely importantly, in each of the 4 cases, 
+Extremely importantly, in each of the 4 cases, 
 
 > ### During every moment of 30 seconds, Organism by its Hand is pushing the 20 kg object with the same effort (Force) equal 196 Newtons.
 
-*More on how to calculate the effort (Force) with which Organism is pushing the 20 kg object a bit below.*
+*More on how, in each of the 4 cases, to calculate the effort (Force) with which Organism is pushing the 20 kg object a bit below.*
 
 --
 
-## 2.4. New Concept of Work and New Concept of Energy
-
-In my opinion, any Work is the pushing that Organism is doing during some time by its Hand with some effort (Force).
-
-In other words, any Work is a push or combination of pushes.
-
-At first glance, some of Works might probably not seem to someone that these are the pushings. But in reality, any Work is a push or combination of pushes. I will give you just one example below.
-
-The heating-up is also a result of pushes, because any process of heating up an object is due to the increase in the velocities of particles inside the object. And the increase in the velocities of the particles occurs only because these particles are being pushed by some things. Therefore, any heating-up is the result of a lot of pushes. And this means that the heating-up is Work and that Energy (some resource) is always being spent on this Work.
+## 2.3. New Concept of Work and New Concept of Energy
 
 In my opinion,
 
-when Organism using its resources is pushing an object in a certain direction during some time by its Hand with some effort, even if the object is being motionless while the pushing, it cannot be for free --  some resource is being spent on the pushing.
+when Organism using its resources is pushing an object in a certain direction during a certain time by its Hand with a certain effort (Force) -- even if the object is staying motionless while the pushing, the pushing cannot be for free: some resource is being spent on the pushing.
 
-Let's consider again the 4 cases simultaneously:
+Let's again consider the 4 cases simultaneously:
 
 <p align="center">
   <img src="/assets/images/cases.png"/><br>
@@ -164,22 +156,11 @@ Let's consider again the 4 cases simultaneously:
 
 Importantly, in each of the 4 cases, 
 
-Organism using its resources is pushing an object in a certain direction during 30 seconds by its Hand with same effort (Force) equal to 196 Newtons, and even when the object is being motionless while the pushing (Case #2 and Case #4), it cannot be for free --  some resource is being spent on the pushing.
+Organism using its resources is pushing the object in a certain direction during 30 seconds by its Hand with same effort (Force) equal to 196 Newtons --  and even when the object is being motionless while the pushing (Case #2 and Case #4), the pushing cannot be for free: some resource is being spent on the pushing.
 
 The New Concept of Work is:
 
-> ### Work is the process when a Organism using its resources is pushing an object during some time by its Hand with a certain effort (Force).
-
-In other words,
-
-Work is the pushing done by Organism.
-
-The truth is each of the following:
-
-* Each pusshing done by Organism requires Energy (some resource);
-
-* Each pusshing done by Organism is spending Energy (some resource);
-
+> ### Work is the process when Organism using its resources is pushing an object in a certain direction during a certain time by its Hand with a certain effort (Force).
 
 On the other hand, as we already know:
 
@@ -187,8 +168,7 @@ Energy is the resource for Organism to be doing Work.
 
 The New Concept of Energy is:
 
-> ### Energy is the resource for Organism to be pushing an object during some time by its Hand with some effort (Force).
-
+> ### Energy is the resource for Organism to be pushing an object in a certain direction during a certain time by its Hand with a certain effort (Force).
 
 --
 
@@ -285,7 +265,7 @@ Of course, it all is so.
 
 But simultaneously,
 
-Force is the process when a Organism using its resources is pushing an object, striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing. Of course, the increase is possible if there isn't the same in magnitude Force being counter.
+Force is the process when Organism using its resources is pushing an object, striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing. Of course, the increase is possible if there isn't the same in magnitude Force being counter.
 
 Note: strive means to make an effort to accomplish a target
 
@@ -293,7 +273,7 @@ Importantly, when a Organism using its resources is pushing an object in a certa
 
 The New Concept of Force is:
 
-> **Force is the process when a Organism using its resources is pushing an object, spending, for every moment, the absolutely enough resource/energy to increase Velocity of the pushed object at the rate equal to Target Acceleration.**
+> **Force is the process when Organism using its resources is pushing an object, spending, for every moment, the absolutely enough resource/energy to increase Velocity of the pushed object at the rate equal to Target Acceleration.**
 
 --
 
