@@ -60,13 +60,17 @@ All these fundamental errors together result in the endless series of errors in 
 
 ## 2.1. New Law of Conservation of Energy
 
-Importantly, Energy is not the thing that official science says it is. Official science doesn't know what Energy is.
+As we already know, Energy is the recourse to do Work.
 
-The wrongness of all the official formulas for calculating Energy is a proven fact. Proven by logic. The [link](https://github.com/sciZer0/newdiscoveries/tree/main/a).
+It is so.
 
-Before I postulate the New Law of Conservation of Energy, it is needed to say that I had been loving the "old" Law of Conservation of Energy for a long time.
+But the problem is that official science doesn't know what Work is and what Energy is.
 
-The "old" Law is so beautiful and easily-understandable: 
+The wrongness of all the official formulas for calculating Work and Energy is a proven fact. Proven by logic: the [link](https://github.com/sciZer0/newdiscoveries/tree/main/a).
+
+Before I postulate the New Law of Conservation of Energy, it is needed to say that I had been loving the "old" law of Conservation of Energy for a long time.
+
+The "old" law is so beautiful and easily-understandable: 
 
 *Energy can neither be created nor destroyed — only converted from one form of Energy to another.*
 
@@ -94,7 +98,7 @@ Below we will see confirmation of this New Law of Conservation of Energy.
 
 ## 2.2. Work and Energy in the Most General Sense
 
-In modern science the whole logic about Energy is absolutely wrong, so we need to start from the very beginning, from defining Work and Energy in the Most General Sense.
+In modern science the whole logic about Work and Energy is absolutely wrong, so we need to start from the very beginning, from defining Work and Energy in the Most General Sense.
 
 So.
 
@@ -168,10 +172,6 @@ So we may say that
 
 > ### Hand is the thing by which Organism is pushing an object.
 
-Extremely importantly, in each of the 3 cases, 
-
-> ### During every moment of 30 seconds, Organism by its Hand is pushing the 20 kg object with the same Force (effort) equal to 196 Newtons.
-
 --
 
 ## 2.3. New Concept of Work and New Concept of Energy
@@ -185,23 +185,19 @@ Let's again consider the 3 cases simultaneously:
 
 Importantly, in each of the 3 cases, Organism is doing the same action:
 
-Organism is pushing the object in a certain direction during 30 seconds by its Hand with same Force (effort) equal to 196 Newtons.
+During every moment of 30 seconds, Organism, by its Hand applying the same non-zero Force (effort) equal to 196 Newtons, is pushing the object in a certain direction.
 
 **Since in each of the 3 cases, Organism is doing the same action and we exactly know that in Case #2 Organism, while doing the pushing, is doing Mechanical Work and is spending its Energy (resource) on this Work, then it means that in Case 1# and Case #3, Organism, while doing the pushing, is also doing Mechanical Work (Static Mechanical Work) and is also spending its Energy (resource) on this Work.**
 
-Bingo!
+Bingo! Static Mechanical Work exists.
 
-Please if you did not understand the thing above, read it again.
+Please if you did not understand this "bold" thing above, read it again.
 
 The New Concept of Work (Mechanical Work) is:
 
-> ### Mechanical Work (Work) is the process when Organism, by its Hand applying a certain Force (effort), is pushing an object in a certain direction during every moment of a certain time period.
+> ### Mechanical Work (Work) is the process when Organism, by its Hand applying a certain non-zero Force (effort), is pushing an object in a certain direction during every moment of a certain time period.
 
-In other words,
-
-Mechanical Work (Work) is the process when Organism, by its Hand applying a NON-ZERO Force (effort), is pushing an object in a certain direction during every moment of a certain time period.
-
-Importantly -- applying a non-zero Force (effort)!
+Importantly -- applying a certain NON-ZERO Force (effort)!
 
 On the other hand, as we already know:
 
@@ -209,7 +205,7 @@ Energy is the resource for Organism to be doing Work.
 
 The New Concept of Energy is:
 
-> ### Energy is the resource for Organism to be pushing an object in a certain direction during every moment of a certain time period, by its Hand applying a certain Force (effort).
+> ### Energy is the resource for Organism to be pushing an object in a certain direction during every moment of a certain time period, by its Hand applying a certain non-zero Force (effort).
 
 Now more on Work.
 
