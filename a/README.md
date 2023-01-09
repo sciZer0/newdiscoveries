@@ -671,7 +671,7 @@ This formula above is absolutely wrong and this is explained in Discovery #1.
 
 >ATTENTION: In my opinion, the "Official" Formula of Work and the "Official" Formula of Energy are absolutely wrong.
 
-As we can see, science (in my opinion, wrongly) believes that the real reason for the difference in the distances is Gravitational Force — the more Distance (D) traveled by the object during any given second, the more Work is done by Gravitational Force during the given second.
+As we can see, science believes that the real reason for the difference in the distances is Gravitational Force — the more Distance (D) traveled by the object during any given second, the more Work is done by Gravitational Force during the given second.
   
 In other words, science believes that that difference in the distances (9.8 m) is due to the different-in-size Work that Gravitational Force (Invisible Hand) is doing during every second — the more Distance (D) traveled by the object during any given second, the more Work is done by Gravitational Force during the given second.
   
@@ -948,9 +948,16 @@ Of course, this all means the total wrongness to use the Joule as the unit of me
 
 So.
 
+Official science mistakenly believes that that difference in the distances (9.8 m) is due to the different-in-size Work that Gravitational Force (Invisible Hand) is doing during every second — the more Distance (D) traveled by the object during any given second, the more Work is done by Gravitational Force during the given second.
+
 The real reason for this difference in the distances IS NOT Gravitational Force.
 
 The real reason for this difference in the distances IS Inertia.
+
+A more Distance (D) traveled by the object during any given second is due the more Inertial Distance (D2) traveled by the object during the given second.
+
+
+> ### The more Distance (D) traveled by the object during any given second, the more Inertial Distance (D2) traveled by the object during the given second.
 
 Unfortunately, official science absolutely fails to understand this.
 
