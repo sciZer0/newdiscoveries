@@ -116,6 +116,7 @@ In Case #2, the Universe is pushing downwards the 20 kg object during 30 seconds
 In Case #3, the Universe is pushing downwards the 20 kg object during 30 seconds.<br>
 
 In Case #1, Organism is a human (say, you).
+
 In Case #2 and Case #3, Organism is the Universe/Nature.
 
 Importantly, in each of the 3 cases,
@@ -132,33 +133,33 @@ In Case #2 and Case #3, Hand is Gravitational Force (Invisible Hand).
 
 *More on Gravitational Force (Invisible Hand) is [here](https://github.com/sciZer0/newdiscoveries/tree/main/a).*
 
+> ### Hand is the thing by which Organism is pushing an object.
+
 Extremely importantly, in each of the 3 cases, 
 
-> ### During every moment of 30 seconds, Organism by its Hand is pushing the 20 kg object with the same effort (Force) equal 196 Newtons.
-
-*More details on -- how to calculate the effort (Force) with which Organism is pushing an object -- a bit below.*
+> ### During every moment of 30 seconds, Organism by its Hand is pushing the 20 kg object with the same Force (effort) equal to 196 Newtons.
 
 --
 
 ## 2.3. New Concept of Work and New Concept of Energy
 
-In my opinion,
 
-when Organism is pushing an object in a certain direction during a certain time by its Hand with a certain effort (Force) -- even if the pushed object is staying motionless while the pushing, the pushing cannot be for free: some resource is being spent on the pushing.
-
-Let's again consider the 4 cases simultaneously:
+Let's again consider the 3 cases simultaneously:
 
 <p align="center">
   <img src="/assets/images/cases.png"/><br>
 </p>
 
-Importantly, in each of the 4 cases, 
+Importantly, in each of the 3 cases, Organism is doing the same action:
 
-Organism using its resources is pushing the object in a certain direction during 30 seconds by its Hand with same effort (Force) equal to 196 Newtons --  and even when the object is staying motionless while the pushing (Case #2 and Case #4), the pushing cannot be for free: some resource is being spent on the pushing.
+Organism, using its resources is pushing the 20 kg object in a certain direction during 30 seconds by its Hand with same Force (effort) equal to 196 Newtons.
 
-The New Concept of Work is:
+**Since in each of the 3 cases, Organism is doing the same action and we exactly know that in Case #2 Organism is doing Mechanical Work and is spending its Energy (resource) on this Work, then it means that in Case 1# and Case #3, Organism is also doing Mechanical Work (Static Mechanical Work) and is also spending its Energy (resource) on this Work.**
 
-> ### Work is the process when Organism using its resources is pushing an object in a certain direction during a certain time by its Hand with a certain effort (Force).
+The New Concept of Work (Mechanical Work) is:
+
+> ### Mechanical Work (Work) is the process when Organism using its resources is pushing an object in a certain direction during a certain time by its Hand with a certain effort (Force).
+
 
 On the other hand, as we already know:
 
@@ -167,6 +168,20 @@ Energy is the resource for Organism to be doing Work.
 The New Concept of Energy is:
 
 > ### Energy is the resource for Organism to be pushing an object in a certain direction during a certain time by its Hand with a certain effort (Force).
+
+Now more on Work.
+
+Any Work is Mechanical Work.
+
+Any Work (Mechanical Work) is a push or combination of pushes.
+
+Even though some of Works might probably not seem to someone that these are Mechanical Work, in reality, any Work is a push or combination of pushes. I will give you just one example below.
+
+The heating-up is also a combination of pushes, because any process of heating up an object is due to the increase in the velocities of particles inside the object. And the increase in the velocities of the particles occurs only because these particles are being pushed by some things ("Hands"). Therefore, any heating-up is the result of a lot of pushes. And this means that the heating-up is Work and that Energy (some resource) is always being spent on this Work.
+
+
+
+
 
 --
 
