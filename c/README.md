@@ -37,12 +37,12 @@ All these fundamental errors together result in the endless series of errors in 
 ### DISCOVERY #2
 <i>NEW FORMULAS FOR FORCE, WORK, ENERGY, POWER</i>
 
+2.1. New Law of Conservation of Energy<br>
 2.1. Work and Energy in the Most General Sense<br>
 2.2. Concept of Organism and its Hand<br>
 2.3. Undersdanding the Process of Pushing, Force<br>
 2.4. New Concept of Work and New Concept of Energy<br>
 2.5. Target Works and Non-Target Works<br>
-2.6. New Law of Conservation of Energy<br>
 2.7. New Concept of Force<br>
 2.8. Target Acceleration as the feature of each Force<br>
 2.9. New Formula for Force<br>
@@ -57,13 +57,48 @@ All these fundamental errors together result in the endless series of errors in 
 
 --
 
-## 2.1. Work and Energy in the Most General Sense
+
+## 2.1. New Law of Conservation of Energy
+
+Importantly, Energy is not the thing that official science says it is. Official science doesn't know what Energy is.
+
+The wrongness of all the official formulas for calculating Energy is a proven fact. Proven by logic. The [link](https://github.com/sciZer0/newdiscoveries/tree/main/a).
+
+Before I postulate the New Law of Conservation of Energy, it is needed to say that I had been loving the "old" Law of Conservation of Energy for a long time.
+
+The "old" Law is so beautiful and easily-understandable: 
+
+*Energy can neither be created nor destroyed — only converted from one form of Energy to another.*
+
+Even some cases proved this law.
+
+The law looked symmetrical, harmonious, ideal and true. 
+
+I was loving it a lot.
+
+But, my findings prove that this law is just the "wishful thinking".
+
+And the "wishful thinking" isn’t useful in science.
+
+Truth is not what we should love a lot but what is in reality.
+
+Official science mistakenly considers that Energy is only the thing that can always be converted to another form Energy, but in reality Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be converted back to Energy.
+
+Now, whether you like it or not, but the New Law of Conservation of Energy -- which is a true Law of Conservation of Energy -- is following:
+
+> **In some cases, Energy can neither be created nor destroyed — only converted from one form of Energy to another, but in another cases, Energy can be taken for free or can be destroyed**
+
+Below we will see confirmation of this New Law of Conservation of Energy.
+
+--
+
+## 2.2. Work and Energy in the Most General Sense
 
 In modern science the whole logic about Energy is absolutely wrong, so we need to start from the very beginning, from defining Work and Energy in the Most General Sense.
 
 So.
 
-Even official science considers that The Universe in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
+Even official science considers that the Universe in general is a big organism which is much similar to your organism; and just like your organism, this Big Organism can do some work and always, just like your organism, this Big Organism must spend some resource (energy) of the organism on this work.
 
 Importantly, I absolutely agree with this above.
 
@@ -73,8 +108,7 @@ Of course, we might use the "System" word instead of the "Organism" word but the
 
 So, 
 
-> ### Organism is anyone (anything) that can be doing Work
-
+> ### Organism is anyone (anything) that can be doing Work.
 
 In my opinion, in the most general sense,
 
@@ -95,8 +129,7 @@ And of course,
 
 --
 
-
-## 2.2. Concept of Organism and its Hand
+## 2.3. Concept of Organism and its Hand
 
 Let's consider the 3 cases simultaneously:
 
@@ -152,14 +185,23 @@ Let's again consider the 3 cases simultaneously:
 
 Importantly, in each of the 3 cases, Organism is doing the same action:
 
-Organism, using its resources, is pushing the object in a certain direction during 30 seconds by its Hand with same Force (effort) equal to 196 Newtons.
+Organism is pushing the object in a certain direction during 30 seconds by its Hand with same Force (effort) equal to 196 Newtons.
 
-**Since in each of the 3 cases, Organism is doing the same action and we exactly know that in Case #2 Organism is doing Mechanical Work and is spending its Energy (resource) on this Work, then it means that in Case 1# and Case #3, Organism is also doing Mechanical Work (Static Mechanical Work) and is also spending its Energy (resource) on this Work.**
+**Since in each of the 3 cases, Organism is doing the same action and we exactly know that in Case #2 Organism, while doing the pushing, is doing Mechanical Work and is spending its Energy (resource) on this Work, then it means that in Case 1# and Case #3, Organism, while doing the pushing, is also doing Mechanical Work (Static Mechanical Work) and is also spending its Energy (resource) on this Work.**
+
+Bingo!
+
+Please if you did not understand the thing above, read it again.
 
 The New Concept of Work (Mechanical Work) is:
 
 > ### Mechanical Work (Work) is the process when Organism, by its Hand applying a certain Force (effort), is pushing an object in a certain direction during every moment of a certain time period.
 
+In other words,
+
+Mechanical Work (Work) is the process when Organism, by its Hand applying a NON-ZERO Force (effort), is pushing an object in a certain direction during every moment of a certain time period.
+
+Importantly -- applying a non-zero Force (effort)!
 
 On the other hand, as we already know:
 
@@ -183,7 +225,7 @@ Importantly, there are Target Works and Non-Target Works.
 
 --
 
-## 2.5. Target Works and Non-Target Works
+## 2.4. Target Works and Non-Target Works
 
 So, there are Target Works and Non-Target Works.
 
@@ -213,39 +255,7 @@ Of course, not all of Energies are spent on (are converted to) the Target Works.
 
 --
 
-## 2.6. New Law of Conservation of Energy
-
-Importantly, Energy is not the thing that official science says it is. Official science doesn't know what Energy is.
-
-The wrongness of all the official formulas for calculating Energy is a proven fact. Proven by logic. The [link](https://github.com/sciZer0/newdiscoveries/tree/main/a).
-
-Before I postulate the New Law of Conservation of Energy, it is needed to say that I had been loving the “old” Law of Conservation of Energy for a long time.
-
-The “old” Law is so beautiful and easily-understandable: 
-
-*Energy can neither be created nor destroyed — only converted from one form of Energy to another.*
-
-This law looked symmetrical, harmonious, ideal and true. 
-
-I was loving it a lot.
-
-But, this law is just the "wishful thinking".
-
-And the "wishful thinking" isn’t useful in science.
-
-Truth is not what we should love a lot but what is in reality.
-
-Official science mistakenly considers that Energy is only the thing that can always be converted to another form Energy, but in reality Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be converted back to Energy.
-
-Now, whether you like it or not, but the New Law of Conservation of Energy -- which is a true Law of Conservation of Energy -- is following:
-
-> **In some cases, Energy can neither be created nor destroyed — only converted from one form of Energy to another, but in another cases, Energy can be taken for free or can be destroyed**
-
-Below we will see confirmation of this New Law of Conservation of Energy.
-
---
-
-## 2.7. New Concept of Force
+## 2.5. New Concept of Force
 
 Of course,
 
@@ -293,7 +303,7 @@ The New Concept of Force is:
 
 --
 
-## 2.8. Target Acceleration as the feature of each Force
+## 2.6. Target Acceleration as the feature of each Force
 
 Target Acceleration as the feature of each Force is an important concept.
 
@@ -314,7 +324,7 @@ In other words, Target Acceleration is THE feature/attribute/characteristic of e
 The concept of Target Acceleration works like the Butterfly Effect, this new concept changes everything in science.
 
 
-## 2.9. New Formula for Force
+## 2.7. New Formula for Force
 
 The New Formula for Force is:
 <p align="center">
