@@ -954,8 +954,7 @@ The real reason for this difference in the distances IS NOT Gravitational Force.
 
 The real reason for this difference in the distances IS Inertia.
 
-A more Distance (D) traveled by the object during any given second is due the more Inertial Distance (D2) traveled by the object during the given second.
-
+A more Distance (D) traveled by the object during any given second is just due the more Inertial Distance (D2) traveled by the object during the given second -- not more Work done by Gravitational Force during the given second.
 
 > ### The more Distance (D) traveled by the object during any given second, the more Inertial Distance (D2) traveled by the object during the given second.
 
