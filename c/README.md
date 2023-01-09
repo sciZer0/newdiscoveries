@@ -57,46 +57,7 @@ All these fundamental errors together result in the endless series of errors in 
 
 --
 
-
-## 2.1. New Law of Conservation of Energy
-
-As we already know, Energy is the recourse to do Work.
-
-It is so.
-
-But the problem is that official science doesn't know what Work is and what Energy is.
-
-The wrongness of all the official formulas for calculating Work and Energy is a proven fact. Proven by logic: the [link](https://github.com/sciZer0/newdiscoveries/tree/main/a).
-
-Before I postulate the New Law of Conservation of Energy, it is needed to say that I had been loving the "old" law of Conservation of Energy for a long time.
-
-The "old" law is so beautiful and easily-understandable: 
-
-*Energy can neither be created nor destroyed — only converted from one form of Energy to another.*
-
-Even some cases proved this law.
-
-The law looked symmetrical, harmonious, ideal and true. 
-
-I was loving it a lot.
-
-But, my findings prove that this law is just the "wishful thinking".
-
-And the "wishful thinking" isn’t useful in science.
-
-Truth is not what we should love a lot but what is in reality.
-
-Official science mistakenly considers that Energy is only the thing that can always be converted to another form Energy, but in reality Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be converted back to Energy.
-
-Now, whether you like it or not, but the New Law of Conservation of Energy -- which is a true Law of Conservation of Energy -- is following:
-
-> **In some cases, Energy can neither be created nor destroyed — only converted from one form of Energy to another, but in another cases, Energy can be taken for free or can be destroyed**
-
-Below we will see confirmation of this New Law of Conservation of Energy.
-
---
-
-## 2.2. Work and Energy in the Most General Sense
+## 2.1. Work and Energy in the Most General Sense
 
 In modern science the whole logic about Work and Energy is absolutely wrong, so we need to start from the very beginning, from defining Work and Energy in the Most General Sense.
 
@@ -133,7 +94,7 @@ And of course,
 
 --
 
-## 2.3. Concept of Organism and its Hand
+## 2.2. Concept of Organism and its Hand
 
 Let's consider the 3 cases simultaneously:
 
@@ -341,6 +302,45 @@ and also that
 each Force has its target, meaning that each Force has such a feature/attribute/characteristic as Target Acceleration.
 
 ---
+
+
+
+
+
+
+
+
+## 2.8. New Law of Conservation of Energy
+
+All official formulas for calculating Work and Energy are absolutely wrong.
+
+The wrongness of all the official formulas for calculating Work and Energy is a proven fact. The fact was proven [here](https://github.com/sciZer0/newdiscoveries/tree/main/a).
+
+Before I postulate the New Law of Conservation of Energy, it is needed to say that I had been loving the "old" law of Conservation of Energy for a long time.
+
+The "old" law is so beautiful and easily-understandable: 
+
+*Energy can neither be created nor destroyed — only converted from one form of Energy to another.*
+
+Even some cases proved this law.
+
+The law looked symmetrical, harmonious, ideal and true. 
+
+I was loving it a lot.
+
+But, my findings prove that this law is just the "wishful thinking".
+
+And the "wishful thinking" isn’t useful in science.
+
+Truth is not what we should love a lot but what is in reality.
+
+Official science mistakenly considers that Energy is only the thing that can always be converted to another form Energy, but in reality Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be converted back to Energy.
+
+Now, whether you like it or not, but the New Law of Conservation of Energy -- which is a true Law of Conservation of Energy -- is following:
+
+> **In some cases, Energy can neither be created nor destroyed — only converted from one form of Energy to another, but in another cases, Energy can be taken for free or can be destroyed**
+
+Below we will see confirmation of this New Law of Conservation of Energy.
 
 
 
