@@ -131,7 +131,7 @@ In Case #1, Hand is the human's hand (say, your hand).
 
 In Case #2 and Case #3, Hand is Gravitational Force (Invisible Hand). 
 
-*More on Gravitational Force (Invisible Hand) is [here](https://github.com/sciZer0/newdiscoveries/tree/main/a).*
+So we may say that
 
 > ### Hand is the thing by which Organism is pushing an object.
 
@@ -152,13 +152,13 @@ Let's again consider the 3 cases simultaneously:
 
 Importantly, in each of the 3 cases, Organism is doing the same action:
 
-Organism, using its resources is pushing the 20 kg object in a certain direction during 30 seconds by its Hand with same Force (effort) equal to 196 Newtons.
+Organism, using its resources, is pushing the object in a certain direction during 30 seconds by its Hand with same Force (effort) equal to 196 Newtons.
 
 **Since in each of the 3 cases, Organism is doing the same action and we exactly know that in Case #2 Organism is doing Mechanical Work and is spending its Energy (resource) on this Work, then it means that in Case 1# and Case #3, Organism is also doing Mechanical Work (Static Mechanical Work) and is also spending its Energy (resource) on this Work.**
 
 The New Concept of Work (Mechanical Work) is:
 
-> ### Mechanical Work (Work) is the process when Organism using its resources is pushing an object in a certain direction during a certain time by its Hand with a certain effort (Force).
+> ### Mechanical Work (Work) is the process when Organism, by its Hand applying a certain Force (effort), is pushing an object in a certain direction during every moment of a certain time period.
 
 
 On the other hand, as we already know:
@@ -167,7 +167,7 @@ Energy is the resource for Organism to be doing Work.
 
 The New Concept of Energy is:
 
-> ### Energy is the resource for Organism to be pushing an object in a certain direction during a certain time by its Hand with a certain effort (Force).
+> ### Energy is the resource for Organism to be pushing an object in a certain direction during every moment of a certain time period, by its Hand applying a certain Force (effort).
 
 Now more on Work.
 
@@ -177,17 +177,15 @@ Any Work (Mechanical Work) is a push or combination of pushes.
 
 Even though some of Works might probably not seem to someone that these are Mechanical Work, in reality, any Work is a push or combination of pushes. I will give you just one example below.
 
-The heating-up is also a combination of pushes, because any process of heating up an object is due to the increase in the velocities of particles inside the object. And the increase in the velocities of the particles occurs only because these particles are being pushed by some things ("Hands"). Therefore, any heating-up is the result of a lot of pushes. And this means that the heating-up is Work and that Energy (some resource) is always being spent on this Work.
+The heating-up is also a combination of pushes, because any process of heating up an object is due to the increase in the velocities of particles inside the object. And the increase in the velocities of the particles occurs only because these particles are being pushed by some things ("Hands"). Therefore, any heating-up is a combination of pushes. And this means that the heating-up is Work and that Energy (some resource) is always being spent on this Work.
 
-
-
-
+Importantly, there are Target Works and Non-Target Works.
 
 --
 
 ## 2.5. Target Works and Non-Target Works
 
-Importantly, there are Target Works and Non-Target Works.
+So, there are Target Works and Non-Target Works.
 
 Target Work is Work that is the target for Organism to be doing while working.
 
@@ -217,21 +215,23 @@ Of course, not all of Energies are spent on (are converted to) the Target Works.
 
 ## 2.6. New Law of Conservation of Energy
 
-Importantly, Energy is not the thing official science says it is. *More on this a bit below.*
+Importantly, Energy is not the thing that official science says it is. Official science doesn't know what Energy is.
+
+The wrongness of all the official formulas for calculating Energy is a proven fact. Proven by logic. The [link](https://github.com/sciZer0/newdiscoveries/tree/main/a).
 
 Before I postulate the New Law of Conservation of Energy, it is needed to say that I had been loving the “old” Law of Conservation of Energy for a long time.
-
-I was really so loving it.
 
 The “old” Law is so beautiful and easily-understandable: 
 
 *Energy can neither be created nor destroyed — only converted from one form of Energy to another.*
 
-It seemed ideal and true, I was loving it a lot.
+This law looked symmetrical, harmonious, ideal and true. 
 
-But, this all is just “wishful thinking”.
+I was loving it a lot.
 
-And “wishful thinking” isn’t useful in science.
+But, this law is just the "wishful thinking".
+
+And the "wishful thinking" isn’t useful in science.
 
 Truth is not what we should love a lot but what is in reality.
 
@@ -241,7 +241,7 @@ Now, whether you like it or not, but the New Law of Conservation of Energy -- wh
 
 > **In some cases, Energy can neither be created nor destroyed — only converted from one form of Energy to another, but in another cases, Energy can be taken for free or can be destroyed**
 
-And below we will see confirmation of this New Law of Conservation of Energy.
+Below we will see confirmation of this New Law of Conservation of Energy.
 
 --
 
@@ -278,15 +278,18 @@ Of course, it all is so.
 
 But simultaneously,
 
-Force is the process when Organism using its resources is pushing an object, striving (by the pushing) to be increasing Velocity of the pushed object during every moment of pushing. Of course, the increase is possible if there isn't the same in magnitude Force being counter.
+Each Force is striving to accelerate Velocity of the pushed object.
 
-Note: strive means to make an effort to accomplish a target
+In other words,
 
-Importantly, when a Organism using its resources is pushing an object in a certain direction, even if the object is staying motionless while the pushing, it cannot be for free --  some resource is being spent.
+Force is the process where Organism, pushing an object by its Hand, is striving to increase Velocity of the pushed object at the rate equal to Target Acceleration.**
+
+Note: strive means to make an effort to accomplish a target.
 
 The New Concept of Force is:
 
-> **Force is the process when Organism using its resources is pushing an object, spending, for every moment, the absolutely enough resource/energy to increase Velocity of the pushed object at the rate equal to Target Acceleration.**
+> **Force is the process where Organism, pushing an object by its Hand, is spending, for every moment, the absolutely enough resource/energy to increase Velocity of the pushed object at the rate equal to Target Acceleration.
+
 
 --
 
