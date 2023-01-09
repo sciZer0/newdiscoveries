@@ -138,7 +138,7 @@ Extremely importantly, in each of the 4 cases,
 
 > ### During every moment of 30 seconds, Organism by its Hand is pushing the 20 kg object with the same effort (Force) equal 196 Newtons.
 
-*More on how, in each of the 4 cases, to calculate the effort (Force) with which Organism is pushing the 20 kg object a bit below.*
+*More details on -- how to calculate the effort (Force) with which Organism is pushing an object -- a bit below.*
 
 --
 
@@ -146,7 +146,7 @@ Extremely importantly, in each of the 4 cases,
 
 In my opinion,
 
-when Organism using its resources is pushing an object in a certain direction during a certain time by its Hand with a certain effort (Force) -- even if the object is staying motionless while the pushing, the pushing cannot be for free: some resource is being spent on the pushing.
+when Organism is pushing an object in a certain direction during a certain time by its Hand with a certain effort (Force) -- even if the pushed object is staying motionless while the pushing, the pushing cannot be for free: some resource is being spent on the pushing.
 
 Let's again consider the 4 cases simultaneously:
 
@@ -156,7 +156,7 @@ Let's again consider the 4 cases simultaneously:
 
 Importantly, in each of the 4 cases, 
 
-Organism using its resources is pushing the object in a certain direction during 30 seconds by its Hand with same effort (Force) equal to 196 Newtons --  and even when the object is being motionless while the pushing (Case #2 and Case #4), the pushing cannot be for free: some resource is being spent on the pushing.
+Organism using its resources is pushing the object in a certain direction during 30 seconds by its Hand with same effort (Force) equal to 196 Newtons --  and even when the object is staying motionless while the pushing (Case #2 and Case #4), the pushing cannot be for free: some resource is being spent on the pushing.
 
 The New Concept of Work is:
 
