@@ -121,11 +121,11 @@ In Case #2 and Case #3, Organism is the Universe/Nature.
 
 Importantly, in each of the 3 cases,
 
-> ### Organism is pushing the 20 kg object.
+> ### Organism is pushing the 20 kg object during 30 seconds.
 
 More importantly, in each of the 3 cases, 
 
-> ### Organism, by its "Hand", is pushing the 20 kg object.
+> ### Organism, by its "Hand", is pushing the 20 kg object during 30 seconds.
 
 In Case #1, Hand is the human's hand (say, your hand).
 
@@ -164,6 +164,12 @@ Extremely importantly, in each of the 3 cases,
 Organism, by its Hand, is pushing the 20 kg object during every moment of 30 seconds, with the same non-zero Force (effort) equal to 196 Newtons.
 
 In each of the 3 cases, during every moment, Orgamism is putting the same effort into the pushing.
+
+One more time,
+
+**In each of the 3 cases, during every moment, Orgamism is putting the same effort into the pushing.**
+
+Then, 
 
 **Since in each of the 3 cases, during every moment Organism is putting the same effort into the pushing and we exactly know that in Case #2 Organism, doing the pushing, is spending its Energy (resource) on this Work, then it means that in Case 1# and Case #3, Organism, doing the pushing, is also spending its Energy (resource) on this Work.**
 
