@@ -165,11 +165,11 @@ Organism, by its Hand, is pushing the 20 kg object during every moment of 30 sec
 
 In other words,
 
-In each of the 3 cases, during every moment, Orgamism is putting the same effort into the pushing.
+In each of the 3 cases, during every moment, Organism is putting the same effort into the pushing.
 
 One more time,
 
-**In each of the 3 cases, during every moment, Orgamism is putting the same effort into the pushing.**
+**In each of the 3 cases, during every moment, Organism is putting the same effort into the pushing.**
 
 Then, 
 
