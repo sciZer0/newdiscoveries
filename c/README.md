@@ -222,15 +222,13 @@ Importantly, there are Target Works and Non-Target Works.
 
 ## 2.4. Target Works and Non-Target Works
 
-So, there are Target Works and Non-Target Works.
+Target Work is the Work that is the target for Organism to be doing while working.
 
-Target Work is Work that is the target for Organism to be doing while working.
+Non-Target Work is any Work that isn't the target for Organism but is unavoidable for Organism to be doing while doing Target Work-- meaning is additional but unavoidable.
 
-Non-Target Work is Work that isn't the target for Organism but is unavoidable for Organism to be doing while doing Target Work-- meaning is additional but unavoidable.
+Target Work of Organism is the "outside" Work of Organism in relation of some "outside" object.
 
-Target Work of Organism is the outside Work of Organism in relation of some object.
-
-Non-Target Work is the inside Work of Organism that Organism must unavoidably be doing inside itself while doing Target Work.
+Non-Target Work is the "inside" Work of Organism that Organism must unavoidably be doing inside itself while doing Target Work.
 
 For example, for an Electric Motor (as an example of Organism):
 
