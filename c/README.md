@@ -186,9 +186,11 @@ Please if you did not understand this "bold" thing above, read it again.
 
 The New Concept of Work (Mechanical Work) is:
 
-> ### Mechanical Work (Work) is the process where Organism, by its Hand applying a certain non-zero Force (effort), is pushing an object during every moment of a certain time period.
+> ### Work (Mechanical Work) is the process where Organism, by its Hand applying a certain non-zero Force (effort), is pushing an object during every moment of a certain time period.
 
-Importantly -- applying a certain NON-ZERO Force (effort)!
+In other words,
+
+Work is when Organism is putting a certain NON-ZERO Force (effort) into the pushing.
 
 On the other hand, as we already know:
 
@@ -196,7 +198,7 @@ Energy is the resource for Organism to be doing Work.
 
 The New Concept of Energy is:
 
-> ### Energy is the resource for Organism to be, by its Hand, pushing an object in a certain direction during every moment of a certain time period, applying a certain non-zero Force (effort).
+> ### Energy is the resource for Organism to be pushing an object during every moment of a certain time period.
 
 In other words,
 
@@ -206,11 +208,11 @@ In other words,
 
 Now more on Work.
 
-Any Work is Mechanical Work.
+Any Work is the process of pushing, meaning is Mechanical Work.
 
 Any Work (Mechanical Work) is a push or combination of pushes.
 
-Even though some of Works might probably not seem to someone that these are Mechanical Work, in reality, any Work is a push or combination of pushes. I will give you just one example below.
+Even though some of Works might probably not seem to someone that these are  pushes (Mechanical Work), in reality, any Work is a push or combination of pushes, meaning is Mechanical Work. I will give you just one example below.
 
 The heating-up is also a combination of pushes, because any process of heating up an object is due to the increase in the velocities of particles inside the object. And the increase in the velocities of the particles occurs only because these particles are being pushed by some things ("Hands"). Therefore, any heating-up is a combination of pushes. And this means that the heating-up is Work and that Energy (some resource) is always being spent on this Work.
 
