@@ -81,10 +81,10 @@ In my opinion, in the most general sense,
 
 Or in other words,
 
-* Work is any activity of Organism that requires Energy (some resource)
-* Work is any activity of Organism that is reducing Energy (some resource)
+Work is any activity of Organism that requires Energy (some resource)
 
 On the other hand, 
+
 
 > ### Energy is the resource for Organism to be doing Work.
 
@@ -105,7 +105,6 @@ Let's consider the 3 cases simultaneously:
 In Case #1, a human is holding the 20 kg object motionless in the air during 30 seconds.<br>
 In Case #2, the 20 kg object is free-falling during 30 seconds.<br>
 In Case #3, the 20 kg object is sitting motionless on the table during 30 seconds.<br>
-
 
 What is happening in reality is the following:
 
@@ -163,6 +162,8 @@ Extremely importantly, in each of the 3 cases,
 
 Organism, by its Hand, is pushing the 20 kg object during every moment of 30 seconds, with the same non-zero Force (effort) equal to 196 Newtons.
 
+With the same non-zero Force (effort) equal to 196 Newtons.
+
 In other words,
 
 In each of the 3 cases, during every moment, Organism is putting the same effort into the pushing.
@@ -185,7 +186,7 @@ Please if you did not understand this "bold" thing above, read it again.
 
 The New Concept of Work (Mechanical Work) is:
 
-> ### Mechanical Work (Work) is the process where Organism, by its Hand applying a certain non-zero Force (effort), is pushing an object in a certain direction during every moment of a certain time period.
+> ### Mechanical Work (Work) is the process where Organism, by its Hand applying a certain non-zero Force (effort), is pushing an object during every moment of a certain time period.
 
 Importantly -- applying a certain NON-ZERO Force (effort)!
 
