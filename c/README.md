@@ -351,17 +351,17 @@ This fact was proven here: [link](https://github.com/sciZer0/newdiscoveries/tree
 
 Before I postulate the New Law of Conservation of Energy, it is needed to say that I had been loving the "old" law of Conservation of Energy for a long time.
 
-The "old" law is so beautiful and easily-understandable: 
+The "old" law is so beautiful and simple, meaning easily-understandable: 
 
-*Energy can neither be created nor destroyed — only converted from one form of Energy to another.*
+*Energy can neither be destroyed nor created — only converted from one form of Energy to another.*
 
 Even some cases proved this law.
 
-The law looked symmetrical, harmonious, ideal and true. 
+The law looked ideally-symmetrical and true. 
 
 I was loving it a lot.
 
-But, my findings prove that this law is just the "wishful thinking".
+But, my new findings prove that this law is just the "wishful thinking".
 
 And the "wishful thinking" isn’t useful in science.
 
@@ -371,9 +371,9 @@ Official science wrongly considers that Energy is only the thing that can always
 
 Below we will see this.
 
-Now, whether you like it or not, but the New Law of Conservation of Energy -- which is a true Law of Conservation of Energy -- is following:
+The New Law of Conservation of Energy is:
 
-> **In some cases, Energy can neither be created nor destroyed — only converted from one form of Energy to another, but in another cases, Energy can be taken for free or can be destroyed**
+> **In some cases, Energy can neither be destroyed nor created — only converted from one form of Energy to another, but in another cases, Energy can be destroyed or can be taken for free**
 
 Below we will see confirmation of this New Law of Conservation of Energy.
 
@@ -387,9 +387,10 @@ The New Formula for Workis is:
 </p>
 
 where,<br>
-W — Work being done by Organism while pushing an object, (measured in kilogram*meter/second: kg*m/s);<br>
-m — the mass of the pushed object (measured in kilograms: kg);<br>
-Target — the Target Acceleration: the acceleration that the given Force (Organism by its Hand), while pushing the object, is striving to give to the pushed object (measured in meter/second²: m/s²)
+W — Target Work being done by Organism while pushing an object, (measured in kilogram * meter / second: kg * m / s);<br>
+m — Mass of the pushed object (measured in kilograms: kg);<br>
+Target — Target Acceleration: the acceleration that the given Force (Organism by its Hand), while pushing the object, is striving to give to the pushed object (measured in meter/second²: m/s²);<br>
+t — Time of pushing the object, (measured in seconds: s).
 
 The New Formula for Energy is:
 
@@ -398,9 +399,10 @@ The New Formula for Energy is:
 </p>
 
 where,<br>
-E — Energy being spent by Organism while pushing an object, (measured in kilogram*meter/second: kg*m/s);<br>
-m — the mass of the pushed object (measured in kilograms: kg);<br>
-Target — the Target Acceleration: the acceleration that the given Force (Organism by its Hand), while pushing the object, is striving to give to the pushed object (measured in meter/second²: m/s²)
+E — Energy being spent by Organism on Target Work, (measured in kilogram * meter / second: kg * m / s);<br>
+m — Mass of the pushed object (measured in kilograms: kg);<br>
+Target — Target Acceleration: the acceleration that the given Force (Organism by its Hand), while pushing the object, is striving to give to the pushed object (measured in meter/second²: m/s²);<br>
+t — Time of pushing the object, (measured in seconds: s).
 
 
 The New Universal Formula for Work and Energy is:
