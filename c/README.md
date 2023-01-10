@@ -129,7 +129,7 @@ In Case #1, Hand is the human's hand (say, your hand).
 
 In Case #2 and Case #3, Hand is Gravitational Force (Invisible Hand). 
 
-So we may say that
+Let's call the thing by which Organism is pushing an object "Hand".
 
 > ### Hand is the thing by which Organism is pushing an object.
 
@@ -137,18 +137,25 @@ So we may say that
 
 ## 2.3. New Concept of Work and New Concept of Energy
 
-
 Let's again consider the 3 cases simultaneously:
 
 <p align="center">
   <img src="/assets/images/cases.png"/><br>
 </p>
 
-Importantly, in each of the 3 cases, Organism is doing the same action:
+Extremely importantly, in each of the 3 cases, 
 
-During every moment of 30 seconds, Organism, by its Hand applying the same non-zero Force (effort) equal to 196 Newtons, is pushing the object in a certain direction.
+> ### Organism, during every moment of 30 seconds, is pushing the 20 kg object in a certain direction by its Hand applying the same non-zero Force (effort) equal to 196 Newtons.
 
-**Since in each of the 3 cases, Organism is doing the same action and we exactly know that in Case #2 Organism, while doing the pushing, is doing Mechanical Work and is spending its Energy (resource) on this Work, then it means that in Case 1# and Case #3, Organism, while doing the pushing, is also doing Mechanical Work (Static Mechanical Work) and is also spending its Energy (resource) on this Work.**
+*More details on how to calculate Force (effort) in each of the 3 cases a bit below.*
+
+In each of the 3 cases, during every moment, Orgamism is putting the same effort into the pushing.
+
+**Since in each of the 3 cases, Organism is putting the same effort into the pushing and we exactly know that in Case #2 Organism, doing the pushing, is spending its Energy (resource) on this Work, then it means that in Case 1# and Case #3, Organism, doing the pushing, is also spending its Energy (resource) on this Work.**
+
+Moreover,
+
+**Since in each of the 3 cases, Organism is doing the same action and we exactly know that in Case #2 Organism, doing the pushing, is doing Mechanical Work and is spending its Energy (resource) on this Work, then it means that in Case 1# and Case #3, Organism, doing the pushing, is also doing Mechanical Work (Static Mechanical Work) and is also spending its Energy (resource) on this Work.**
 
 Bingo! Static Mechanical Work exists.
 
