@@ -234,9 +234,15 @@ Non-Target Work is the inside Work of Organism that Organism must unavoidably be
 
 For example, for an Electric Motor (as an example of Organism):
 
-* Target Work is to be pushing the shaft.
+* Target Work for Organism is to be pushing the shaft.
 
-* Non-Target Work is to be heating up while doing Target Work
+* Non-Target Work for Organism is to be heating up while doing Target Work
+
+For example, in Case #1:
+
+* Target Work for Organism is to be pushing the 20 kg object upwards.
+
+* Non-Target Work for Organism is to be heating up while doing Target Work
 
 In other words,
 
