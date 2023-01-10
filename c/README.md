@@ -45,6 +45,7 @@ All these fundamental errors together result in the endless series of errors in 
 2.5. New Concept of Force<br>
 2.6. Target Acceleration as the feature of each Force<br>
 2.7. New Formula for Force<br>
+2.8. New Law за Conservation of Energy
 2.10. New Understanding of the magnitude of Force<br>
 2.11. New Universal Formula for Work and Energy<br>
 2.12. New Unit of Measure for Work and Energy<br>
@@ -274,7 +275,7 @@ In other words:
   direction of the pushing</i>
 </p>
 
-For example, when your organism (in particular, your hand) is pushing a strong wall with some great effort,
+For example, when your organism, by your hand, is pushing a strong wall with some great effort,
 
 <p align="center">
   <img src="/assets/images/10.png"/><br>
@@ -285,26 +286,25 @@ your hand creates a push (process of pushing), and it means your hand creates Fo
 
 Of course, it all is so.
 
-But simultaneously,
+Plus simultaneously,
 
-Each Force is striving to accelerate Velocity of the pushed object.
+Each Force is striving to increase Velocity of the pushed object.
 
 In other words,
 
-Force is the process where Organism, pushing an object by its Hand, is striving to increase Velocity of the pushed object at the rate equal to Target Acceleration.**
+Force is the process where Organism, by its Hand, is pushing an object in a certain direction, striving (by the pushing) to increase Velocity of the pushed object.
 
 Note: strive means to make an effort to accomplish a target.
 
 The New Concept of Force is:
 
-> **Force is the process where Organism, pushing an object by its Hand, is spending, for every moment, the absolutely enough resource/energy to increase Velocity of the pushed object at the rate equal to Target Acceleration.
+> ### Force is the process where Organism, by its Hand, is pushing an object in a certain direction, striving (by the pushing) to increase Velocity of the pushed object at the rate equal to Target Acceleration.**.
 
+At the rate equal to Target Acceleration!
 
 --
 
 ## 2.6. Target Acceleration as the feature of each Force
-
-Target Acceleration as the feature of each Force is an important concept.
 
 In my opinion, each Force has its target.
 
@@ -312,16 +312,22 @@ For example, the target for Gravitational Force (Invisible Hand) -- while pushin
 
 Therefore, we can call this Acceleration of 9.8 (m/s²) “Target Acceleration” associated with Gravitational Force.
 
-Target Acceleration associated with Gravitational Force is always 9.8 (m/s²).
+Target Acceleration -- which is the target for Gravitational Force -- is always 9.8 (m/s²).
 
 Moreover, in reality, each Force, while pushing an object, has its target, meaning has such a characteristic as Target Acceleration.
 
-In other words, Target Acceleration is THE feature/attribute/characteristic of each Force.
+In other words, 
+
+Target Acceleration is THE feature/attribute/characteristic of each Force.
 
 > ### Target Acceleration is the acceleration that Force (Organism), while pushing an object, is striving to give to the pushed object.
 
-The concept of Target Acceleration works like the Butterfly Effect, this new concept changes everything in science.
+In other words,
 
+> ### Target Acceleration is the acceleration that Organism, by its Hand, while pushing an object, is striving to give to the pushed object.
+
+
+--
 
 ## 2.7. New Formula for Force
 
@@ -333,30 +339,17 @@ The New Formula for Force is:
 where,<br>
 F — the Force pushing an object (measured in Newtons: N);<br>
 m — the mass of the pushed object (measured in kilograms: kg);<br>
-Target — the Target Acceleration associated with the given Force (measured in meter/second²: m/s²)
-
-Please pay attention that
-
-the “Target” (in the formula) is namely Target Acceleration associated with the given Force, but not Real Acceleration of the pushed object,
-
-and also that
-
-each Force has its target, meaning that each Force has such a feature/attribute/characteristic as Target Acceleration.
+Target — the Target Acceleration: the acceleration that the given Force, while pushing an object, is striving to give to the pushed object (measured in meter/second²: m/s²)
 
 ---
 
-
-
-
-
-
-
-
 ## 2.8. New Law of Conservation of Energy
 
-All official formulas for calculating Work and Energy are absolutely wrong.
+As we already know, all official formulas for calculating Work and Energy are absolutely wrong.
 
-The wrongness of all the official formulas for calculating Work and Energy is a proven fact. The fact was proven [here](https://github.com/sciZer0/newdiscoveries/tree/main/a).
+The wrongness of all the official formulas for calculating Work and Energy is a proven fact. 
+
+This fact was proven here: [link](https://github.com/sciZer0/newdiscoveries/tree/main/a).
 
 Before I postulate the New Law of Conservation of Energy, it is needed to say that I had been loving the "old" law of Conservation of Energy for a long time.
 
@@ -376,7 +369,9 @@ And the "wishful thinking" isn’t useful in science.
 
 Truth is not what we should love a lot but what is in reality.
 
-Official science mistakenly considers that Energy is only the thing that can always be converted to another form Energy, but in reality Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be converted back to Energy.
+Official science wrongly considers that Energy is only the thing that can always be converted to another form Energy, but in reality Energy is just the resource that is being spent on Work. In some cases, the result of Work cannot be converted back to Energy.
+
+Below we will see this.
 
 Now, whether you like it or not, but the New Law of Conservation of Energy -- which is a true Law of Conservation of Energy -- is following:
 
