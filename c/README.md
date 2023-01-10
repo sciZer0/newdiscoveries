@@ -133,6 +133,12 @@ Let's call the thing by which Organism is pushing an object "Hand".
 
 > ### Hand is the thing by which Organism is pushing an object.
 
+So,
+
+In Case #1, Organism, by its Hand, is pushing the 20 kg object during 30 seconds.<br>
+In Case #2, Organism, by its Hand, is pushing the 20 kg object during 30 seconds.<br>
+In Case #3, Organism, by its Hand, is pushing the 20 kg object during 30 seconds.<br>
+
 --
 
 ## 2.3. New Concept of Work and New Concept of Energy
@@ -143,11 +149,17 @@ Let's again consider the 3 cases simultaneously:
   <img src="/assets/images/cases.png"/><br>
 </p>
 
-Extremely importantly, in each of the 3 cases, 
+In more detail,
 
-> ### Organism, during every moment of 30 seconds, is pushing the 20 kg object in a certain direction by its Hand applying the same non-zero Force (effort) equal to 196 Newtons.
+In Case #1, Organism, by its Hand, is pushing the 20 kg object during every moment of 30 seconds, with the same non-zero Force (effort) equal to 196 Newtons.<br>
+In Case #2, Organism, by its Hand, is pushing the 20 kg object during every moment of 30 seconds, with the same non-zero Force (effort) equal to 196 Newtons.<br>
+In Case #3, Organism, by its Hand, is pushing the 20 kg object during every moment of 30 seconds, with the same non-zero Force (effort) equal to 196 Newtons.<br>
 
 *More details on how to calculate Force (effort) in each of the 3 cases a bit below.*
+
+Extremely importantly, in each of the 3 cases, 
+
+Organism, by its Hand, is pushing the 20 kg object during every moment of 30 seconds, with the same non-zero Force (effort) equal to 196 Newtons.
 
 In each of the 3 cases, during every moment, Orgamism is putting the same effort into the pushing.
 
