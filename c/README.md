@@ -227,10 +227,6 @@ Target Work is the Work that is the target for Organism to be doing while workin
 
 Non-Target Work is any Work that isn't the target for Organism but is unavoidable for Organism to be doing while doing Target Work-- meaning is additional but unavoidable.
 
-Target Work of Organism is the "outside" Work of Organism in relation of some "outside" object.
-
-Non-Target Work is the "inside" Work of Organism that Organism must unavoidably be doing inside itself while doing Target Work.
-
 For example, for an Electric Motor (as an example of Organism):
 
 * Target Work for Organism is to be pushing the shaft.
@@ -243,15 +239,17 @@ For example, in Case #1:
 
 * Non-Target Work for Organism is to be heating up while doing Target Work
 
+As we can see,
+
+Non-Target Work is the "inside" Work of Organism that Organism must unavoidably be doing inside itself in order to have the possibility of doing its Target Work.
+
+The Universe as whole or each Organism separately works this way: each Target Work causes at least one Non-Target Work.
+
 In other words,
-
-Non-Target Work is the inside Work of Organism that Organism must unavoidably be doing inside itself in order to have the possibility of doing its Target Work.
-
-Summarizing,
 
 Non-Target Work is unavoidable for Organism and the amount of Energy which is being spent on Non-Target Work is just the "additional energy-price" that Organism is unavoidably "paying" in order to have the possibility of doing its Target Work.
 
-Of course, not all of Energies are spent on (are converted to) the Target Works. Those Energies that are spent on Non-Target Works, we consider our losses.
+Of course, not all of Energies are spent on (are converted to) Target Works. Those Energies that are spent on Non-Target Works, we consider our losses.
 
 --
 
@@ -326,12 +324,12 @@ In other words,
 
 > ### Target Acceleration is the acceleration that Organism, by its Hand, while pushing an object, is striving to give to the pushed object.
 
-
 --
 
 ## 2.7. New Formula for Force
 
 The New Formula for Force is:
+
 <p align="center">
   <img src="/assets/images/Target.png"/><br>
 </p>
@@ -345,7 +343,7 @@ Target — the Target Acceleration: the acceleration that the given Force, while
 
 ## 2.8. New Law of Conservation of Energy
 
-As we already know, all official formulas for calculating Work and Energy are absolutely wrong.
+Importantly, all official formulas for calculating Work and Energy are absolutely wrong.
 
 The wrongness of all the official formulas for calculating Work and Energy is a proven fact. 
 
@@ -380,6 +378,36 @@ Now, whether you like it or not, but the New Law of Conservation of Energy -- wh
 Below we will see confirmation of this New Law of Conservation of Energy.
 
 
+## 1.8. New Universal Formula for Work and Energy
+
+The New Formula for Workis is:
+
+<p align="center">
+  <img src="/assets/images/work.png"/><br>
+</p>
+
+where,<br>
+W — Work being done by Organism while pushing an object, (measured in kilogram*meter/second: kg*m/s);<br>
+m — the mass of the pushed object (measured in kilograms: kg);<br>
+Target — the Target Acceleration: the acceleration that the given Force (Organism by its Hand), while pushing the object, is striving to give to the pushed object (measured in meter/second²: m/s²)
+
+The New Formula for Energy is:
+
+<p align="center">
+  <img src="/assets/images/energy.png"/><br>
+</p>
+
+where,<br>
+E — Energy being spent by Organism while pushing an object, (measured in kilogram*meter/second: kg*m/s);<br>
+m — the mass of the pushed object (measured in kilograms: kg);<br>
+Target — the Target Acceleration: the acceleration that the given Force (Organism by its Hand), while pushing the object, is striving to give to the pushed object (measured in meter/second²: m/s²)
+
+
+The New Universal Formula for Work and Energy is:
+
+<p align="center">
+  <img src="/assets/images/we.png"/><br>
+</p>
 
 
 
