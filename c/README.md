@@ -163,6 +163,8 @@ Extremely importantly, in each of the 3 cases,
 
 Organism, by its Hand, is pushing the 20 kg object during every moment of 30 seconds, with the same non-zero Force (effort) equal to 196 Newtons.
 
+In other words,
+
 In each of the 3 cases, during every moment, Orgamism is putting the same effort into the pushing.
 
 One more time,
