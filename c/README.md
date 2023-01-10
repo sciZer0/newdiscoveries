@@ -27,8 +27,8 @@ But there is another fundamental errors:
 
 * the official concept of Work, being wrong
 * the official concept of Energy, being wrong
-* the official Law of conservation of Energy, being wrong
 * the official concept of Force, being wrong
+* the official Law of conservation of Energy, being wrong
 
 All these fundamental errors together result in the endless series of errors in science.
 
@@ -113,6 +113,8 @@ In Case #1, a human is pushing upwards the 20 kg object during 30 seconds.<br>
 In Case #2, the Universe is pushing downwards the 20 kg object during 30 seconds.<br>
 In Case #3, the Universe is pushing downwards the 20 kg object during 30 seconds.<br>
 
+Let's call anyone (anything) that can be pushing an object during some time “Organism” too.
+
 In Case #1, Organism is a human (say, you).
 
 In Case #2 and Case #3, Organism is the Universe/Nature.
@@ -123,7 +125,7 @@ Importantly, in each of the 3 cases,
 
 More importantly, in each of the 3 cases, 
 
-> ### Organism is pushing the 20 kg object by its "Hand".
+> ### Organism, by its "Hand", is pushing the 20 kg object.
 
 In Case #1, Hand is the human's hand (say, your hand).
 
