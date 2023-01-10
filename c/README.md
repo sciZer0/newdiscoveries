@@ -151,11 +151,11 @@ Extremely importantly, in each of the 3 cases,
 
 In each of the 3 cases, during every moment, Orgamism is putting the same effort into the pushing.
 
-**Since in each of the 3 cases, Organism is putting the same effort into the pushing and we exactly know that in Case #2 Organism, doing the pushing, is spending its Energy (resource) on this Work, then it means that in Case 1# and Case #3, Organism, doing the pushing, is also spending its Energy (resource) on this Work.**
+**Since in each of the 3 cases, during every moment Organism is putting the same effort into the pushing and we exactly know that in Case #2 Organism, doing the pushing, is spending its Energy (resource) on this Work, then it means that in Case 1# and Case #3, Organism, doing the pushing, is also spending its Energy (resource) on this Work.**
 
 Moreover,
 
-**Since in each of the 3 cases, Organism is doing the same action and we exactly know that in Case #2 Organism, doing the pushing, is doing Mechanical Work and is spending its Energy (resource) on this Work, then it means that in Case 1# and Case #3, Organism, doing the pushing, is also doing Mechanical Work (Static Mechanical Work) and is also spending its Energy (resource) on this Work.**
+**Since in each of the 3 cases, during every moment Organism is putting the same effort into the pushing and we exactly know that in Case #2 Organism, doing the pushing, is doing Mechanical Work and is spending its Energy (resource) on this Work, then it means that in Case 1# and Case #3, Organism, doing the pushing, is also doing Mechanical Work (Static Mechanical Work) and is also spending its Energy (resource) on this Work.**
 
 Bingo! Static Mechanical Work exists.
 
@@ -163,7 +163,7 @@ Please if you did not understand this "bold" thing above, read it again.
 
 The New Concept of Work (Mechanical Work) is:
 
-> ### Mechanical Work (Work) is the process when Organism, by its Hand applying a certain non-zero Force (effort), is pushing an object in a certain direction during every moment of a certain time period.
+> ### Mechanical Work (Work) is the process where Organism, by its Hand applying a certain non-zero Force (effort), is pushing an object in a certain direction during every moment of a certain time period.
 
 Importantly -- applying a certain NON-ZERO Force (effort)!
 
@@ -173,7 +173,13 @@ Energy is the resource for Organism to be doing Work.
 
 The New Concept of Energy is:
 
-> ### Energy is the resource for Organism to be pushing an object in a certain direction during every moment of a certain time period, by its Hand applying a certain non-zero Force (effort).
+> ### Energy is the resource for Organism to be, by its Hand, pushing an object in a certain direction during every moment of a certain time period, applying a certain non-zero Force (effort).
+
+In other words,
+
+> ### Mechanical Work (Work) is the process of pushing an object, with a certain Force (effort), during every moment of a certain time period.
+
+> ###  Energy is the resource for Organism to be pushing an object, with a certain Force (effort), during every moment of a certain time period.
 
 Now more on Work.
 
